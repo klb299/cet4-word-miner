@@ -1,0 +1,92 @@
+# 2023年3月 CET-4 加考（仿真真题语料，可替换为官方真题文本）
+#### 2023年3月 第1套
+
+## 听力 | News Report One
+@topic 新闻：一所医院用机器人运送药品与餐食
+@question 1. What is the news report mainly about?
+@choice A) A hospital that has started using delivery robots.
+@choice B) A new drug developed by researchers.
+@choice C) The shortage of nurses in local hospitals.
+@choice D) A training programme for medical staff.
+@body
+A city hospital has introduced a small fleet of robots to deliver medicine and meals to patients, and staff say the experiment has been successful. Each robot can carry up to thirty kilograms and moves along the corridors independently, stopping when a person or an object blocks its path. Nurses estimate that the robots save them several kilometres of walking every day, which they now spend on tasks that require human judgement. Patients, especially children, appear to enjoy the machines, though a few elderly patients found them strange at first. The hospital director emphasised that the robots were not introduced to replace workers, and that no member of staff had lost their job as a result. She added that the hospital would assess the programme after six months before deciding whether to buy more machines.
+
+## 选词填空 | The Value of Handwriting
+@topic 选词填空：手写是否还有价值
+@question 26. Why do some researchers study handwriting?
+@choice A) To sell more pens and paper.
+@choice B) To see how the brain reacts to writing by hand.
+@choice C) To train professional calligraphers.
+@choice D) To replace typing with writing.
+@question 27. What did the study of students find?
+@choice A) Those who wrote notes by hand learned more.
+@choice B) Typing notes was always better.
+@choice C) Neither method made any difference.
+@choice D) Students wrote too slowly to keep up.
+@question 28. Why does handwriting help memory?
+@choice A) It takes longer and forces the brain to process the content.
+@choice B) It makes the words look nicer.
+@choice C) It uses less energy than typing.
+@choice D) It avoids any distraction.
+@question 29. What is happening to handwriting in schools?
+@choice A) It is being taught more carefully.
+@choice B) It is receiving less time in the classroom.
+@choice C) It has become a required subject.
+@choice D) It is tested every year.
+@question 30. What is the author's attitude toward handwriting?
+@choice A) It is an outdated skill.
+@choice B) It still has value worth protecting.
+@choice C) It should replace digital tools.
+@choice D) It matters only to artists.
+@body
+Although keyboards have replaced pens in most offices, researchers argue that handwriting still has a valuable role in education. Experiments with young children show that those who form letters by hand recognise them more quickly and remember them longer than children who only tap them on a screen. The explanation seems to lie in the brain: writing by hand requires a sequence of precise movements, and this physical effort creates a stronger memory than simply choosing a letter from a list. Teachers who have observed the difference say that pupils also compose more carefully when they write slowly, because they cannot delete a sentence as easily as they can on a computer. None of this means that technology should be banned from the classroom. It suggests instead that handwriting deserves a place alongside it, particularly in the early years when children are still learning to shape their thoughts.
+
+## 长篇阅读 | Food Delivery and Packaging Waste
+@topic 段落匹配：外卖行业带来的包装垃圾问题
+@question 36. Food delivery has grown rapidly in recent years.
+@question 37. A single order can use several plastic containers.
+@question 38. Most of the packaging cannot be recycled easily.
+@question 39. Waste is now collecting in residential buildings.
+@question 40. Some companies have switched to biodegradable boxes.
+@question 41. Customers can choose not to receive disposable tableware.
+@question 42. The cost of greener packaging is a problem for small restaurants.
+@question 43. Rules on packaging waste differ from city to city.
+@question 44. The author says consumers must share the responsibility.
+@question 45. Technology alone cannot solve the problem.
+@body
+The rapid growth of food delivery has created an enormous amount of packaging waste, and cities are struggling to deal with it. A single order typically arrives with a plastic container, a paper bag, a set of disposable chopsticks and several small packets of sauce, most of which are used for a few minutes and then thrown away. Environmental groups estimate that the volume of this waste has increased several times over in the past five years. Some platforms have responded by making reusable containers an option, but customers rarely select it because it requires them to return the container. Local governments have tried to regulate the industry, yet rules that apply to restaurants are difficult to enforce when the meal is assembled in a different district from the one where it is eaten. Researchers suggest that the most effective measure would be a charge on single-use packaging, which would make customers think twice before ordering items they do not need.
+
+## 仔细阅读 | Passage One
+@topic 仔细阅读：为什么年轻人越来越不愿换工作
+@question 46. What does the passage mainly discuss?
+@choice A) The reasons why young workers stay in the same job.
+@choice B) The advantages of changing jobs frequently.
+@choice C) The unemployment rate among graduates.
+@choice D) New labour laws in large companies.
+@question 47. According to the passage, what do young employees value most?
+@choice A) A high salary and rapid promotion.
+@choice B) Predictable schedules and a stable atmosphere.
+@choice C) Opportunities to work abroad.
+@choice D) The chance to become managers quickly.
+@body
+For decades, the standard advice given to ambitious young workers was to change jobs every few years, since moving was the fastest way to raise a salary. Recent surveys suggest that the mood has shifted. A large proportion of employees under thirty now say they prefer to remain with their current employer, even when they receive offers that pay more. Their reasons are revealing. Many describe a working environment that has become unpredictable: projects appear without warning, meetings are scheduled late in the evening, and the boundary between work and private life has almost disappeared. In such circumstances, a familiar job where the rules are known feels less like a trap and more like a form of security. Employers who assume that money is the only factor misunderstand what has changed. Workers still care about pay, but they also weigh the cost of constant uncertainty, and increasingly they conclude that the price is too high. Companies that wish to attract young talent would do better to offer predictable schedules and genuine opportunities to learn than to compete on salary alone.
+
+## 仔细阅读 | Passage Two
+@topic 仔细阅读：天气预报越来越准，人们却越来越不信
+@question 50. What is the passage mainly about?
+@choice A) How weather forecasts are produced.
+@choice B) The gap between accurate forecasts and public trust.
+@choice C) The history of meteorology.
+@choice D) Why people should ignore short-term forecasts.
+@body
+Weather forecasting has improved dramatically. A three-day forecast today is as accurate as a one-day forecast was thirty years ago, thanks to better instruments, more powerful computers and a deeper understanding of the atmosphere. Yet surveys repeatedly show that a large part of the public does not trust the forecast, and the reasons have less to do with science than with communication. When a forecast states that there is a thirty percent chance of rain, many listeners interpret this as a promise that it will not rain, and feel cheated if it does. Scientists, meanwhile, mean something precise: that under similar conditions in the past, it rained three times out of ten. The misunderstanding is not the fault of the audience alone. Forecasters have been slow to explain probability in ordinary language, and television presenters often simplify the information until the uncertainty disappears. Some weather services have begun to experiment with clearer wording, and early results are encouraging. Trust, it seems, depends less on being right than on being understood.
+
+## 翻译 | 春节
+@topic 汉译英：春节的传统与现代变化（参考译文）
+@body
+The Spring Festival is the most important traditional festival in China. Families gather for a reunion dinner on New Year's Eve, and the dishes served often carry symbolic meanings: fish, for example, suggests that there will be a surplus every year. Children receive red envelopes containing money, and fireworks are set off to drive away bad luck. In recent years, however, some customs have changed. Many families now book their dinner in a restaurant instead of cooking at home, and a growing number of people send their greetings by phone rather than visiting in person. Despite these changes, the festival remains a moment when family ties are renewed.
+
+## 写作 | 范文
+@topic 写作：Should college students do part-time jobs?（参考范文）
+@body
+Opinions differ on whether college students should take part-time jobs. Some people worry that working reduces the time available for study and that students may become impatient with their courses. Others argue that experience gained outside the classroom is just as valuable as knowledge gained inside it. In my view, a part-time job is beneficial provided that it does not interfere with study. Such work teaches students to manage their time, to communicate with colleagues and to take responsibility for tasks they cannot simply abandon. These are qualities that employers look for and that lectures rarely teach. The key is moderation: a few hours a week is an education, while a full-time job is a distraction.

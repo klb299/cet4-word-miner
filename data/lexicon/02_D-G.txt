@@ -1,0 +1,153 @@
+# 格式：单词|词性|义项(用;分隔，带*者为四级常考义)|等级(A基础 B核心 C进阶)|搭配/派生提示
+daily|adj./adv.|*日常的;每天|A|daily routine 日常作息
+damage|n./v.|*损害,损坏;赔偿金|A|cause damage to 对…造成损害
+data|n.|*数据,资料|A|data analysis 数据分析
+deadline|n.|*截止日期,最后期限|B|meet the deadline 赶上期限
+debate|n./v.|*辩论,讨论|B|debate on/about 关于…的辩论
+decade|n.|*十年,十年期|A|over the past decade 在过去十年里
+decline|n./v.|*下降,衰退;婉拒|B|a sharp decline 急剧下降
+decorate|v.|*装饰,装修|A|
+decrease|n./v.|*减少,降低|A|decrease by 减少了
+defeat|v./n.|*击败;失败|A|
+defend|v.|*保卫;辩护|B|defend against 防御
+define|v.|*下定义;界定|B|be defined as 被定义为
+definitely|adv.|*肯定地,明确地|A|
+degree|n.|*程度;学位;度数|A|to some degree 在某种程度上
+delay|n./v.|*延误,推迟|A|delay doing 推迟做
+deliberate|adj.|*故意的;从容的|C|
+delicate|adj.|*精致的;微妙的;脆弱的|C|
+deliver|v.|*递送;发表;接生;实现(承诺)|A|deliver a speech 发表演讲
+demand|n./v.|*需求;要求|A|in great demand 需求量大
+demonstrate|v.|*证明,表明;演示;示威|B|demonstrate that 表明
+deny|v.|*否认;拒绝给予|B|deny doing 否认做过
+depart|v.|*离开,出发;背离|C|depart from 从…出发/偏离
+depend|v.|*依靠,取决于|A|depend on 取决于;rely on 同义
+deposit|n./v.|*存款;押金;沉积;存放|C|
+depress|v.|*使沮丧;使萧条|B|
+derive|v.|*得到;源于|C|derive from 源自
+describe|v.|*描述,形容|A|describe sb as 把某人描述为
+deserve|v.|*应得,值得|B|deserve to do 理应
+design|n./v.|*设计;图案;意图|A|be designed to 旨在
+desire|n./v.|*渴望,欲望|A|a desire for 对…的渴望
+despite|prep.|*尽管,虽然|A|despite the fact that 尽管
+destruction|n.|*破坏,毁灭|B|
+determine|v.|*决定,确定;下决心|A|be determined to do 决心做
+develop|v.|*发展;培养;开发;冲洗(照片)|A|develop a habit 养成习惯
+device|n.|*装置,设备;手段,策略;花招|B|electronic device 电子设备
+devote|v.|*奉献,投入|B|devote oneself to 献身于
+discipline|n./v.|*纪律;学科;训练;惩罚|B|
+discourage|v.|*使气馁;阻拦|B|discourage sb from 劝阻某人
+discover|v.|*发现,发觉|A|
+discuss|v.|*讨论,商议|A|
+disease|n.|*疾病|A|
+dismiss|v.|*解散;解雇;不予考虑|B|dismiss sb from 解雇
+display|n./v.|*展示,陈列;显示;表现|B|on display 展出
+dispose|v.|*处理,处置;使倾向于|C|dispose of 处理掉
+distinct|adj.|*截然不同的;清晰的|B|be distinct from 与…不同
+distinguish|v.|*区分,辨别|B|distinguish A from B 区分
+distribute|v.|*分发;分布|B|distribute among 在…之间分配
+diverse|adj.|*多样的,不同的|B|diverse cultures 多元文化
+domestic|adj.|*国内的;家庭的;驯养的|B|domestic market 国内市场
+dominate|v.|*支配,占主导地位|B|be dominated by 由…主导
+dramatic|adj.|*显著的,引人注目的;戏剧性的|B|a dramatic increase 急剧增长
+due|adj.|*应得的;到期的;由于|A|due to 由于
+duration|n.|*持续时间,期间|C|
+eager|adj.|*渴望的,热切的|A|be eager to do 渴望做
+earn|v.|*赚得,挣得;赢得|A|earn a living 谋生
+economic|adj.|*经济的,经济上的|A|economic growth 经济增长
+efficient|adj.|*高效的,效率高的|A|
+elaborate|adj./v.|*精心制作的;详细阐述|C|
+elect|v.|*选举;选择|B|
+element|n.|*元素;要素,成分|A|basic element 基本要素
+eliminate|v.|*消除,排除;淘汰|B|eliminate the need for 免去…的必要
+embarrass|v.|*使尴尬,使难堪|B|
+embrace|v./n.|*拥抱;欣然接受;包含|C|embrace change 接受变化
+emerge|v.|*出现,浮现;显露|B|emerge from 从…出现
+emergency|n.|*紧急情况,突发事件|B|in an emergency 在紧急情况下
+emphasize|v.|*强调,着重|B|emphasize the importance of 强调…的重要性
+employ|v./n.|*雇用;使用|A|be employed in 受雇于
+enable|v.|*使能够,使可能|B|enable sb to do 使某人能够做
+encounter|v./n.|*遭遇,遇到|B|encounter difficulties 遇到困难
+encourage|v.|*鼓励,激励;助长|A|encourage sb to do 鼓励某人做
+endure|v.|*忍受;持续|B|
+energy|n.|*能量;精力;能源|A|renewable energy 可再生能源
+engage|v.|*参与;雇用;订婚;吸引|B|engage in 从事
+enhance|v.|*提高,增强|B|enhance the quality 提升质量
+enormous|adj.|*巨大的,庞大的|B|
+enroll|v.|*登记,注册;招收|C|enroll in 报名参加
+ensure|v.|*确保,保证|B|ensure that 确保
+enthusiasm|n.|*热情,热忱|C|enthusiasm for 对…的热情
+entire|adj.|*全部的,整个的|A|
+entitle|v.|*给予权利;给…命名;使有资格|C|be entitled to 有权享有
+environment|n.|*环境,自然环境|A|protect the environment 保护环境
+equip|v.|*装备,配备|be equipped with 配备有
+equivalent|adj./n.|*相等的;等价物|C|be equivalent to 相当于
+error|n.|*错误,失误;误差|A|
+essential|adj./n.|*必不可少的;本质的;要素|B|be essential to 对…必不可少
+establish|v.|*建立,创立;确定;查明|A|establish a system 建立制度
+estimate|n./v.|*估计,估算|a rough estimate 粗略估计
+evaluate|v.|*评价,评估|B|evaluate the performance 评估表现
+eventually|adv.|*最终,终于|A|
+evidence|n.|*证据,迹象|A|evidence of/for …的证据
+exaggerate|v.|*夸大,夸张|C|
+exceed|v.|*超过,超出|B|exceed expectations 超出预期
+exchange|n./v.|*交换,交流;兑换|A|in exchange for 交换
+excite|v.|*使兴奋,激起|A|be excited about 对…感到兴奋
+exhausted|adj.|*疲惫不堪的;耗尽的|B|
+exhibit|v./n.|*展出;表现出;展品|B|
+existence|n.|*存在;生活(方式)|B|come into existence 产生
+expand|v.|*扩大,膨胀;详述|A|expand on 详述
+expense|n.|*费用,开支;代价|B|at the expense of 以…为代价
+expert|n./adj.|*专家;熟练的|A|an expert on 某方面的专家
+exploit|v./n.|*剥削;利用;开发;功绩|C|exploit resources 开发资源
+explore|v.|*探索,探究;勘探|A|explore the possibility 探索可能性
+expose|v.|*暴露;揭露;使接触|B|be exposed to 接触到/暴露于
+express|v./adj.|*表达;明确的;快递|A|express one's thanks 表示感谢
+extend|v.|*延伸;延长;扩展;给予|B|extend the deadline 延长期限
+external|adj.|*外部的,外来的|B|external factor 外部因素
+extraordinary|adj.|*非凡的,异常的|C|
+extreme|adj./n.|*极端的;极度的;极端|A|go to extremes 走极端
+facilitate|v.|*促进,使便利|C|facilitate communication 促进交流
+facility|n.|*设施,设备;便利|B|public facility 公共设施
+factor|n.|*因素,要素|A|key factor 关键因素
+fade|v.|*褪色;逐渐消失;凋谢|B|fade away 逐渐消失
+fail|v.|*失败;不及格;未能;衰退|A|fail to do 未能做
+familiar|adj.|*熟悉的;常见的;随便的|A|be familiar with 熟悉
+fascinate|v.|*使着迷,强烈吸引|B|be fascinated by 被…吸引
+favor|n./v.|*喜爱;帮忙;偏爱;有利于|A|in favor of 支持/有利于
+feasible|adj.|*可行的,行得通的|C|
+feature|n./v.|*特征,特点;特写;以…为特色|A|main feature 主要特征
+federal|adj.|*联邦的,联邦政府的|C|
+fee|n.|*费用,酬金|A|tuition fee 学费
+feedback|n.|*反馈,反馈意见|B|give feedback on 就…给反馈
+figure|n./v.|*数字;人物;身材;图形;认为,计算|A|figure out 弄明白
+finance|n./v.|*财政,金融;资金;资助|B|personal finance 个人理财
+flexible|adj.|*灵活的,可变通的;柔韧的|B|flexible working hours 弹性工作时间
+flourish|v.|*繁荣,兴旺;茁壮成长|C|
+fluctuate|v.|*波动,起伏|C|fluctuate between 在…之间波动
+focus|n./v.|*焦点,中心;聚焦,集中|A|focus on 专注于
+forbid|v.|*禁止,不许|B|forbid sb to do 禁止某人做
+forecast|n./v.|*预报,预测|B|weather forecast 天气预报
+formal|adj.|*正式的;形式上的|A|formal education 正规教育
+formulate|v.|*制定,规划;系统阐述|C|formulate a plan 制定计划
+fortune|n.|*财富;运气;命运|B|make a fortune 发财
+foundation|n.|*基础;地基;基金会;建立|A|lay a foundation 打基础
+framework|n.|*框架,结构;体制|C|within the framework of 在…框架内
+frequent|adj./v.|*频繁的;常去;频繁的|A|frequent visitor 常客
+frustrate|v.|*使沮丧;挫败|B|be frustrated with 对…感到沮丧
+fulfill|v.|*实现,履行;满足|B|fulfill a promise 履行承诺
+function|n./v.|*功能,作用;运转;函数|A|function as 起…作用
+fund|n./v.|*资金,基金;资助|A|raise funds 筹集资金
+fundamental|adj.|*基本的,根本的|B|fundamental change 根本性变化
+furthermore|adv.|*此外,而且|B|
+generate|v.|*产生,生成;发(电)|B|generate income 创造收入
+genuine|adj.|*真正的;真诚的|B|genuine concern 真诚的关心
+global|adj.|*全球的,全世界的|A|global warming 全球变暖
+goal|n.|*目标,目的;进球;球门|A|achieve a goal 实现目标
+govern|v.|*统治,管理;支配,影响|B|be governed by 受…支配
+gradual|adj.|*逐渐的,渐进的|A|gradual change 逐渐变化
+grant|n./v.|*助学金,拨款;授予;承认|B|take sth for granted 想当然
+grasp|v./n.|*抓住;理解,领会|B|grasp the meaning 理解含义
+grateful|adj.|*感激的,感谢的|A|be grateful to sb for 因…感谢某人
+guarantee|n./v.|*保证,担保;保修单|B|guarantee quality 保证质量
+guidance|n.|*指导,引导|A|under the guidance of 在…指导下

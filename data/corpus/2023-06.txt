@@ -1,0 +1,102 @@
+# 2023年6月 CET-4 第1套（仿真真题语料，可替换为官方真题文本）
+#### 2023年6月 第1套
+
+## 听力 | News Report One
+@topic 新闻：一座城市把废弃铁路改造成公园
+@question 1. What is the report mainly about?
+@choice A) The construction of a new railway line.
+@choice B) An abandoned railway turned into a public park.
+@choice C) A plan to reduce traffic in the city centre.
+@choice D) The history of the city's transport system.
+@body
+A railway line that had been abandoned for more than twenty years has been converted into a public park, and local residents have welcomed the change. The project cost relatively little, because the track and the bridges were already in place; workers mainly removed the waste and planted trees along the route. City officials say the park now attracts thousands of visitors every weekend, and that small businesses near the entrances have reported a noticeable increase in income. Similar projects in other countries suggest that the benefits last: once a green space is established, the surrounding neighbourhood tends to become more attractive to residents and investors alike. The city plans to extend the park by another two kilometres next year, although some residents worry that the noise will disturb the peace of the area.
+
+## 听力 | Passage Two
+@topic 短文：人工智能在课堂上的应用
+@question 3. What is the speaker's attitude towards AI in education?
+@choice A) Strongly negative.
+@choice B) Cautiously positive.
+@choice C) Completely neutral.
+@choice D) Enthusiastic and uncritical.
+@body
+Artificial intelligence has entered the classroom more quickly than most teachers expected. Software can now mark multiple-choice tests instantly, analyse a student's mistakes and recommend exercises that target exactly the points the student has not understood. Teachers who use such tools say they save several hours a week, which they can spend talking to students instead of correcting papers. Yet the technology has limits that are easy to overlook. A program may identify that an answer is wrong, but it cannot explain why a student chose it, and it certainly cannot notice that a child is tired, anxious or simply bored. Experienced teachers insist that learning is a social process, and that no machine can replace the encouragement a student receives from a person who knows them. The sensible approach, most educators agree, is to let the software do what it does well and to keep the human part of teaching where it belongs.
+
+## 选词填空 | Time Management
+@topic 选词填空：大学生时间管理调查
+@question 26. What does the survey show about college students?
+@choice A) They have more free time than they think.
+@choice B) They often overestimate what they can finish.
+@choice C) They never plan their study.
+@choice D) They sleep too much.
+@question 27. Why do students put off their assignments?
+@choice A) They cannot find the material.
+@choice B) They wait until the deadline creates pressure.
+@choice C) Their teachers do not check.
+@choice D) They have too many classes.
+@question 28. What is the advantage of planning the day in advance?
+@choice A) It removes the need to study.
+@choice B) It reduces the number of decisions to make.
+@choice C) It guarantees high grades.
+@choice D) It saves money.
+@question 29. What do the experts advise about interruptions?
+@choice A) They should be welcomed.
+@choice B) They should be limited to fixed periods.
+@choice C) They cannot be avoided.
+@choice D) They improve concentration.
+@question 30. What is the key message of the passage?
+@choice A) Time management can be learned.
+@choice B) Only clever people manage time well.
+@choice C) Technology solves all problems.
+@choice D) Sleep matters less than study.
+@body
+Many students complain that they never have enough time, but researchers who examined how students actually spend their days found a different picture. On average, undergraduates devoted less than three hours a day to study, while they spent almost five hours on their phones. The problem, the report suggests, is not a shortage of time but the absence of a schedule. Students who planned their week in advance reported far less stress than those who simply reacted to whatever appeared each morning. Interestingly, the students who performed best were not the ones who studied the longest, but those who divided their work into short periods with breaks in between. The authors recommend that universities teach time management as a practical skill, rather than assuming that students will acquire it by themselves during their first semester.
+
+## 长篇阅读 | The Digital Divide among Older People
+@topic 段落匹配：老年人面临的数字鸿沟
+@question 36. Public services are increasingly moving online.
+@question 37. Many older people lack the basic skills to use them.
+@question 38. Some are afraid of making an irreversible mistake.
+@question 39. Family members often act as informal teachers.
+@question 40. Community classes have been set up in some areas.
+@question 41. Devices are sometimes too expensive for a small pension.
+@question 42. Designers rarely consult older users.
+@question 43. The gap is widening as services become digital by default.
+@question 44. The author argues that access is a matter of equality.
+@question 45. Improvements would benefit users of every age.
+@body
+As services move online, older citizens are finding it harder to carry out ordinary tasks. Booking a hospital appointment, paying a bill or even buying a ticket may now require a smartphone and a certain amount of patience. Surveys indicate that a significant proportion of people over sixty-five feel anxious when they are asked to use an unfamiliar application, and that many of them depend on relatives to complete these tasks. The consequences go beyond inconvenience. Those who cannot manage digital services tend to withdraw from activities they once enjoyed, and this isolation is associated with poorer health. Several cities have responded with free training classes, where volunteers teach basic skills at a slow pace. Participants say the classes help not only because of the skills but because they reduce the fear of appearing foolish in front of younger people.
+
+## 仔细阅读 | Passage One
+@topic 仔细阅读：短视频流行对阅读习惯的冲击
+@question 46. What is the passage mainly concerned with?
+@choice A) The technology behind short videos.
+@choice B) The influence of short videos on attention and reading.
+@choice C) The history of video sharing platforms.
+@choice D) The business model of social media.
+@question 47. What do researchers say about short videos?
+@choice A) They improve memory in young children.
+@choice B) They train the brain to expect constant novelty.
+@choice C) They are harmless if watched in moderation.
+@choice D) They help students concentrate.
+@body
+Short videos have become the dominant form of online entertainment, and their appeal is easy to explain: they require almost no effort, they deliver a reward within seconds, and the next one begins before you have decided whether you want it. Psychologists warn that repeated exposure to this pattern trains the brain to expect constant novelty, which makes slower activities, such as reading a book or listening to a lecture, feel uncomfortable by comparison. Teachers report that some students now find it difficult to concentrate for more than a few minutes, and that they abandon a text as soon as it stops being immediately interesting. Defenders of the medium reply that short videos have their own value: they can spread knowledge quickly, and a well-made clip can explain a difficult concept more clearly than a page of prose. The research, however, suggests a distinction. Watching a video that requires you to think is very different from passively consuming an endless stream of clips chosen by an algorithm. The danger lies in the second habit, and it is a habit that is far easier to acquire than to break.
+
+## 仔细阅读 | Passage Two
+@topic 仔细阅读：为什么博物馆应该免费开放
+@question 50. What is the author's main argument?
+@choice A) Museums should charge higher fees to survive.
+@choice B) Free admission widens access to culture and education.
+@choice C) Museums are no longer relevant in the digital age.
+@choice D) Only large museums should be free.
+@body
+When a museum charges for admission, it sends a message about who the institution is for. A modest fee may seem harmless, but research consistently shows that it discourages precisely the visitors that public funding was intended to attract: families with low incomes, students, and people who have never visited a museum before and are unsure whether they would enjoy it. Countries that abolished entrance fees recorded a sharp increase in visitors, and, crucially, the new visitors were not the usual audience. Critics object that free admission reduces the income available for maintaining collections, and there is some truth in this. Yet several museums have found that visitors who enter for free spend more in the shop and café, and that donations from satisfied visitors partly replace the lost ticket revenue. A more serious objection is that crowded galleries damage the experience of those who come to study a particular object in silence. This problem can be managed by reserving certain hours for research. On the whole, the evidence favours opening the doors: a museum that is visited by the whole community is more likely to be defended by that community when budgets are cut.
+
+## 翻译 | 中国书法
+@topic 汉译英：中国书法艺术（参考译文）
+@body
+Chinese calligraphy is a traditional art that has been practised for more than two thousand years. It is not merely a way of writing characters but a form of artistic expression, in which the strength and rhythm of each stroke reveal the writer's mood and personality. People who practise calligraphy say that it requires patience and concentration, and that the process itself brings a sense of peace. In recent years, more and more young people have begun to learn it, and some schools have introduced it as an elective course. Experts believe that this traditional art will continue to develop as long as it is passed on to younger generations.
+
+## 写作 | 范文
+@topic 写作：The importance of developing a hobby（参考范文）
+@body
+A hobby may seem like a small thing in a busy life, but I believe it matters more than many people realise. First, a hobby offers a break from the pressure of work or study, and this rest actually improves our efficiency when we return to our tasks. Second, it allows us to develop abilities that our formal education ignores, such as patience, creativity and the courage to fail in public. Finally, hobbies often bring us into contact with people we would never otherwise meet. Of course, a hobby should not become another burden. The point is not to become excellent at something, but to enjoy the process. For these reasons, I think everyone should keep at least one activity that has nothing to do with their job.

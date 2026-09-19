@@ -1,0 +1,66 @@
+# 10_BasicVerbs.txt — 基础动词与其常用变形
+# 覆盖语料里出现频率最高、却长期缺失的一批动词。这些词考的不是"认不认识"，
+# 而是搭配：take part in / make sure / give up / keep in touch 之类。
+# 格式：单词|词性|义项(;分隔,*为常考义)|等级|搭配提示
+
+make|v.|*使得,让;做,制造;成为;构成|A|make sure 确保
+take|v.|*拿,取;花费(时间);乘坐;接受|A|take part in 参加
+give|v.|*给,提供;产生;让步|A|give up 放弃
+keep|v.|*保持,继续;保存;饲养|A|keep in touch 保持联系
+need|v./n.|*需要;必须;需求|A|in need of 需要
+show|v./n.|*显示,表明;展示;演出|A|show up 出现
+learn|v.|*学习;得知;记住|A|learn from 向…学习
+use|v./n.|*使用;利用;用途|A|make use of 利用
+help|v./n.|*帮助;有助于;帮手|A|help oneself 自便
+feel|v.|*感觉,觉得;认为;触摸|A|feel like 想要
+think|v.|*认为,觉得;思考;想起|A|think of 想到
+understand|v.|*理解,懂得;认为;体谅|A|make oneself understood 把话说清楚
+write|v.|*写,书写;写作;写信|A|write down 写下
+choose|v.|*选择;决定;愿意|A|choose from 从…中挑选
+explain|v.|*解释,说明;为…辩解|A|explain away 搪塞过去
+teach|v.|*教,讲授;教导|A|teach oneself 自学
+worry|v./n.|*担心,发愁;烦恼|A|worry about 担心
+enjoy|v.|*享受,喜爱;拥有|A|enjoy oneself 玩得开心
+deal|v./n.|*处理,应对;交易;大量|A|deal with 处理
+say|v.|*说,讲;表明;据说|A|that is to say 也就是说
+place|v./n.|*放置;地方,场所;职位|A|take place 发生
+form|v./n.|*形成;构成;表格;形式|A|in the form of 以…形式
+mark|v./n.|*标记;分数;标志;痕迹|A|question mark 问号
+cost|v./n.|*花费;使付出;成本;代价|A|at the cost of 以…为代价
+clear|adj./v.|*清楚的;明显的;清除;晴朗的|A|make clear 说明
+own|adj./v.|*自己的;拥有;承认|A|on one's own 独自
+better|adj./adv.|*更好的;更好地;改善|A|had better 最好
+best|adj./adv.|*最好的;最好地|A|make the best of 充分利用
+first|adj./adv.|*第一的;首先;最初的|A|at first 起初
+second|adj./n.|*第二的;秒;瞬间|A|in a second 马上
+past|adj./n./prep.|*过去的;过去;经过|A|in the past 在过去
+alone|adj./adv.|*独自的;仅仅;单独地|A|leave alone 不打扰
+free|adj./v.|*免费的;自由的;空闲的;释放|A|free of charge 免费
+great|adj.|*伟大的;巨大的;极好的|A|a great deal of 大量的
+same|adj.|*相同的;同样的|A|at the same time 同时
+new|adj.|*新的;新鲜的;新来的|A|brand new 全新的
+only|adj./adv.|*唯一的;仅仅;只不过|A|not only...but also 不仅…而且
+other|adj./pron.|*其他的;另外的;另一个|A|each other 互相
+another|adj./pron.|*另一个;再一个|A|one another 互相
+others|pron.|*其他人;其他物|A|—
+several|adj./pron.|*几个;若干|A|—
+both|adj./pron.|*两个都;双方|A|both...and 既…又
+few|adj./pron.|*很少的;不多的;几个|A|a few 几个
+many|adj./pron.|*许多的;许多|A|many a 许多
+much|adj./adv.|*许多的;非常;…得多|A|too much 太多
+most|adj./adv.|*大多数的;最;非常|A|most of all 最重要的是
+less|adj./adv.|*较少的;更少地;不如|A|less than 少于
+least|adj./adv.|*最少的;最小;起码|A|at least 至少
+more|adj./adv.|*更多的;更;另外的|A|more or less 差不多
+every|adj.|*每一个;所有的;每隔|A|every other day 每隔一天
+each|adj./pron.|*每个;各自|A|each other 互相
+all|adj./pron.|*所有的;全部;一切|A|after all 毕竟
+some|adj./pron.|*一些;某个;大约|A|some day 有一天
+any|adj./pron.|*任何的;一些;丝毫|A|in any case 无论如何
+no|adj./adv.|*没有;不是;一点也不|A|no longer 不再
+one|num./pron.|*一个;某个;人们|A|one by one 一个接一个
+two|num.|*二;两个|A|—
+three|num.|*三;三个|A|—
+five|num.|*五;五个|A|—
+thousand|num./n.|*一千;成千上万|A|thousands of 成千上万的
+millions|n.|*数百万;大量|A|millions of 数百万的

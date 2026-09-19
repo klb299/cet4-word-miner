@@ -1,0 +1,27 @@
+把你自己找来的四级真题放进这个文件夹，然后回到项目根目录重跑：
+
+    python run.py
+
+支持三种形式：
+
+1. 纯文本 .txt / .md
+   文件名里带年份和题型会自动识别，例如：
+     2024-06-仔细阅读.txt
+     2023年12月听力.txt
+   内容直接粘真题原文即可，空行分段。
+
+2. 带标记的结构化文本（推荐，能保留题目情境与原题）
+   #### 2024年6月 第1套
+   ## 仔细阅读 | Passage One
+   @topic 远程办公对城市通勤的影响
+   @question 46. What does the author say about remote work?
+   @choice A) It reduces commuting.
+   @choice B) It increases productivity.
+   @body
+   Remote work has reshaped the daily routine of millions of employees...
+
+3. PDF
+   装了 pymupdf 或 pdfminer.six 就能直接读：
+   pip install pymupdf
+
+本文件不会被解析，可随意修改或删除。

@@ -1,0 +1,33 @@
+# 09_Function.txt — 功能词与连接词
+# 这些词不构成"生词"，但它们是理解长难句的骨头。370 分档的典型卡点不是单词认不认识，
+# 而是句子里 however/because/while/although 一出现就断片。全部标 A（最高优先级）。
+# 格式：单词|词性|义项(;分隔,*为常考义)|等级|搭配提示
+
+although|conj.|*虽然,尽管;然而|A|although it is hard 尽管很难
+though|conj./adv.|*虽然,尽管;不过,然而|A|even though 即使
+because|conj.|*因为;由于|A|because of 因为
+since|conj./prep./adv.|*因为,既然;自从…以来;此后|A|since then 从那以后
+while|conj./n.|*当…的时候;然而;虽然;一会儿|A|for a while 一会儿
+whether|conj.|*是否;不管,无论|A|whether or not 是否
+unless|conj.|*除非;如果不|A|unless stated otherwise 除非另有说明
+if|conj.|*如果;是否;即使|A|as if 好像
+instead|adv.|*代替;反而,却|A|instead of 代替
+besides|adv./prep.|*此外,而且;除…之外|A|besides that 除此之外
+so|adv./conj.|*所以;如此,这么;因此|A|so that 以便
+such|adj./pron.|*这样的;上述的;如此的|A|such as 例如
+as|conj./prep./adv.|*因为;当…时;作为;和…一样|A|as well as 以及
+than|conj./prep.|*比;与…相比|A|more than 超过
+because of|prep.|*因为,由于|A|—
+according to|prep.|*根据,按照;据…所说|A|—
+due to|prep.|*由于;应归于|A|—
+along with|prep.|*连同…一起;与…一道|A|—
+rather than|conj.|*而不是;与其…|A|—
+as well|adv.|*也,同样;还不如|A|as well as 也,和
+at least|adv.|*至少;起码|A|—
+for example|adv.|*例如;比如|A|—
+in fact|adv.|*事实上;其实|A|—
+on the other hand|adv.|*另一方面|A|—
+in addition|adv.|*此外;另外|A|—
+as a result|adv.|*结果;因此|A|—
+for instance|adv.|*例如|A|—
+in other words|adv.|*换句话说|A|—

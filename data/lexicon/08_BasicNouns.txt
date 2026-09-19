@@ -1,0 +1,119 @@
+# 格式：单词|词性|义项(用;分隔，带*者为四级常考义)|等级(A基础 B核心 C进阶)|搭配/派生提示
+# 08_BasicNouns：补齐前七个文件漏收的四级最基础实词。
+# 这批词在真题语料里出现频次最高（people 55 次、students 55 次、time 29 次…），
+# 但此前不在词库中，导致词表虽大却漏掉了最该背的词。
+
+# —— 人 / 学习者 ——
+person|n.|*人;个人;身体;外表;人称|A|in person 亲自
+people|n.|*人们;人民;民族;国民;家人|A|young people 年轻人
+student|n.|*学生;大学生;研究者|A|college student 大学生
+teacher|n.|*教师,老师;导师|A|head teacher 校长
+child|n.|*儿童,小孩;子女;产物|A|only child 独生子女
+researcher|n.|*研究者,调查者|B|a team of researchers 研究团队
+visitor|n.|*参观者,访问者;游客;来访者|A|visitors to 到…的参观者
+customer|n.|*顾客,客户|A|customer service 客户服务
+employee|n.|*雇员,员工|B|full-time employee 全职员工
+employer|n.|*雇主,老板|B|former employer 前雇主
+manager|n.|*经理;管理者;主教练|A|sales manager 销售经理
+graduate|n./v.|*毕业生;毕业;大学毕业|A|graduate from 毕业于
+pupil|n.|*小学生,学生;瞳孔|B|primary school pupil 小学生
+
+# —— 时间 ——
+time|n.|*时间;次,回;时代;时机;倍数|A|at the same time 同时
+year|n.|*年;年份;学年;岁|A|over the years 多年来
+day|n.|*天,日;白天;时期;全盛期|A|these days 如今
+month|n.|*月,月份;一个月时间|A|last month 上个月
+period|n.|*时期,阶段;一段时间;一节课;句号|A|a period of time 一段时间
+century|n.|*世纪,百年|A|the 21st century 二十一世纪
+
+# —— 生活 / 社会 ——
+city|n.|*城市,都市;全市居民|A|city centre 市中心
+school|n.|*学校;学院;上学期间;学派|A|at school 在上学
+university|n.|*大学;综合性大学|A|go to university 上大学
+education|n.|*教育;培养;教育学|A|higher education 高等教育
+health|n.|*健康;卫生;保健|A|health care 医疗保健
+life|n.|*生活;生命;一生;生命力;生涯|A|daily life 日常生活
+money|n.|*钱,货币;财富;收入|A|make money 赚钱
+food|n.|*食物,食品;养料|A|food waste 食物浪费
+course|n.|*课程;过程;进程;路线;一道菜|A|of course 当然
+home|n./adv.|*家;家乡;住所;在家;回家|A|at home 在家
+family|n.|*家庭;家人;家族;子女|A|family member 家庭成员
+parent|n.|*父亲,母亲;家长;根源|A|single parent 单亲家长
+job|n.|*工作;职业;职责;活儿|A|part-time job 兼职工作
+company|n.|*公司;陪伴;同伴;连队|A|a large company 大公司
+market|n./v.|*市场;集市;需求;销售;推销|A|on the market 在市场上
+government|n.|*政府;治理;管理;政体|B|local government 地方政府
+society|n.|*社会;社团;协会;交际|B|modern society 现代社会
+culture|n.|*文化;文明;教养;培养;栽培|A|cultural difference 文化差异
+history|n.|*历史;来历;病史|A|in history 在历史上
+language|n.|*语言;语言文字;措辞;风格|A|foreign language 外语
+problem|n.|*问题,难题;习题|A|solve a problem 解决问题
+information|n.|*信息,资料;情报;通知|A|a piece of information 一条信息
+technology|n.|*技术,工艺;科技|A|new technology 新技术
+science|n.|*科学;理科;学科|A|science and technology 科学技术
+study|n./v.|*学习;研究;书房;仔细察看|A|a study of 一项关于…的研究
+work|n./v.|*工作;职业;作品;起作用;运转|A|at work 在工作
+value|n./v.|*价值;价格;重要性;重视;评价|A|of great value 很有价值
+change|n./v.|*变化;零钱;改变;更换|A|climate change 气候变化
+part|n.|*部分;角色;零件;地区;参与|A|take part in 参加
+number|n./v.|*数字;号码;数量;编号|A|a number of 许多
+group|n./v.|*组,群;团体;分组;归类|A|a group of 一群
+member|n.|*成员,会员;组成部分|A|family member 家庭成员
+level|n./adj.|*水平;级别;层次;高度;水平的|A|at the same level 在同一水平
+
+# —— 自然 / 环境 ——
+nature|n.|*自然;本性;性质;种类|A|in nature 本质上
+noise|n.|*噪音,噪声;喧闹声;杂音|A|make noise 制造噪音
+traffic|n.|*交通;来往车辆;运输量|A|traffic jam 交通堵塞
+lane|n.|*小路;车道;小巷;泳道|B|bike lane 自行车道
+road|n.|*路,道路;途径;公路|A|on the road 在路上
+space|n.|*空间;太空;空地;间隔|A|open space 空地
+area|n.|*地区;面积;领域;范围|A|rural area 农村地区
+
+# —— 教育 / 学习 ——
+knowledge|n.|*知识;学问;了解;认识|A|a good knowledge of 对…很了解
+skill|n.|*技能,技巧;熟练;本领|A|communication skills 沟通技巧
+experience|n./v.|*经验;经历;体验;经历|A|work experience 工作经验
+attention|n.|*注意,注意力;照料;关注|A|pay attention to 注意
+question|n./v.|*问题;疑问;质疑;询问|A|ask a question 提问
+reason|n./v.|*原因,理由;理性;推理|A|the reason for …的原因
+effect|n.|*效果;影响;作用;结果|A|have an effect on 对…有影响
+cause|n./v.|*原因;理由;事业;引起;导致|A|the cause of …的原因
+method|n.|*方法,办法;条理|B|a new method 一种新方法
+purpose|n.|*目的;意图;用途;决心|B|on purpose 故意
+example|n.|*例子;榜样;范例|A|for example 例如
+development|n.|*发展;开发;进展;成长|A|economic development 经济发展
+condition|n.|*条件;状况;环境;前提|A|under the condition 在…条件下
+
+# —— 常见形容词 / 动词（真题高频） ——
+difficult|adj.|*困难的;难对付的;难以取悦的|A|be difficult to do 难以做
+different|adj.|*不同的;各种各样的;与众不同的|A|be different from 与…不同
+important|adj.|*重要的;有影响力的;重大的|A|it is important to 重要的是
+possible|adj.|*可能的;可行的;潜在的|A|as soon as possible 尽快
+common|adj.|*常见的;共同的;普通的;平常的|A|in common 共同
+local|adj./n.|*当地的;本地的;局部的;本地人|A|local people 当地人
+large|adj.|*大的;大量的;广泛的|A|a large number of 大量的
+small|adj.|*小的;少量的;年幼的;微不足道的|A|a small amount of 少量的
+young|adj./n.|*年轻的;幼小的;年轻人;幼崽|A|young people 年轻人
+short|adj.|*短的;矮的;短暂的;缺乏的|A|be short of 缺少
+high|adj./adv.|*高的;高度的;高级的;高地|A|high school 高中
+low|adj./adv.|*低的;矮的;低级的;低声地|A|low income 低收入
+early|adj./adv.|*早的;早期的;提早地|A|early in the morning 一大早
+late|adj./adv.|*晚的;迟到的;已故的;晚地|A|be late for 迟到
+easy|adj.|*容易的;轻松的;安逸的|A|it is easy to 容易做
+hard|adj./adv.|*困难的;硬的;努力的;努力地;猛烈地|A|work hard 努力工作
+always|adv.|*总是;一直;永远|A|as always 一如往常
+usually|adv.|*通常,经常|A|usually do 通常会
+finally|adv.|*最后;终于;最终|A|finally arrive 最终到达
+therefore|adv.|*因此,所以|A|therefore, 因此
+become|v.|*变成,成为;变得;适合|A|become aware of 意识到
+seem|v.|*似乎,好像;看来|A|it seems that 似乎
+believe|v.|*相信;认为;信任;信仰|A|believe in 信任
+expect|v.|*期望;预料;认为;要求|A|be expected to 被期望
+provide|v.|*提供;供给;规定|A|provide sb with 为某人提供
+allow|v.|*允许;准许;给予;考虑到|A|allow sb to do 允许某人做
+lead|v./n.|*带领;引导;领先;导致;线索|A|lead to 导致
+follow|v.|*跟随;遵循;听懂;结果是|A|follow the rules 遵守规则
+appear|v.|*出现;显得;似乎;出场|A|appear to be 似乎是
+exist|v.|*存在;生存;活着|B|exist in 存在于
+matter|n./v.|*事情;问题;物质;要紧;有关系|A|no matter what 无论什么

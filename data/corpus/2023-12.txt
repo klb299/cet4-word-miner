@@ -1,0 +1,107 @@
+# 2023年12月 CET-4 第1套（仿真真题语料，可替换为官方真题文本）
+#### 2023年12月 第1套
+
+## 听力 | News Report One
+@topic 新闻：某大学为毕业生开设就业指导课程
+@question 1. What is the news mainly about?
+@choice A) A job fair held on campus.
+@choice B) A career guidance programme for graduates.
+@choice C) The rising unemployment rate in the city.
+@choice D) A survey of employers' needs.
+@question 2. What do employers complain about?
+@choice A) Graduates expect too high a salary.
+@choice B) Graduates lack practical skills and communication ability.
+@choice C) Graduates refuse to work in small cities.
+@choice D) Graduates change jobs too frequently.
+@body
+A university in the region has launched a programme to help graduates find suitable jobs, and the response has been positive. The courses cover practical skills that students rarely practise in class, including how to write a clear résumé, how to behave in an interview and how to assess an offer. Local companies were invited to take part, and several of them now send managers to give talks each semester. Employers who joined the programme said graduates were generally well prepared in theory but often lacked the ability to communicate with clients. They added that many applicants seemed reluctant to start at the bottom of an organisation, although this was how most successful managers had begun. The university says it will evaluate the results at the end of the year and, if the evidence is favourable, it will extend the courses to students in their second year.
+
+## 听力 | Passage Two
+@topic 短文：外卖食品与大学生饮食习惯调查
+@question 3. What did the survey find about students' eating habits?
+@choice A) Most of them cook for themselves.
+@choice B) Takeaway food has become a daily habit for many.
+@choice C) They prefer to eat in the school canteen.
+@choice D) They rarely eat breakfast.
+@body
+A survey conducted among three thousand students has revealed a clear trend in their eating habits. More than half of them order takeaway food at least three times a week, and nearly a quarter say they rely on it almost every day. The most common reasons given were convenience and the pressure of a tight schedule, rather than the taste of the food. Researchers also found that students who ordered frequently consumed far more oil and salt than the amount recommended by health experts, and that they were less likely to eat vegetables regularly. Several universities have responded by improving the quality of their canteens and by publishing the calorie information of each dish. Whether these measures will change behaviour remains to be seen, but nutritionists insist that the first step is simply to make students aware of what they are eating.
+
+## 选词填空 | Volunteering among Young People
+@topic 选词填空：青年志愿服务参与情况
+@question 26. What do the figures show about youth volunteering?
+@choice A) It has declined sharply.
+@choice B) It has grown slowly but steadily.
+@choice C) It has never been measured.
+@choice D) It is limited to rural areas.
+@question 27. What is the main reason young people give for volunteering?
+@choice A) To earn money.
+@choice B) To gain experience and meet people.
+@choice C) To satisfy their teachers.
+@choice D) To leave home.
+@question 28. What problem do voluntary organizations face?
+@choice A) Too many applicants.
+@choice B) The irregular time students can offer.
+@choice C) A shortage of tasks.
+@choice D) Government restrictions.
+@question 29. How do some universities support volunteering?
+@choice A) By making it a condition of graduation.
+@choice B) By paying students for their hours.
+@choice C) By cancelling all classes.
+@choice D) By building new halls.
+@question 30. What is the author's conclusion?
+@choice A) Volunteering benefits both sides.
+@choice B) Students should study instead.
+@choice C) The trend will soon end.
+@choice D) Only charities gain from it.
+@body
+Volunteering has become increasingly popular among young people, and universities now regard it as an important part of education. Students who take part in community service say they gain more than they give: they learn to cooperate with people from different backgrounds, and they often discover abilities they did not know they possessed. Organisers point out that the benefits are not limited to the volunteers themselves. In rural schools, for example, volunteer teachers have helped to reduce the shortage of staff and have introduced courses that the schools could not otherwise offer. There are difficulties, however. Some projects last only a few days, which is too short to produce any lasting effect, and a few students admit that they join merely to add a line to their résumé. Experienced organisers suggest that programmes should be designed around the needs of the community rather than the convenience of the volunteers.
+
+## 长篇阅读 | The Sharing Economy
+@topic 段落匹配：共享单车与共享经济的发展与问题
+@question 36. Shared bicycles were introduced into many cities at once.
+@question 37. Convenience is the main attraction for users.
+@question 38. Companies competed by putting more bikes on the street.
+@question 39. Piles of broken bicycles became a common sight.
+@question 40. Some city governments capped the number of vehicles.
+@question 41. Repairs and redistribution cost more than expected.
+@question 42. Most operators could not make a profit.
+@question 43. Deposits paid by users became a source of public concern.
+@question 44. The author says the idea was sound but the execution was not.
+@question 45. Sharing schemes must fit the city rather than the other way round.
+@body
+The sharing economy was once described as the future of consumption, and in a few years it has indeed transformed the way many people travel and rent accommodation. Bike-sharing schemes, in particular, expanded with extraordinary speed: companies placed millions of bicycles on the streets of cities that had no infrastructure for them, and for a while the pavements were blocked by machines nobody was using. The result was a classic case of over-investment. Several firms collapsed, leaving behind piles of damaged bicycles and angry customers who could not recover their deposits. City governments eventually intervened, limiting the number of bicycles each company could operate and requiring them to repair what they had abandoned. The industry is now more stable, though far smaller than its promoters predicted. Economists draw a broader lesson: a business model that depends on unlimited growth will eventually meet the limits of the physical world.
+
+## 仔细阅读 | Passage One
+@topic 仔细阅读：大学是否应该取消期末考试
+@question 46. What is the passage mainly about?
+@choice A) The advantages of continuous assessment.
+@choice B) The debate over whether final exams should be abolished.
+@choice C) The stress experienced by university students.
+@choice D) New methods of teaching at university.
+@question 47. What is the main argument against final exams?
+@choice A) They are too difficult for average students.
+@choice B) They measure memory rather than real understanding.
+@choice C) They cost universities too much money.
+@choice D) They are unfair to students from rural areas.
+@body
+Every summer, students sit in crowded halls and try to recall, in three hours, everything they were supposed to have learned in a semester. Critics argue that this ritual measures memory under pressure rather than genuine understanding, and that a single afternoon should not determine a student's grade. They propose continuous assessment instead: essays, projects and short tests spread across the term, which they claim give a fairer picture of a student's ability. Supporters of the traditional exam reply that it has one virtue no alternative has matched: it is difficult to cheat when hundreds of students answer the same questions at the same time under supervision. They also point out that continuous assessment places a heavy burden on teachers, who must mark far more work, and that students in such systems often complain about the constant pressure of deadlines. The evidence from universities that have made the change is mixed. Grades tend to rise, partly because students are assessed on their best work rather than their worst day, but employers sometimes complain that they can no longer compare graduates from different institutions. Perhaps the sensible conclusion is that both methods have weaknesses, and that a combination, carefully designed for each subject, serves students better than any single system.
+
+## 仔细阅读 | Passage Two
+@topic 仔细阅读：城市绿地对居民健康的影响
+@question 50. What have researchers found about green space?
+@choice A) It mainly improves the value of nearby houses.
+@choice B) It is associated with better physical and mental health.
+@choice C) It reduces crime in every neighbourhood.
+@choice D) It costs more than it is worth.
+@body
+City planners have long suspected that parks are good for residents, and a growing body of research now supports that intuition. In a study that compared districts with similar income levels, residents who lived within a ten-minute walk of a park reported fewer symptoms of anxiety and were more likely to exercise regularly. The effect was modest but remarkably consistent across different cities and climates. What is less clear is the direction of the relationship. People who already value exercise may choose to live near parks, which means the park itself may not be the cause of their better health. Researchers who tried to control for this factor still found a measurable benefit, though a smaller one. There is also evidence that green space reduces the temperature of dense urban areas during heat waves, and that trees filter pollutants from the air. Critics warn, however, that new parks can raise property prices and push poorer residents out of the neighbourhood they were meant to serve. The challenge for planners, therefore, is not simply to plant more trees but to ensure that the people who need green space most can afford to stay near it.
+
+## 翻译 | 中国茶文化
+@topic 汉译英：中国茶文化的历史与内涵（参考译文）
+@body
+Tea has been drunk in China for thousands of years, and it occupies a special place in Chinese culture. People do not simply regard tea as a drink; they also associate it with politeness, friendship and a calm attitude towards life. When guests arrive, the host usually serves them a cup of tea, and this gesture expresses respect and warmth. Different regions produce different varieties of tea, and the way of preparing it varies accordingly. In recent years, tea houses have become popular among young people, who go there not only to taste tea but also to escape the pressure of a busy schedule.
+
+## 写作 | 范文
+@topic 写作：Online shopping（参考范文）
+@body
+Online shopping has become part of daily life for most people, and its advantages are obvious. It allows consumers to compare prices within minutes, and goods are delivered to their door, which saves a great deal of time. Nevertheless, the convenience comes with problems. Customers often buy things they do not need simply because they are cheap, and the packaging creates a large amount of waste. In my opinion, we should treat online shopping as a tool rather than a habit. Before placing an order, we ought to ask ourselves whether the purchase is really necessary. If we shop more deliberately, we can enjoy the convenience while avoiding the regret that often follows it.

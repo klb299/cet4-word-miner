@@ -1,0 +1,111 @@
+# 2025年6月 CET-4（真题片段语料）
+# 本文件只收录能在公开来源中核实到的英文原句，未做补充想象。
+# 处理规则：来源截断的句子，在最后一个完整成分处收尾（不补写原文中没有的成分）；
+#           以 "...which / ...the boys" 起头的定位片段，改为可作独立句子的形式，其余用词保持原样。
+# 来源清单：
+#   [A] 新东方 2025年6月四级阅读试题及答案（第一套） https://zsb.xdf.cn/202506/14538437.html
+#   [B] 新东方网 2025年6月四级阅读试题及答案（第二套） https://www.xdf.cn/721/202506/14533480.html
+#   [C] 新东方网 2025年6月四级阅读试题及答案（第三套） https://www.xdf.cn/453/202506/14533401.html
+#   [D] 新东方四六级 2025年6月四级三套真题全及答案汇总 https://cet4-6.xdf.cn/202606/15227395.html
+#   [E] 无忧考网 2025年6月四级作文题目（三套 Directions 原文）https://www.51test.net/show/11241156.html
+# 未获取的字段：听力原文、汉译英真题原文。原因见 ../2025-2026来源说明.md。
+# 编号冲突：三套试卷的编号在来源 A/B/C 与 E 之间不一致，因此本文件按题目内容归档，
+#           三篇写作题以各自话题命名，不声称其属于第几套。
+
+#### 2025年6月 第1套
+
+## 选词填空 | Constructing Identities
+@topic 选词填空：心理学家如何研究身份的自我建构；已公布正确项依次为 complex、previously、accepted、constitutes、building、vary、understand、audiences、struggle、suddenly（来源 A）
+@body
+Psychologists have long been interested in how we construct our identities.
+
+## 长篇阅读 | Getting Young Minds into Design
+@topic 段落匹配：英国中学设计教育项目 Design Ventura 如何吸引青少年（答案 36-40 HCLAM，41-45 GKDJB；来源 A）
+@body
+Along the way there is training and support for teachers and tutoring for students from designers.
+However, if these designers had visited the Design Museum shop in London earlier this year their fears may have been eased.
+Now that design education is limited in the curriculum, I'm all in favour of competitions such as Design Ventura, which helps to bring the standard curriculum to life, says Cleaver.
+These figures showed that the number of pupils that sat exams in Design and Technology fell 10 percent from 204.788 to 185.279 last year.
+We find that if pupils take part in Design Ventura in Year Nine it can be the trigger which leads them to opt for it at General Certificate of Secondary Education.
+Teachers like it because the skills are transferable and it helps to validate the value of design as a subject.
+It costs the schools nothing to participate in Design Ventura; the professional designers provide their services for free.
+It brings the business of design to life for students aged 13 to 16 by challenging them to develop a new creative, sustainable and commercially feasible product.
+The boys had to learn about budgeting and marketing, as well as designing their game.
+Engineering, which requires a similar mix of creative and technical skills, also has recruitment problems.
+
+## 仔细阅读 | Passage One（大熊猫）
+@topic 仔细阅读：大熊猫因圈养生活过于安逸而面临生存风险（答案 46-50 DACBC；来源 A）
+@body
+New research suggests that pandas may be at risk of dying out because they are too comfortable.
+
+## 仔细阅读 | Passage Two（天赋）
+@topic 仔细阅读：天生有才华的人看似毫不费力就能胜出（答案 51-55 ACBDB；来源 A。首句为原文，其后五句为已公布的正确选项原文，非正文）
+@body
+With those born with natural talents, it feels as if they excel without really trying.
+They seem to outdo others without hard work.
+It pays a lesser role in one's success.
+They are burdened by their expectation of perfection.
+It lets us reconsider the goals to achieve.
+We should stay persistent even in the face of failures.
+
+## 写作 | 大学语文是否必修
+@topic 写作：大学语文有无必要设为必修课（Directions 原文来源 E，范文来源 D）
+@question Directions: Suppose your university is seeking students' opinions on the necessity of making College Chinese a compulsory course. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.
+@body
+Nowadays, more people realize the importance of College Chinese in universities.
+It's necessary to make it a required course for all college students.
+First, College Chinese helps students learn about Chinese culture.
+By reading classic stories and poems, students can know more about traditional ideas like kindness and honesty.
+For example, Confucius' Analects tells people to be kind to others, and Tang poems show beautiful Chinese scenery.
+These lessons help students understand where they come from.
+Second, this course improves students' language skills.
+Writing essays and giving speeches in class make students better at expressing ideas.
+Good Chinese skills are useful for writing reports at work or talking with others in daily life.
+In short, College Chinese is important for both culture and life.
+It helps students love their culture and communicate well.
+Universities should make it a compulsory course so that all students can benefit from it.
+
+## 写作 | 如何正确使用AI
+@topic 写作：大学生如何正确使用人工智能辅助学习（Directions 原文来源 E，范文来源 D）
+@question Directions: Suppose your university is conducting a survey to collect students' opinions on the appropriate use of AI technology in assisting learning. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.
+@body
+As AI tools become popular in education, knowing how to use them correctly is crucial for effective learning.
+First, treat AI as a supplement rather than a substitute.
+For example, use grammar-checking tools to revise essays, but do not rely on them to write completely, because critical thinking is irreplaceable.
+Second, verify information sources.
+AI like ChatGPT may generate inaccurate data, so cross-check facts with academic databases before citing.
+Third, set clear boundaries.
+Allocate specific time for AI-assisted study to avoid distraction, and prioritize hands-on practice, such as solving math problems manually instead of asking AI for answers directly.
+In a word, proper use of AI tools requires balancing reliance and independence.
+By using them as smart assistants rather than shortcuts, students can enhance learning efficiency while maintaining intellectual autonomy.
+
+## 写作 | 跨文化沟通能力
+@topic 写作：论大学生跨文化沟通能力的培养（Directions 原文来源 E；本套范文原文未在任何可信来源中公布，故不收录）
+@question Directions: Suppose your university is organizing a forum on the development of students' cross-cultural communication abilities. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.
+
+## 选词填空 | Hitchcock（第2套）
+@topic 选词填空：阿尔弗雷德·希区柯克的电影生涯；已公布正确项依次为 referred、cinema、engaging、punished、symbolic、offences、caught、highly、stood、worshipped（来源 B）
+@body
+Sir Alfred Hitchcock was an English movie director.
+
+## 长篇阅读 | Is Juicing Actually Good for You（第2套）
+@topic 段落匹配：果汁饮食是否真的健康（答案 36-40 CIEAH，41-45 DFJBG；来源 B）
+@body
+Fruit juice is different from whole fruit in that it contains much less fibre.
+Some people believe a juice diet helps to rid our body of harmful or poisonous substances.
+A lot of research comes to the same conclusion that fruit juice does harm to the human body when it leads to surplus calories.
+The claimed health benefits of fruit and vegetable juices have rendered the industry very profitable.
+
+## 选词填空 | The Human Brain（第3套）
+@topic 选词填空：人类大脑持续形成新神经网络的能力；已公布正确项依次为 particularly、organ、remaining、indicates、literature、adapt、responsible、still、visual、retained（来源 C）
+@body
+The human brain has the ability to constantly form new networks.
+
+## 长篇阅读 | Phantom Traffic Jams（第3套）
+@topic 段落匹配：幽灵堵塞的成因与"双向控制"解决方案（答案 36-40 CHENF，41-45 BMGDL；来源 C）
+@body
+The exact cause of these phantom traffic jams has long remained a mystery.
+Now new research has found the cause and researchers may have come up with a solution for this frustrating traffic pattern.
+With bilateral control, you could almost double that.
+In essence, each driver would constantly make adjustments to keep their car roughly halfway between the car in front and the car behind.
+Until those systems become standard, human drivers can help reduce phantom traffic jams simply by not following the car in front so closely.

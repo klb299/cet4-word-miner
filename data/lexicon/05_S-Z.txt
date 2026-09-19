@@ -1,0 +1,375 @@
+# 格式：单词|词性|义项(用;分隔，带*者为四级常考义)|等级(A基础 B核心 C进阶)|搭配/派生提示
+sacrifice|n./v.|*牺牲;献祭;舍弃;亏本出售|B|sacrifice A for B 为B牺牲A
+safety|n.|*安全,平安;安全场所|A|safety belt 安全带
+salary|n.|*薪水,薪金(多指月薪/年薪)|A|annual salary 年薪
+sample|n./v.|*样本,样品;试用;取样;体验|B|a sample of 一份样本
+satisfy|v.|*满足,使满意;使确信;符合|A|be satisfied with 对…满意
+scale|n./v.|*规模;等级;刻度;比例;天平;攀登;鳞片|B|on a large scale 大规模地
+scarce|adj.|*稀缺的,不足的;罕见的|B|scarce resources 稀缺资源
+scatter|v.|*散开,散布;撒;驱散|B|scatter across 散布在
+schedule|n./v.|*时间表,日程;安排;时刻表;清单|A|ahead of schedule 提前
+scheme|n./v.|*计划,方案;阴谋,诡计;规划|B|pension scheme 养老金计划
+scholarship|n.|*奖学金;学问,学术成就|B|win a scholarship 获得奖学金
+scope|n.|*范围,领域;机会,余地;视野|B|within the scope of 在…范围内
+score|n./v.|*分数,得分;二十;得分;评分;刻痕|A|a score of 二十个
+scratch|v./n.|*抓,挠;划伤;取消;抓痕;起跑线|B|from scratch 从零开始
+screen|n./v.|*屏幕;屏风;帘;筛子;掩蔽;放映;遮蔽;筛查;甄别|A|on screen 在屏幕上;screen out 筛除
+secure|adj./v.|*安全的;可靠的;获得;保护;担保;固定|B|secure a job 谋得工作
+seek|v.|*寻找,寻求;试图;请求|A|seek for 寻求
+seemingly|adv.|*看起来,表面上;似乎|B|
+segment|n./v.|*部分,片段;分割|a segment of 一部分
+seize|v.|*抓住;夺取;抓住(机会);理解;查封|B|seize the opportunity 抓住机会
+seldom|adv.|*很少,不常|A|
+select|v./adj.|*选择,挑选;精选的;优等的|A|select from 从…中挑选
+senior|adj./n.|*级别高的;年长的;高年级的;上级,长辈;资格较老的|A|senior citizen 老年人
+sensible|adj.|*明智的,合理的;察觉到的|B|sensible choice 明智的选择
+sensitive|adj.|*敏感的;灵敏的;体贴的;易生气的|B|be sensitive to 对…敏感
+separate|adj./v.|*分开的,各自的;分开,分离;区分;分居|A|separate A from B 把A与B分开
+sequence|n.|*顺序,次序;连续;序列|B|in sequence 依次
+severe|adj.|*严重的;严厉的;严峻的;朴素的|B|severe weather 恶劣天气
+shift|n./v.|*转变,转移;轮班;换挡;移动;改变|A|shift from …to 从…转向
+shortage|n.|*不足,短缺|a shortage of 短缺
+shortcoming|n.|*缺点,短处|B|
+shrink|v.|*收缩,缩小;退缩;减少|B|shrink from 回避
+significant|adj.|*重要的,重大的;显著的;意味深长的|A|a significant increase 显著增长
+similar|adj.|*相似的,类似的|A|be similar to 与…相似
+simplify|v.|*简化,使简易|B|simplify the process 简化流程
+simulate|v.|*模拟,模仿;假装|C|simulate a scene 模拟场景
+simultaneously|adv.|*同时地|C|occur simultaneously 同时发生
+sincere|adj.|*真诚的,诚挚的|B|sincere thanks 诚挚的感谢
+situation|n.|*情况,形势;处境;地理位置|A|current situation 现状
+skilled|adj.|*熟练的,有技能的;需要技能的|A|skilled worker 技术工人
+slender|adj.|*苗条的;微薄的,不足的|C|slender hope 渺茫的希望
+slight|adj./v./n.|*轻微的;纤细的;轻视;怠慢|A|a slight change 细微变化
+slim|adj./v.|*苗条的;微小的;变苗条;缩减|B|slim chance 机会渺茫
+smooth|adj./v.|*光滑的;平稳的;顺利的;使光滑;消除|A|smooth away 消除
+social|adj.|*社会的;社交的;群居的|A|social media 社交媒体
+solar|adj.|*太阳的,太阳能的|B|solar energy 太阳能
+sole|adj./n.|*唯一的;专用的;脚底;鞋底|B|sole purpose 唯一目的
+solely|adv.|*仅仅,唯一地|B|
+solid|adj./n.|*固体的;实心的;可靠的;连续的;固体|A|solid evidence 确凿证据
+solution|n.|*解决办法;解答;溶液;溶解|A|solution to 解决…的办法
+solve|v.|*解决,解答;解释|A|solve a problem 解决问题
+sophisticated|adj.|*复杂的,精密的;老练的;高级的|C|highly sophisticated 高度精密
+spare|adj./v./n.|*多余的;备用的;空闲的;抽出;饶恕;备件|A|spare time 业余时间
+specific|adj.|*具体的,明确的;特定的;特有的|A|be specific about 对…具体说明
+specify|v.|*明确说明,具体指定|B|specify that 明确规定
+spectacular|adj.|*壮观的,引人注目的;惊人的|C|
+spectrum|n.|*光谱;频谱;范围,系列|a spectrum of 一系列
+speculate|v.|*推测,猜测;投机|C|speculate about 推测
+spend|v.|*花费(钱/时间);度过;消耗|A|spend time doing 花时间做
+spill|v./n.|*溢出,洒出;涌出;摔下;溢出量|B|spill over 溢出
+spirit|n.|*精神,心灵;情绪;勇气;灵魂;酒精|A|in high spirits 情绪高涨
+spite|n.|*恶意;怨恨;不顾|B|in spite of 尽管
+split|v./n./adj.|*分裂,分开;分担;裂缝;分裂的|B|split into 分成
+spoil|v.|*破坏,糟蹋;宠坏;变质;抢夺|B|spoil the fun 扫兴
+sponsor|n./v.|*赞助者;主办者;保证人;赞助;主办|B|sponsor an event 赞助活动
+spontaneous|adj.|*自发的,自然的;一时冲动的|C|
+spot|n./v.|*地点;斑点;污点;少量;发现;认出;沾污|A|on the spot 当场
+stable|adj./n.|*稳定的,稳固的;沉稳的;马厩;一群赛马|A|stable relationship 稳定的关系
+staff|n./v.|*员工,全体职员;行政人员;为…配备人员|A|teaching staff 教职工
+stain|n./v.|*污渍;染色;玷污|B|stain one's reputation 玷污名声
+stake|n./v.|*赌注;利害关系;桩;以…打赌|at stake 处于危险中
+standard|n./adj.|*标准,水准;规范;标准的;普通的|A|living standard 生活水平
+staple|n./adj./v.|*主食;主要产品;订书钉;主要的|C|staple food 主食
+stare|v./n.|*凝视,盯着看|A|stare at 盯着看
+startle|v.|*使惊吓,使吃惊|B|be startled by 被…吓到
+starve|v.|*挨饿,饿死;渴望|B|starve to death 饿死
+statement|n.|*声明,陈述;报表;说法|A|make a statement 发表声明
+status|n.|*地位,身份;状态;情形|B|social status 社会地位
+steady|adj./v.|*稳定的,持续的;稳的;使稳定|A|steady growth 稳定增长
+stem|n./v.|*茎,干;词干;船头;起源于;阻止|B|stem from 源于
+stereotype|n./v.|*刻板印象,模式化观念;对…有成见|C|gender stereotype 性别刻板印象
+stiff|adj.|*僵硬的;严厉的;艰难的;浓的|B|stiff competition 激烈竞争
+stimulate|v.|*刺激,激发;促进,激励|B|stimulate demand 刺激需求
+stir|v./n.|*搅动;激起;移动;轰动;搅动|B|stir up 激起
+stock|n./v./adj.|*库存,存货;股票;牲畜;储备;常备的;储存|A|in stock 有现货
+strain|n./v.|*压力,负担;拉伤;品种;扭伤;尽力;过滤|B|under strain 处于压力之下
+strategy|n.|*策略,战略;策划|A|marketing strategy 营销策略
+strengthen|v.|*加强,增强;巩固|A|strengthen ties 加强联系
+stress|n./v.|*压力;强调;重音;强调;重读;使紧张|A|under stress 处于压力下
+stretch|v./n.|*伸展,舒展;延伸;一段时间;一段路程;弹性|A|stretch out 伸展
+strict|adj.|*严格的,严厉的;精确的;严密的|A|be strict with 对…严格
+strike|v./n.|*罢工;打击;突然想到;给…印象;袭击;钟敲;侵袭|A|strike sb as 给某人…印象
+striking|adj.|*显著的,引人注目的;俊俏的|B|a striking contrast 鲜明对比
+strive|v.|*努力,奋斗;力求;斗争|B|strive for 为…奋斗
+structure|n./v.|*结构,构造;建筑物;组织,安排|A|social structure 社会结构
+struggle|v./n.|*挣扎;奋斗;搏斗;艰难行进;难事|A|struggle with 与…斗争/费力做
+stubborn|adj.|*固执的,顽固的;顽强的;难对付的|C|stubborn person 固执的人
+stuff|n./v.|*东西,材料;本质;填塞;吃饱;塞满|A|stuff into 塞进
+style|n./v.|*风格,作风;样式,款式;类型;设计|A|in style 时髦地
+subject|n./adj./v.|*主题,题目;学科;主语;受试者;臣民;受…支配的;使服从;使经历|A|be subject to 受…支配/易受
+subsequent|adj.|*随后的,后来的|B|subsequent events 后续事件
+subsidy|n.|*补贴,津贴,补助金|C|government subsidy 政府补贴
+substance|n.|*物质;实质;主旨;财物;实质内容|B|a substance abuse 药物滥用
+substantial|adj.|*大量的,可观的;实质的;坚固的;富裕的|B|substantial increase 大幅增长
+substitute|n./v.|*代替者,替代品;替补队员;代替,替换;取代|B|substitute A for B 用A代替B
+subtle|adj.|*微妙的;细微的;敏锐的;狡猾的|C|subtle difference 细微差别
+subtract|v.|*减去,扣除;减少|B|subtract from 从…中减去
+suburb|n.|*郊区,城郊|B|live in the suburbs 住在郊区
+sufficient|adj.|*足够的,充足的|B|be sufficient for 对…足够
+suggest|v.|*建议,提议;暗示;表明;使想起|A|suggest doing 建议做
+summary|n.|*总结,摘要,概要;概括的,简略的|A|in summary 总之
+superficial|adj.|*表面的;肤浅的;粗略的|C|superficial knowledge 肤浅的知识
+superior|adj./n.|*更好的,更胜一筹的;上级的;有优越感的;上级,长官|B|be superior to 优于
+supplement|n./v.|*补充物;增刊;附录;补充,增补|C|supplement to …的补充
+supply|n./v.|*供应,供给;补给;供应量;提供|A|supply sb with 向某人提供
+support|v./n.|*支持,支撑;供养;证实;支持;支撑物;赡养|A|support a family 养家
+suppose|v.|*认为,料想;假定;假定…的结果;期望|A|be supposed to 应该
+suppress|v.|*压制,镇压;抑制;隐瞒;查禁|C|suppress a smile 忍住笑
+supreme|adj.|*最高的,至上的;极大的|C|supreme court 最高法院
+surface|n./v./adj.|*表面;表层;浮现;露面;表面的|A|on the surface 表面上
+surpass|v.|*超过,胜过,优于|C|surpass expectations 超出预期
+surplus|n./adj.|*过剩,盈余;剩余的,多余的|C|trade surplus 贸易顺差
+surrender|v./n.|*投降,放弃;交出;屈服|C|surrender to 屈服于
+survey|n./v.|*调查;勘测;测量;全面审视;概述;纵览|A|conduct a survey 进行调查
+survive|v.|*幸存,活下来;比…活得长;艰难度过|A|survive the crisis 挺过危机
+susceptible|adj.|*易受影响的;易受感染的;敏感的|be susceptible to 易受…影响
+suspect|v./n./adj.|*怀疑,疑有;怀疑;嫌疑犯;可疑的|A|suspect sb of 怀疑某人
+suspend|v.|*暂停,中止;悬吊;暂令停职;延缓|B|suspend from 暂令…停职
+suspicion|n.|*怀疑,猜疑;一点儿|B|under suspicion 受怀疑
+sustain|v.|*维持,保持;支撑;遭受;经受;供养|B|sustain growth 维持增长
+swap|v./n.|*交换,调换;交换物|C|swap A for B 用A换B
+swell|v./n./adj.|*膨胀,肿胀;增加;高涨;浪涛;很棒的|C|swell with 充满
+switch|n./v.|*开关;转换;鞭子;转换;调换;打开/关掉|A|switch to 转向
+symbol|n.|*象征,标志;符号,记号;代号|A|a symbol of …的象征
+sympathy|n.|*同情,同情心;同感;慰问;支持|B|sympathy for 对…的同情
+syndrome|n.|*综合征,综合症状;典型表现|C|
+systematic|adj.|*有系统的,系统化的;有条理的|B|systematic study 系统研究
+tackle|v./n.|*处理,应对;解决;与…交涉;抢断;用具;滑车|B|tackle a problem 解决问题
+talent|n.|*天赋,才能;人才,天才|A|talent show 才艺表演
+target|n./v.|*目标,靶子;对象;指标;把…作为目标;瞄准|A|target audience 目标受众
+tedious|adj.|*单调乏味的,冗长沉闷的|C|tedious work 乏味的工作
+temper|n./v.|*脾气,情绪;怒气;韧度;调和;使缓和|B|lose one's temper 发脾气
+temporary|adj.|*临时的,暂时的;短暂的|A|temporary job 临时工作
+tempt|v.|*诱惑,引诱;吸引;冒…的风险|B|be tempted to do 忍不住想做
+tend|v.|*倾向于;往往会;照料;招待;趋向|A|tend to do 往往会
+tendency|n.|*倾向,趋势;癖好;趋向|A|a tendency to do …的倾向
+tender|adj./v./n.|*温柔的;嫩的;疼痛的;敏感的;提出;投标|B|tender heart 软心肠
+tense|adj./v./n.|*紧张的;拉紧的;使紧张;(动词的)时态|A|tense atmosphere 紧张气氛
+tension|n.|*紧张,紧张局势;张力;拉力;电压|B|ease tension 缓解紧张
+terminal|n./adj.|*终点站;终端;航空站;末端的;晚期的;学期的|C|terminal illness 绝症
+territory|n.|*领土,领地;领域,范围;地区|B|occupied territory 被占领土
+testify|v.|*作证,证明;表明,说明|C|testify to 证明
+theft|n.|*偷窃,盗窃;盗窃罪|C|car theft 汽车盗窃
+theme|n.|*主题,题目;话题;主旋律|A|theme park 主题公园
+theoretical|adj.|*理论上的;假设的|B|theoretical knowledge 理论知识
+theory|n.|*理论,学说;原理;意见,看法|A|in theory 理论上
+therapy|n.|*治疗,疗法;心理治疗|C|physical therapy 物理治疗
+thereby|adv.|*因此,从而,借此|C|
+thorough|adj.|*彻底的,完全的;细致的;十足的|A|thorough understanding 透彻的理解
+threat|n.|*威胁,恐吓;凶兆;构成威胁的人或事|A|pose a threat to 对…构成威胁
+threaten|v.|*威胁,恐吓;预示…的凶兆;危及|A|threaten to do 威胁要做
+thrive|v.|*兴旺,繁荣;茁壮成长|C|thrive on 靠…蓬勃发展
+thrust|v./n.|*推,挤;刺;猛推;要点;推力|C|thrust into 强行推进
+tide|n.|*潮,潮汐;潮流,趋势;潮水般的东西|B|turn the tide 扭转局势
+tight|adj./adv.|*紧的;紧身的;密封的;严格的;拮据的;紧紧地|A|tight schedule 紧凑的日程
+tissue|n.|*纸巾;组织;薄纱;一套(谎言)|B|tissue paper 卫生纸
+title|n.|*标题,题目;称号,头衔;权利;冠军;字幕|A|job title 职位名称
+tolerate|v.|*容忍,忍受;耐受|B|tolerate the noise 忍受噪音
+tone|n./v.|*语气,腔调;音调;色调;格调;使更健壮;定调|A|tone down 缓和
+topic|n.|*话题,主题;题目;标题|A|hot topic 热门话题
+tough|adj.|*艰难的;坚韧的;严厉的;强硬的;健壮的;粗暴的|A|tough decision 艰难的决定
+trace|n./v.|*痕迹,踪迹;微量;追踪;追溯;查出;描摹|B|trace back to 追溯到
+track|n./v.|*小路;跑道;轨道;足迹;踪迹;跟踪;追踪;留下足迹|A|keep track of 记录/掌握…动态
+trade|n./v.|*贸易,买卖;行业;手艺;交换;做生意;用…交换|A|trade with 与…做买卖
+tradition|n.|*传统,惯例;风俗;传说|A|cultural tradition 文化传统
+tragedy|n.|*悲剧;惨事,灾难;悲剧性|B|end in tragedy 以悲剧收场
+trail|n./v.|*小路;痕迹;一缕;跟踪;拖;落后;蔓生|B|trail behind 落在后面
+trait|n.|*特征,特点,品质|C|personality trait 性格特征
+transaction|n.|*交易,业务;办理;处理;事务|C|financial transaction 金融交易
+transcend|v.|*超越,超出…的限度|C|
+transfer|v./n.|*转移,调动;转让;转乘;转录;转移;换乘;调动;转让|A|transfer to 转到
+transform|v.|*转变,改变;改造;变换;变压|A|transform A into B 把A变成B
+transit|n./v.|*运输,运送;过境;中转;通过|C|in transit 在运输中
+translate|v.|*翻译;转化;解释;(以某种方式)理解|A|translate into 转化为
+transmit|v.|*传播,传染;传送;发射;传导;传达|B|transmit signals 传输信号
+transparent|adj.|*透明的;易懂的;公开的;坦率的|B|transparent process 透明流程
+transplant|v./n.|*移植;移栽;迁移;(器官)移植|C|organ transplant 器官移植
+transport|n./v.|*运输,运送;交通工具;运输系统;流放;使狂喜|A|public transport 公共交通
+trap|n./v.|*陷阱,圈套;困境;使陷入;使困住;设陷阱捕捉|A|be trapped in 被困在
+trash|n./v.|*垃圾,废物;劣等作品;拙劣的人;丢弃;抨击|B|trash can 垃圾桶
+trauma|n.|*创伤;精神创伤;外伤|C|emotional trauma 心理创伤
+travel|v./n.|*旅行,游历;行进;传播;旅行;游记|A|travel agency 旅行社
+treat|v./n.|*对待,看待;处理;治疗;请客;款待;乐事|A|treat sb as 把某人当作
+treatment|n.|*治疗,疗法;处理;对待,待遇;论述|A|medical treatment 医疗
+treaty|n.|*条约,协定;协商,谈判|C|sign a treaty 签署条约
+tremble|v./n.|*颤抖,发抖;摇晃;担心;颤抖|B|tremble with 因…发抖
+tremendous|adj.|*巨大的,极大的;极好的;惊人的|B|tremendous effort 巨大的努力
+trend|n.|*趋势,倾向;时尚,潮流;走向|A|a growing trend 日益增长的趋势
+trial|n.|*试验,试用;审判;考验;预赛;麻烦;尝试|B|clinical trial 临床试验
+tribute|n.|*颂词,致敬;贡品;标示,证明|C|pay tribute to 向…致敬
+trick|n./v./adj.|*诡计,花招;窍门;恶作剧;戏法;欺骗;哄骗;有诀窍的|A|trick sb into doing 骗某人做
+trigger|v./n.|*引发,引起,触发;扳机;起因;触发器|B|trigger a reaction 引发反应
+triple|adj./v./n.|*三倍的;使增至三倍;三倍之数|C|
+trivial|adj.|*琐碎的,不重要的,微不足道的|C|trivial matter 琐事
+tropical|adj.|*热带的;炎热的|B|tropical climate 热带气候
+troublesome|adj.|*令人烦恼的,讨厌的;棘手的|C|
+truly|adv.|*真正地;真诚地;确实地|A|
+trust|n./v.|*信任,信赖;委托;托拉斯;相信;希望;确信|A|trust in 信赖
+tuition|n.|*学费;教学,讲授|B|tuition fee 学费
+tune|n./v.|*曲调,调子;和谐;语调;调音;调整;收听;使协调|A|in tune with 与…协调
+tunnel|n./v.|*隧道,地道;挖隧道|B|dig a tunnel 挖隧道
+turbulent|adj.|*动荡的;狂暴的;湍急的|C|turbulent times 动荡时期
+turnover|n.|*营业额;人员流动率;翻转;周转|annual turnover 年营业额
+tutor|n./v.|*导师;家庭教师;辅导;当…的教师|B|private tutor 私教
+twin|n./adj.|*双胞胎之一;一对相像的事物;成对的;孪生的|A|twin sister 孪生姐妹
+twist|v./n.|*扭曲;扭伤;转动;曲解;转折;缠绕;扭转|B|twist and turn 迂回曲折
+typical|adj.|*典型的,有代表性的;一贯的;特有的|A|be typical of 是…的典型
+ultimate|adj./n.|*最终的,最后的;根本的;极致的;极限;顶点|B|ultimate goal 最终目标
+unanimous|adj.|*一致同意的,全体一致的|C|unanimous decision 一致的决定
+uncover|v.|*揭开,揭露;发现;揭开盖子|B|uncover the truth 揭露真相
+undergo|v.|*经历,经受;接受(治疗/手术)|B|undergo treatment 接受治疗
+undergraduate|n./adj.|*本科生;大学本科生的|B|undergraduate degree 本科学位
+underlie|v.|*构成…的基础,是…的原因|C|
+underline|v./n.|*在…下面画线;强调,突出;下划线|A|underline the importance 强调重要性
+undermine|v.|*逐渐削弱,损害;暗中破坏|C|undermine confidence 削弱信心
+underneath|prep./adv.|*在…下面;在底下;根本的|B|
+undertake|v.|*承担,着手做;承诺,保证|B|undertake a task 承担任务
+undoubtedly|adv.|*无疑地,肯定地|B|
+uneasy|adj.|*不安的,担忧的;不自在的;不稳定的|B|feel uneasy about 对…感到不安
+unemployment|n.|*失业,失业人数;失业率|B|unemployment rate 失业率
+unexpected|adj.|*出乎意料的,意外的|A|unexpected result 意外结果
+unfold|v.|*展开,打开;呈现,显露;开花|C|unfold a map 展开地图
+unfortunate|adj.|*不幸的,倒霉的;令人遗憾的;不恰当的|B|unfortunate event 不幸事件
+uniform|n./adj.|*制服;校服;统一的,一致的;不变的|A|school uniform 校服
+unify|v.|*统一,使联合;使一致|C|
+unique|adj.|*唯一的,独特的;独一无二的;极好的|A|be unique to 为…所特有
+universal|adj.|*普遍的,全体的;通用的;宇宙的;广泛适用的|B|universal access 普遍可及
+unlike|prep./adj.|*不像,和…不同;不同的;不相似的|A|unlike most people 与多数人不同
+unnecessary|adj.|*不必要的,多余的|A|
+unprecedented|adj.|*前所未有的,空前的|C|unprecedented scale 空前规模
+unusual|adj.|*不寻常的,异常的;与众不同的;独特的|A|unusual weather 反常天气
+upcoming|adj.|*即将到来的,即将发生的|B|upcoming election 即将到来的选举
+update|v./n.|*更新;使现代化;更新;最新消息;升级|A|keep sb updated 使某人了解最新情况
+upgrade|v./n.|*升级,提升;提高(规格);改良;升级;上坡|B|upgrade the system 升级系统
+uphold|v.|*支持,维护;支撑;举起;确认(判决)|C|uphold the law 维护法律
+upset|adj./v./n.|*心烦的,苦恼的;使心烦;打翻;扰乱;不适;混乱;麻烦|A|be upset about 对…感到烦恼
+up-to-date|adj.|*最新的,现代的;包含最新信息的|B|up-to-date information 最新信息
+urban|adj.|*城市的,都市的;居住在城市的|B|urban life 城市生活
+urge|v./n.|*敦促,力劝;驱策;极力主张;强烈欲望,冲动;迫切要求|A|urge sb to do 力劝某人做
+urgent|adj.|*紧急的,急迫的;强求的;催促的|A|urgent need 迫切需要
+usage|n.|*使用,用法;惯用法;用量;利用率|B|energy usage 能源使用
+useful|adj.|*有用的,有益的;有帮助的|A|be useful for 对…有用
+useless|adj.|*无用的,无效的;无价值的;差劲的|A|
+user|n.|*用户,使用者;吸毒者|A|end user 终端用户
+usher|v./n.|*引领,招待;开创,预示…的来临;引座员,门房;招待员|C|usher in 开创,迎来
+usual|adj.|*通常的,惯例的;平常的|A|as usual 照例
+utmost|n./adj.|*极限,最大可能;极度的,最大的|B|do one's utmost 竭尽全力
+utter|adj./v.|*完全的,彻底的;说出,发出(声音);使用(伪钞)|C|utter nonsense 完全是胡说
+vacant|adj.|*空着的;空缺的;茫然的;空闲的|C|vacant position 空缺职位
+vacation|n./v.|*假期,休假;度假|A|on vacation 在度假
+vaccine|n.|*疫苗|C|develop a vaccine 研制疫苗
+vacuum|n./v./adj.|*真空;真空吸尘器;空白;空虚;用吸尘器清扫;真空的|C|in a vacuum 与世隔绝
+vague|adj.|*模糊的,含糊的;不明确的;茫然的|B|vague idea 模糊的想法
+valid|adj.|*有效的;有根据的;正当的;合法的|B|valid reason 正当理由
+validate|v.|*证实,确认;使生效,批准|C|validate the results 验证结果
+valuable|adj./n.|*有价值的,宝贵的;贵重的;贵重物品|A|valuable experience 宝贵经验
+vanish|v.|*突然消失,消逝;绝迹;不复存在|B|vanish into 消失在
+vanity|n.|*虚荣,虚荣心;自负;浮华;空虚;梳妆台|C|
+variable|n./adj.|*变量;可变因素;可变的,易变的;变异的|C|independent variable 自变量
+variation|n.|*变化,变动;变体,变种;变奏;差异|B|variation in 在…方面的差异
+varied|adj.|*各种各样的,形形色色的;多变的;不同的|B|varied diet 多样化饮食
+variety|n.|*种类;变化,多样化;变种;综艺表演|A|a variety of 各种各样的
+various|adj.|*各种各样的,不同的;许多的;多方面的|A|various reasons 各种原因
+vary|v.|*变化,不同;改变,使多样化;使有变化|A|vary from …to 从…到…不等
+vast|adj.|*巨大的,广阔的;大量的;巨额的;浩瀚的|A|a vast amount of 大量的
+vehicle|n.|*车辆,交通工具;媒介,工具;传播媒介;载体|A|motor vehicle 机动车
+veil|n./v.|*面纱,面罩;遮盖物;掩饰;戴面纱;遮盖,掩饰|C|under the veil of 在…的掩护下
+velocity|n.|*速度,速率;迅速;周转率|C|high velocity 高速
+vend|v.|*售卖,贩卖;兜售|C|
+vendor|n.|*小贩,摊贩;卖主;供应商|C|street vendor 街头小贩
+venture|n./v.|*冒险,冒险行动;企业,投机活动;敢于,冒险;大胆表示|B|joint venture 合资企业
+verify|v.|*核实,查证;证实,证明|B|verify the data 核实数据
+versatile|adj.|*多才多艺的;多用途的,多功能的|C|
+verse|n.|*诗,韵文;诗句,诗节;诗体;圣经中的节|C|quote a verse 引用一节经文
+version|n.|*版本;译本;变体;说法,描述;形式;型式|A|latest version 最新版本
+versus|prep.|*对,对抗;与…相对;对比|A versus B A对B
+vertical|adj./n.|*垂直的,竖的;纵向的;垂直线,垂直面|B|vertical line 垂直线
+very|adv./adj.|*很,非常;完全,正是;恰好的;同一的;极端的;真正的|A|the very best 最好的
+vessel|n.|*船,舰;容器,器皿;血管,脉管;导管|C|blood vessel 血管
+vest|n./v.|*背心,马甲;汗衫;授予,给予;使穿衣;归属|C|vested interest 既得利益
+veteran|n./adj.|*老手,经验丰富的人;老兵,退伍军人;经验丰富的,老练的|B|war veteran 退伍军人
+veto|v./n.|*否决,否决权;禁止,反对|C|veto a bill 否决议案
+via|prep.|*通过,经由;借助于;取道;通过(某种手段)|B|via email 通过电子邮件
+viable|adj.|*可行的,可实施的;能生存的,能生长发育的|C|viable option 可行的选择
+vibrate|v.|*振动,颤动;摇摆;震动;响彻;使颤动|C|vibrate with 因…而颤动
+vicinity|n.|*附近,邻近地区;接近,亲近|C|in the vicinity of 在…附近
+vicious|adj.|*恶毒的,凶残的;剧烈的;有缺点的;恶劣的|C|vicious circle 恶性循环
+victim|n.|*受害者,罹难者;牺牲品;受骗者;祭品|A|fall victim to 成为…的牺牲品
+victory|n.|*胜利,成功;克服;战胜|A|win a victory 获胜
+video|n./adj./v.|*视频,录像;录像机;视频的,影像的;录制;制作…的录像|A|video game 电子游戏
+view|n./v.|*视野;景色;观点,看法;视图;看待,考虑;观看;查看;视察|A|in view of 鉴于/考虑到
+viewpoint|n.|*观点,看法;视角|B|from the viewpoint of 从…的观点看
+vigorous|adj.|*有力的,充满活力的;强健的;精神饱满的;激烈的|C|vigorous exercise 剧烈运动
+villa|n.|*别墅,度假别墅;郊区住宅|C|luxury villa 豪华别墅
+village|n.|*村庄,乡村;村民;乡村社区;村镇|A|small village 小村庄
+violate|v.|*违反,违背;侵犯;亵渎;强奸;干扰|B|violate the law 违法
+violence|n.|*暴力,暴行;猛烈,激烈;强暴;歪曲|A|domestic violence 家庭暴力
+violent|adj.|*暴力的,强暴的;猛烈的,剧烈的;激烈的;歪曲的|A|violent storm 猛烈的暴风雨
+virtually|adv.|*实际上,事实上;几乎,差不多;虚拟地|B|virtually impossible 几乎不可能
+virtue|n.|*美德,德行;优点,长处;功效;贞操|B|by virtue of 凭借,由于
+virus|n.|*病毒;病毒感染;有害程序;毒素|A|computer virus 计算机病毒
+visible|adj.|*看得见的,可见的;明显的;现有的;能注意到的|A|visible light 可见光
+vision|n.|*视力,视觉;想象力;远见;视野;幻象;画面;愿景|A|vision of the future 未来愿景
+visit|v./n.|*拜访,访问;参观;视察;探望;逗留;访问;参观;探望;出诊|A|pay a visit to 参观/拜访
+visual|adj./n.|*视觉的,视力的;看得见的;光学的;视觉资料,画面|B|visual effect 视觉效果
+vital|adj.|*至关重要的,必不可少的;充满活力的;生死攸关的;致命的|B|be vital to 对…至关重要
+vitamin|n.|*维生素,维他命;维生素片剂|A|vitamin C 维生素C
+vivid|adj.|*生动的,逼真的;鲜艳的;清晰的;活跃的;丰富的|B|vivid description 生动的描述
+vocabulary|n.|*词汇,词汇量;词汇表;词库;用语|A|expand vocabulary 扩大词汇量
+vocal|adj./n.|*声音的,嗓音的;直言不讳的;声乐作品;元音|C|vocal cords 声带
+vocation|n.|*职业,使命;天职;神召;行业;才能|C|vocational training 职业培训
+voice|n./v.|*声音,嗓音;意见,发言权;语态;表达,吐露;发声;配音|A|voice an opinion 表达意见
+volcano|n.|*火山;火山口;爆发性事物|A|active volcano 活火山
+voltage|n.|*电压,伏特数;电压量|C|high voltage 高压
+volume|n.|*音量;体积,容积;容量;卷,册;大量,许多;总量;书卷|A|the volume of …的量
+voluntary|adj.|*自愿的,志愿的;自发的;无偿的;由主观意志控制的|B|voluntary work 志愿工作
+volunteer|n./v./adj.|*志愿者,志愿兵;自愿做;无偿提供;自愿的;志愿的|A|volunteer to do 自愿做
+voter|n.|*选民,投票人;选举人|B|registered voter 登记选民
+vow|n./v.|*誓言,誓约;许愿;发誓,立誓;郑重宣告|C|make a vow 立誓
+voyage|n./v.|*航行,航海;旅行,旅程;航空;航海,航行;旅行|A|voyage of discovery 探索之旅
+vulnerable|adj.|*脆弱的;易受伤害的;易受攻击的;易感染的;敏感的|C|be vulnerable to 易受…伤害
+wage|n./v.|*工资,工钱;报酬;代价;进行,开展;发动(战争);实行|A|minimum wage 最低工资
+wagon|n.|*四轮马车;货车车厢;旅行车;手推车;囚车|C|on the wagon 戒酒
+waist|n.|*腰,腰部;腰围;中间细的部分;背心|A|waistline 腰围
+wait|v./n.|*等待,等候;期待;推迟;伺候;等待,等候;等待时间;等候|A|wait for 等待
+wake|v./n.|*醒来,唤醒;唤起;觉醒;认识到;尾流;守灵;航迹|A|wake up 醒来
+walk|v./n.|*走,步行;散步;陪伴…走;遛;走过;步行;散步;步态;人行道|A|walk of life 行业/阶层
+wander|v./n.|*漫游,游荡;徘徊;离题;走神;蜿蜒;闲逛|B|wander around 四处游荡
+wane|v./n.|*衰落,减弱;亏缺;退潮;衰退期|C|wax and wane 盈亏/盛衰
+want|v./n.|*想要,希望;需要;缺少;通缉;缺乏;需要;必需品;贫困|A|in want of 需要
+ward|n./v.|*病房;选区;受监护人;行政区;监护;保护;避开|C|ward off 避开/防止
+warehouse|n./v.|*仓库,货栈;仓储店;把…存入仓库|C|warehouse store 仓储式商店
+warm|adj./v./n.|*温暖的;热情的;温暖的;使暖和;变暖;兴奋;保暖;暖和的地方|A|warm up 变暖/热身
+warn|v.|*警告,提醒;告诫;预告;通知;示警|A|warn sb of 警告某人
+warrant|n./v.|* warrant;授权令,令状;正当理由;证明,保证;使正当;保证|C|search warrant 搜查令
+warrior|n.|*战士,勇士;武士;斗士|brave warrior 勇敢的战士
+wary|adj.|*谨慎的,小心翼翼的;警惕的;提防的|be wary of 提防
+wash|v./n.|*洗,洗涤;洗澡;耐洗;冲刷;洗,洗涤;洗涤物;洗澡;洗刷;水的拍打|A|wash up 洗餐具
+waste|n./v./adj.|*浪费;废物,废料;荒地;消耗;浪费,滥用;使荒芜;废弃的;荒芜的|A|waste time 浪费时间
+watch|v./n.|*观看,注视;观察;看守;留意;当心;手表;监视;值班人员;注意|A|watch out for 密切注意
+water|n./v.|*水;水域;水面;水位;海域;给…浇水;流口水;加水;泪水|A|water supply 供水
+wave|n./v.|*波浪;波;挥手;浪潮;波动;挥手示意|A|wave goodbye 挥手告别
+way|n./adv.|*方法,方式;道路;方向;路线;方面;情况;习惯;远远地,大大地;非常|A|by the way 顺便说
+weak|adj.|*虚弱的,无力的;薄弱的;软弱的;差的;淡薄的;不擅长的|A|be weak in 在…方面薄弱
+wealth|n.|*财富,财产;富有;大量;丰富;资源|A|a wealth of 大量的
+weapon|n.|*武器,兵器;凶器;手段,工具;斗争工具|A|nuclear weapon 核武器
+wear|v./n.|*穿,戴;蓄(须/发);面带;磨损;耐用;穿破;磨损;衣物;耐久性|A|wear out 穿破/使疲惫
+weary|adj./v.|*疲倦的,疲劳的;厌倦的;令人厌烦的;使疲倦;使厌烦|be weary of 厌倦
+weather|n./v.|*天气,气象;处境;气候;经历;度过;经受住;风化;侵蚀|A|weather forecast 天气预报
+weave|v./n.|*编织;编造;编排;织法;编织式样;穿行|C|weave through 穿梭
+website|n.|*网站,站点;网页;网址|A|visit a website 访问网站
+wedding|n.|*婚礼,婚宴;结婚纪念;结合|A|wedding ceremony 婚礼仪式
+weed|n./v.|*杂草,野草;除草;剔除;清除;瘦弱的人|C|weed out 清除/淘汰
+week|n.|*周,星期;一周;工作日;工作周;星期,周|A|last week 上周
+weekly|adj./adv./n.|*每周的;一周一次的;每周;周刊,周报|A|weekly meeting 周会
+weep|v./n.|*哭泣,流泪;渗出;哀悼;哭泣,落泪|C|weep for 为…哭泣
+weigh|v.|*称重;有…重;权衡;考虑;重压;起锚;称…的重量;影响|A|weigh the pros and cons 权衡利弊
+weight|n./v.|*重量,体重;重压;重担;重要性;砝码;加重量于;使负重;权衡|A|lose weight 减肥
+weird|adj.|*奇怪的,怪异的;不可思议的;超自然的;离奇的|B|weird idea 奇怪的想法
+welcome|v./adj./n./int.|*欢迎;迎接;乐意接受;受欢迎的;令人愉快的;欢迎;迎接;欢迎辞|A|welcome to 欢迎来到
+welfare|n.|*福利,幸福;福祉;福利救济;安宁;福利事业|A|social welfare 社会福利
+well|adv./adj./int./n./v.|*好,令人满意地;完全地;详细地;健康的;良好的;井;源泉;涌出|A|as well as 也/和
+western|adj./n.|*西方的,西部的;西方国家的;西部片的;西方人;西部人|A|western culture 西方文化
+wet|adj./v./n.|*湿的,潮湿的;下雨的;多雨的;懦弱的;把…弄湿;尿湿;湿度;雨天;液体|A|wet weather 潮湿天气

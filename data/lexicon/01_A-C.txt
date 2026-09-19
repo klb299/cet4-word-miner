@@ -1,0 +1,143 @@
+# 格式：单词|词性|义项(用;分隔，带*者为四级常考义)|等级(A基础 B核心 C进阶)|搭配/派生提示
+abandon|v.|*放弃,中止;抛弃,遗弃;陷入(某种情绪)|B|abandon oneself to 沉溺于
+ability|n.|*能力,才能|ability to do 做…的能力
+absence|n.|*缺席,不在;缺乏|A|in the absence of 在缺乏…的情况下
+absolutely|adv.|*绝对地,完全地|A|
+absorb|v.|*吸收;使全神贯注;承担(费用)|B|be absorbed in 专心于
+abstract|adj./n.|*抽象的;摘要|A|abstract concept 抽象概念
+academic|adj./n.|*学术的;学业的;大学教师|B|academic performance 学业成绩
+accelerate|v.|*加速,促进|C|accelerate growth 加速增长
+access|n./v.|*使用权,通道;进入,获取|B|access to 有权使用/接近
+accommodate|v.|*容纳;提供住宿;适应|C|accommodate oneself to 使自己适应
+accompany|v.|*陪伴;伴随;为…伴奏|B|be accompanied by 伴随着
+accomplish|v.|*完成,实现|B|accomplish a goal 实现目标
+account|n./v.|*账户;解释,说明;占比|A|account for 解释;占(比例);take into account 考虑到
+accurate|adj.|*准确的,精确的;正确无误的|A|accurate data 准确的数据
+accuse|v.|*指控,指责|B|accuse sb of sth 指控某人某事
+achieve|v.|*实现,达到,取得|A|achieve success 取得成功
+acquire|v.|*获得,习得(技能/语言)|B|acquire knowledge 获取知识
+adapt|v.|*适应;改编|B|adapt to 适应
+adequate|adj.|*足够的,充分的|B|be adequate for 足以应付
+adjust|v.|*调整,适应|A|adjust to 适应
+administration|n.|*管理,行政;政府|B|
+admit|v.|*承认;准许进入|A|admit doing 承认做过
+adopt|v.|*采用,采取;收养|B|adopt a policy 采取政策
+advance|n./v.|*进步,进展;提前;推进|A|in advance 提前
+advantage|n.|*优势,好处|A|take advantage of 利用
+affect|v.|*影响;感染|A|辨析:effect(n.影响)
+afford|v.|*负担得起;提供|A|can afford to do 有能力做
+agency|n.|*机构,代理处|B|travel agency 旅行社
+aggressive|adj.|*好斗的;积极进取的|B|
+agriculture|n.|*农业|A|
+alternative|n./adj.|*替代方案;可供选择的|B|an alternative to …的替代品
+ambitious|adj.|*有雄心的;野心勃勃的|B|
+amount|n./v.|*数量,总额;总计|A|a large amount of 大量的
+analyze|v.|*分析|B|
+ancient|adj.|*古代的,古老的|A|
+announce|v.|*宣布,宣告|A|
+annual|adj.|*每年的,年度的|B|annual income 年收入
+anxiety|n.|*焦虑,担忧;渴望|B|anxiety about 对…的焦虑
+apparent|adj.|*明显的;表面上的|B|it is apparent that 显然
+appeal|v./n.|*呼吁,恳求;吸引力;上诉|B|appeal to 吸引;呼吁
+appliance|n.|*器具,家用电器|B|household appliance 家电
+apply|v.|*申请;应用;涂抹|A|apply for 申请;apply to 适用于
+appoint|v.|*任命;约定|B|appoint sb as 任命某人为
+appreciate|v.|*感激;欣赏;理解|B|I would appreciate it if 如果…我将不胜感激
+approach|n./v.|*方法,途径;接近,着手处理|A|an approach to 解决…的方法
+appropriate|adj.|*合适的,恰当的|B|be appropriate for 适合于
+approve|v.|*批准;赞成|B|approve of 赞成
+argue|v.|*争论,主张|A|argue for/against 主张/反对
+arise|v.|*出现,产生;起因于|B|arise from 由…引起
+arrange|v.|*安排,整理|A|arrange for sb to do 安排某人做
+aspect|n.|*方面;外观|B|in all aspects 在各方面
+assess|v.|*评估,评定|B|assess the impact 评估影响
+assign|v.|*分配,布置(任务);指派|B|assign sth to sb 把某事分派给某人
+assist|v.|*协助,帮助|B|assist sb with 帮助某人做
+associate|v./n.|*联系,联想;伙伴;副的|B|associate A with B 把A与B联系
+assume|v.|*假定,认为;承担;呈现|B|assume responsibility 承担责任
+assure|v.|*使确信,保证|B|assure sb that 向某人保证
+attach|v.|*贴上,系上;重视|B|attach importance to 重视
+attempt|n./v.|*尝试,努力|A|attempt to do 试图做
+attitude|n.|*态度,看法|A|attitude towards 对…的态度
+attract|v.|*吸引,引起|A|attract attention 吸引注意
+available|adj.|*可获得的,可用的;有空的|A|be available to/for 可供…使用
+avoid|v.|*避免,回避|A|avoid doing 避免做
+aware|adj.|*意识到的,知道的|A|be aware of 意识到
+balance|n./v.|*平衡;余额;使平衡|A|strike a balance 取得平衡
+barrier|n.|*障碍,屏障|B|language barrier 语言障碍
+benefit|n./v.|*好处,利益;受益|A|benefit from 从…受益
+blame|v./n.|*责备,归咎;责任|A|be to blame 应受责备;blame sb for 因…责怪某人
+boost|v./n.|*促进,提高;推动|B|boost confidence 增强信心
+bother|v.|*打扰;费心|A|bother to do 费心去做
+branch|n.|*分支,分部;树枝|A|
+brief|adj./v.|*简短的;简要介绍|A|in brief 简言之
+budget|n./v.|*预算;编预算|B|on a tight budget 预算紧张
+burden|n./v.|*负担,重担;使负重担|B|a burden on 对…的负担
+calculate|v.|*计算;估计|B|
+campaign|n.|*运动,活动;战役|B|launch a campaign 发起运动
+capable|adj.|*有能力的,能干的|B|be capable of 能够
+capacity|n.|*容量;能力;身份|B|the capacity to do 做…的能力
+career|n.|*职业,事业|A|career path 职业道路
+category|n.|*种类,类别|B|
+cease|v.|*停止,终止|C|cease to do 不再做
+challenge|n./v.|*挑战;质疑|A|pose a challenge 构成挑战
+characteristic|n./adj.|*特征,特点;典型的|B|be characteristic of 是…的特征
+charge|n./v.|*费用;负责;充电;指控;收费|A|in charge of 负责;free of charge 免费
+circuit|n.|*电路;环行,巡回|B|
+circumstance|n.|*情况,环境;境遇|B|under no circumstances 决不
+cite|v.|*引用,举例;传唤|C|cite an example 举例
+claim|v./n.|*声称,主张;索取;索赔|A|claim to do 声称做
+classify|v.|*分类,归类|B|classify into 分为
+client|n.|*客户,委托人|B|
+climate|n.|*气候;氛围|A|climate change 气候变化
+collapse|v./n.|*倒塌;崩溃;晕倒|B|
+colleague|n.|*同事|B|
+combine|v.|*结合,联合|A|combine A with B 把A与B结合
+commit|v.|*承诺,投入;犯(错/罪)|B|commit oneself to 致力于;commit a crime 犯罪
+community|n.|*社区,群体;界|A|the academic community 学术界
+compare|v.|*比较,对比;比喻|A|compared with 与…相比
+compete|v.|*竞争,比赛|B|compete with/against 与…竞争
+complain|v.|*抱怨,投诉|A|complain about 抱怨
+complex|adj./n.|*复杂的;综合体|B|
+component|n.|*组成部分,部件|B|
+comprehensive|adj.|*全面的,综合的|B|comprehensive analysis 全面分析
+compromise|n./v.|*妥协,折中;损害|B|reach a compromise 达成妥协
+concentrate|v.|*集中,专注|B|concentrate on 专注于
+concept|n.|*概念,观念|B|
+concern|n./v.|*关心,担忧;涉及;事项|A|be concerned about 关心/担忧
+conclude|v.|*得出结论;结束|B|conclude that 断定
+conduct|v./n.|*实施,进行;指挥;行为|B|conduct a survey 进行调查
+confidence|n.|*信心,信任|A|have confidence in 对…有信心
+confirm|v.|*确认,证实|B|
+conflict|n./v.|*冲突,矛盾;抵触|B|conflict with 与…冲突
+confuse|v.|*使困惑;混淆|A|confuse A with B 把A与B混淆
+connect|v.|*连接,联系|A|be connected to/with 与…相连
+conscious|adj.|*有意识的,自觉的;神志清醒的|B|be conscious of 意识到
+consequence|n.|*结果,后果;重要性|B|as a consequence 因此
+consider|v.|*考虑;认为|A|consider doing 考虑做
+consist|v.|*由…组成;在于|B|consist of 由…组成;consist in 在于
+constant|adj./n.|*持续的;不变的;常数|B|constant change 不断变化
+construct|v.|*建造;构造|B|
+consult|v.|*咨询,商量;查阅|B|consult sb about 就…请教某人
+consume|v.|*消耗,消费;吃喝|B|consume energy 消耗能量
+contain|v.|*包含,容纳;控制|A|contain oneself 克制自己
+contemporary|adj.|*当代的;同时代的|B|
+content|n./adj.|*内容;含量;满意|A|be content with 对…满意
+contest|n.|*竞赛,比赛;争夺|B|
+context|n.|*语境,背景,环境|B|in the context of 在…背景下
+continue|v.|*继续,延续|A|continue to do 继续做
+contract|n./v.|*合同;签约;收缩|B|sign a contract 签合同
+contrast|n./v.|*对比,对照;反差|B|in contrast to 与…形成对比
+contribute|v.|*贡献,捐献;促成;投稿|B|contribute to 有助于
+control|n./v.|*控制;支配|A|under control 得到控制
+controversial|adj.|*有争议的|C|
+conventional|adj.|*常规的,传统的|B|conventional wisdom 传统观念
+convince|v.|*说服,使信服|B|convince sb of 使某人相信
+cooperate|v.|*合作,配合|B|cooperate with 与…合作
+cope|v.|*应付,处理|B|cope with 应对
+corporate|adj.|*公司的,企业的;团体的|C|corporate culture 企业文化
+correspond|v.|*相符;相当于;通信|C|correspond to/with 与…相符
+critical|adj.|*批评的;关键的;危急的|B|be critical of 对…持批评态度
+crucial|adj.|*至关重要的,决定性的|B|be crucial to 对…至关重要
+current|adj./n.|*当前的;流行的;水流,电流|A|current situation 现状
+curious|adj.|*好奇的;奇怪的|A|be curious about 对…好奇

@@ -1,0 +1,92 @@
+# 2022年6月 CET-4 第1套（仿真真题语料，可替换为官方真题文本）
+#### 2022年6月 第1套
+
+## 听力 | News Report One
+@topic 新闻：一个社区图书馆的夜间开放计划
+@question 1. What is the report mainly about?
+@choice A) A library that stays open late for workers.
+@choice B) The closing of a community library.
+@choice C) A campaign to sell more books.
+@choice D) The construction of a new museum.
+@body
+A community library has extended its opening hours until midnight, and the change has attracted readers who previously had no time to visit. The librarian explained that the idea came from a survey in which local residents repeatedly mentioned the same obstacle: by the time they finished work, the library had already closed. Since the new schedule began, evening visits have grown steadily, and the majority of these visitors are young people preparing for examinations. The library has also started a small reading group that meets on Friday evenings, and participants say the discussion helps them understand books they would have abandoned on their own. Funding, however, remains a problem, since electricity and staff wages have increased. Local businesses have offered to sponsor the late opening, and the librarian hopes that the arrangement will become permanent.
+
+## 选词填空 | Learning a Second Language
+@topic 选词填空：成年人学外语的困难与方法
+@question 26. What makes adult language learners different from children?
+@choice A) Adults have more time.
+@choice B) Adults are more afraid of making mistakes.
+@choice C) Adults listen more carefully.
+@choice D) Adults learn without any effort.
+@question 27. What does the passage say about practice?
+@choice A) It should be done only in class.
+@choice B) Regular practice matters more than talent.
+@choice C) It is useless after childhood.
+@choice D) It replaces the need to listen.
+@question 28. Why is speaking with native speakers useful?
+@choice A) It helps learners notice their own errors.
+@choice B) It makes grammar unnecessary.
+@choice C) It saves money.
+@choice D) It is required by law.
+@question 29. What do many learners underestimate?
+@choice A) The importance of vocabulary.
+@choice B) The time it takes to make progress.
+@choice C) The cost of courses.
+@choice D) The number of words in English.
+@question 30. What is the author's advice?
+@choice A) Wait until you are ready to speak.
+@choice B) Use the language as early as possible.
+@choice C) Read grammar books only.
+@choice D) Avoid speaking with strangers.
+@body
+Many adults give up learning a second language after a few months, and researchers say the reason is rarely a lack of ability. Adults usually compare themselves with children, who appear to absorb new words effortlessly, and they conclude that they are too old to learn. In fact, adults have advantages that children do not: they understand grammar more quickly and they can rely on strategies they have developed from reading. The real difficulty is time and embarrassment. Adult learners are reluctant to make mistakes in public, and this reluctance prevents them from practising the skill that matters most. Teachers who work with adults recommend short daily sessions rather than long weekly classes, and they emphasise that progress becomes visible only after several months of consistent effort. Those who persist often report an unexpected benefit: their understanding of their own language improves as well.
+
+## 长篇阅读 | Electric Cars and the Power Grid
+@topic 段落匹配：电动汽车普及对电网的影响
+@question 36. Electric cars put extra pressure on the power grid.
+@question 37. Most owners charge their cars in the evening.
+@question 38. Charging at peak hours can overload local transformers.
+@question 39. Smart charging can shift demand to quieter periods.
+@question 40. Some utilities offer lower prices at night.
+@question 41. Batteries in electric cars could store surplus energy.
+@question 42. The grid in rural areas will need major investment.
+@question 43. Government policy has accelerated the shift to electric vehicles.
+@question 44. The author notes that the problem is not the cars themselves.
+@question 45. Planning is more important than building more power plants.
+@body
+As electric vehicles become common, engineers have begun to worry about the network that supplies the electricity. If millions of drivers charge their cars in the evening, when demand from households is already at its highest, the system could be overloaded in particular districts. Fortunately, most vehicles stand unused for more than twenty hours a day, which means the time of charging can be shifted without much inconvenience. Experiments in several cities have shown that owners are willing to charge at night if the price is lower, and that a modest discount is enough to change their behaviour. Some researchers go further and propose that cars should be able to sell electricity back to the grid during periods of high demand. The technology works, but the regulations and the pricing systems needed to support it are still under discussion. What is certain is that transport and electricity, which were once separate industries, are now becoming parts of a single problem.
+
+## 仔细阅读 | Passage One
+@topic 仔细阅读：赞美的效果为什么常常适得其反
+@question 46. What is the main idea of the passage?
+@choice A) Children should never be praised.
+@choice B) The way praise is given determines whether it helps.
+@choice C) Intelligence is fixed at birth.
+@choice D) Teachers praise students too rarely.
+@question 47. According to the passage, what should parents praise?
+@choice A) Natural talent and intelligence.
+@choice B) Effort, strategy and persistence.
+@choice C) The final result of an examination.
+@choice D) The speed with which a task is finished.
+@body
+Parents and teachers are constantly advised to praise children, and the advice is seldom questioned. Yet a series of experiments suggests that the wrong kind of praise can make children more fragile rather than more confident. In one study, pupils who were told they were clever after solving a simple puzzle later chose easier tasks, apparently because they wished to protect the reputation they had just been given. Pupils who were praised for the method they used, or for the effort they had made, behaved in the opposite way: they selected harder problems and persisted longer when the work became difficult. The difference lies in what the child learns to believe. Praise for intelligence teaches that ability is a fixed quantity that can be lost at any moment, so failure becomes a threat to identity. Praise for effort teaches that ability grows with practice, so failure becomes information. Teachers who have adopted this approach report that students become more willing to attempt questions they cannot immediately answer, and that classrooms become quieter places where mistakes are discussed rather than hidden.
+
+## 仔细阅读 | Passage Two
+@topic 仔细阅读：人们为什么不愿使用公共交通
+@question 50. What does the author argue?
+@choice A) Public transport is too expensive to maintain.
+@choice B) Convenience and reliability matter more than price.
+@choice C) People prefer cars because they are cheaper.
+@choice D) Buses should be replaced by trains.
+@body
+Cities invest heavily in public transport and then wonder why residents continue to drive. The usual explanation is cost, but surveys consistently show something else. Where buses are frequent, predictable and clean, people use them regardless of income; where services are irregular, even passengers who cannot afford a car will borrow money to avoid them. Reliability is the decisive factor, because a journey that may take twenty minutes or fifty cannot be planned around, and an unplannable journey is useless for anyone who must arrive at a fixed time. Convenience follows closely behind: a route that requires two changes and a long walk is rejected even by commuters who describe themselves as environmentally conscious. This suggests that the money spent on advertising campaigns would be better spent on frequency. Doubling the number of buses on a route costs more than a poster, but it changes the calculation that every passenger makes before leaving the house. The car, in other words, is not defeated by argument. It is defeated by a service that turns up on time.
+
+## 翻译 | 端午节
+@topic 汉译英：端午节与龙舟赛（参考译文）
+@body
+The Dragon Boat Festival falls on the fifth day of the fifth month of the lunar calendar. It is observed in memory of Qu Yuan, a poet who drowned himself in a river more than two thousand years ago. According to the story, local people threw rice into the water so that the fish would not eat his body, and this custom is said to be the origin of zongzi, a kind of rice dumpling wrapped in leaves. Nowadays the festival is best known for dragon boat races, in which teams row to the beat of a drum. The races have also become popular in other countries, and they attract competitors of all ages.
+
+## 写作 | 范文
+@topic 写作：The advantages and disadvantages of living in a big city（参考范文）
+@body
+Living in a big city offers opportunities that small towns cannot match. Hospitals, universities and theatres are within reach, and a graduate is far more likely to find a job that suits their training. At the same time, city life has obvious drawbacks. Housing consumes a large share of income, the daily commute exhausts people before they begin work, and neighbours who have lived in the same building for years may never learn each other's names. Whether the exchange is worthwhile depends on what stage of life a person has reached. For someone eager to learn and to meet people from different backgrounds, the city is probably the better choice. For someone who values space, quiet and a slower pace, it is not.

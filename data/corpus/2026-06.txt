@@ -1,0 +1,75 @@
+# 2026年6月 CET-4（真题片段语料，含回忆版）
+# 考试时间经官方核实： https://cet.neea.edu.cn 公布 2026年上半年全国大学英语四、六级笔试于 6月13日举行。
+# 本文件只收录能在公开来源中核实到的英文原句，未做补充想象。
+# 来源清单：
+#   [J] 新东方四六级 2026年6月四级仔细阅读真题答案（第一套）https://cet4-6.xdf.cn/202606/15231782.html
+#   [K] 新东方四六级 2026年上半年四级长篇阅读匹配参考答案（第一套）https://cet4-6.xdf.cn/202606/15231794.html
+#   [L] 新东方四六级 2026年上半年四级翻译答案解析（礼尚往来）https://cet4-6.xdf.cn/202606/15231801.html
+#   [M] 新东方在线 2026年6月英语四级真题答案完整版（第一套，含听力）https://cet4.koolearn.com/20260613/935343.html
+#   [N] 人人文库 2026年6月大学英语四级考试第1套回忆版真题完整参考答案 https://www.renrendoc.com/paper/535514479.html
+#   [O] 中国教育考试网（教育部教育考试院）https://cet.neea.edu.cn —— 用于核实考试时间，不公布试卷内容
+# 来源冲突说明：关于第一套的选词填空与长篇阅读，来源 J/K 与来源 M/N 给出的篇目不一致
+#   （J/K：咖啡苦味敏感度研究 + 运动与认知衰退；M/N：工业革命与工人阶级 + 新西兰大堡岛观星）。
+#   本文件采用 J/K 的组合，因为两个来源互相印证且选项词与目标文章语义吻合。
+# 未获取的字段：写作范文原文。原因见 ../2025-2026来源说明.md。
+
+#### 2026年6月 第1套
+
+## 听力 | Pets and Well-being
+@topic 短文听力：养宠物给人带来的心理支持与代价（22-25 题。下列为来源 M 公布的正确项原文，题库未公布听力原文与题干英文）
+@body
+They had at least one pet.
+A sense of purpose.
+Some disadvantages related to pet ownership.
+They bring many of the same benefits as human social support.
+
+## 听力 | Plastic in the Diet
+@topic 短文听力：日常饮食与空气中的微塑料摄入（19-21 题。下列为来源 M 公布的正确项原文，题库未公布听力原文与题干英文）
+@body
+They are taking in a lot of plastic.
+Air, bottled water and seafood.
+How much plastic there is in the remaining 85 percent of Americans' typical diet.
+
+## 选词填空 | Sensitivity to Coffee
+@topic 选词填空：对咖啡苦味越敏感的人反而喝得越多；已公布正确项依次为 simply、opposite、reinforcement、heightened、convince、consumption、perceive、separately、addition、avoid（开篇文章与选项来源见下方"来源冲突说明"）
+@body
+It may sound surprising, but people who are supersensitive to coffee's bitter taste actually drink more of it, a new study finds.
+
+## 长篇阅读 | Exercise and Dementia
+@topic 段落匹配：中年运动与阿尔茨海默病风险（答案 36-40 FLAHO，41-45 EKMCI；来源 K）
+@body
+Dementia typically gets worse over time.
+The message is not that everyone needs to run marathons in middle age.
+A new study from Sweden shows that women who were highly fit in mid-life were nearly 90 percent less likely to get dementia decades later.
+It does give us hope that dementia can be prevented or delayed through exercise in one's middle age.
+In the next three to five years, these studies should allow researchers to provide clearer recommendations for exercise, diet and social activities that might reduce Alzheimer's risk.
+
+## 仔细阅读 | Passage One（冒名顶替现象）
+@topic 仔细阅读：冒名顶替现象 Impostor Phenomenon（答案 46-50 BCDBA；来源 J。首句为原文，其后五句为已公布的正确选项原文，非正文）
+@body
+People who systematically underestimate themselves and their own performance suffer from the so-called Impostor Phenomenon.
+They tend to attribute their achievements to good fortune.
+Refrain from acting on impulse.
+Mark down their objectively rated performance.
+They will be fearful of potential consequences.
+They are more liable to have depression.
+
+## 仔细阅读 | Passage Two（音乐）
+@topic 仔细阅读：音乐是一种跨越文化的通用语言（答案 51-55 BDACD；来源 J。前两句为原文，其后五句为已公布的正确选项原文，非正文）
+@body
+Music is a universal language.
+In every culture and country, you will find music.
+It has the power to unite people throughout the world.
+Fantastic results can be achieved.
+It is present in music all around the world.
+To express their emotions.
+The way it is made use of.
+
+## 翻译 | 礼尚往来
+@topic 汉译英：中国传统文化中的互赠礼物与礼尚往来。中文原题四句、参考译文来源 L、M、N 三方互相印证，是本批数据中可信度最高的部分
+@body
+In traditional Chinese culture, exchanging gifts among relatives and friends is an important etiquette in interpersonal communication.
+Gift-giving is not merely a material offering, but also an expression of emotion and a vital bond that sustains interpersonal relationships.
+A thoughtfully selected gift tailored to the recipient's preferences can often deepen mutual affection.
+The Chinese adhere to the tradition of "mutually exchanging courtesies".
+Upon receiving a gift, people will express gratitude and reciprocate with a present at an appropriate time to foster a more harmonious relationship with one another.

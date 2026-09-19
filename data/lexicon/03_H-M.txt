@@ -1,0 +1,139 @@
+# 格式：单词|词性|义项(用;分隔，带*者为四级常考义)|等级(A基础 B核心 C进阶)|搭配/派生提示
+habit|n.|*习惯,习性|A|develop a habit 养成习惯
+handle|v./n.|*处理,应对;把手;柄|A|handle a problem 处理问题
+harsh|adj.|*严厉的,苛刻的;恶劣的|C|harsh conditions 恶劣条件
+harvest|n./v.|*收获,收成;收割|A|
+hazard|n./v.|*危险,危害;冒险猜测|C|health hazard 健康危害
+heal|v.|*治愈,愈合;使和解|B|
+highlight|v./n.|*强调,突出;最精彩的部分|B|highlight the need 突出必要性
+hinder|v.|*阻碍,妨碍|C|hinder progress 阻碍进步
+hire|v./n.|*雇用,租用;租金|A|
+historic|adj.|*有历史意义的;历史上著名的|A|historic site 历史遗址
+household|n./adj.|*家庭,户;家用的|A|household income 家庭收入
+however|adv./conj.|*然而;无论如何|A|
+huge|adj.|*巨大的,庞大的|A|
+humanity|n.|*人类;人性;人文学科|C|
+humble|adj.|*谦逊的;卑微的;简陋的|C|
+identical|adj.|*完全相同的,同一的|B|be identical to 与…相同
+identify|v.|*识别,确认;认同;发现|A|identify with 认同
+ideology|n.|*意识形态,思想体系|C|
+ignore|v.|*忽视,不顾|A|
+illustrate|v.|*说明,阐明;给…插图|B|illustrate the point 说明观点
+imitate|v.|*模仿,仿效|B|
+immense|adj.|*巨大的,极大的|B|
+impact|n./v.|*影响,冲击;撞击|A|have an impact on 对…有影响
+implement|v./n.|*实施,执行;工具|B|implement a policy 执行政策
+imply|v.|*暗示,意味着|B|imply that 意味着
+impose|v.|*强加;征(税);推行|B|impose on 强加于
+impress|v.|*使印象深刻;使铭记|A|be impressed by 对…印象深刻
+improve|v.|*改善,提高|A|improve efficiency 提高效率
+incentive|n.|*激励,刺激;动机|C|financial incentive 经济激励
+incident|n.|*事件,事故;插曲|B|
+include|v.|*包括,包含|A|
+income|n.|*收入,所得|A|annual income 年收入
+increase|n./v.|*增加,增长|A|increase by 增加了
+indicate|v.|*表明,指示;暗示|A|indicate that 表明
+individual|n./adj.|*个人,个体;单独的;独特的|A|individual differences 个体差异
+industry|n.|*工业,产业;勤劳|A|the tourism industry 旅游业
+inevitable|adj.|*不可避免的,必然的|B|it is inevitable that 必然
+infer|v.|*推断,推论|C|infer from 从…推断
+influence|n./v.|*影响;影响力;感化|A|have influence on 对…有影响
+inform|v.|*通知,告知;告发|A|inform sb of 通知某人
+initial|adj.|*最初的,开始的;首字母|B|initial stage 初始阶段
+initiative|n.|*主动权;倡议;首创精神|B|take the initiative 采取主动
+innovation|n.|*创新,革新|B|technological innovation 技术创新
+inquire|v.|*询问,打听;调查|B|inquire about 询问
+insight|n.|*洞察力;见解,领悟|B|insight into 对…的深刻理解
+insist|v.|*坚持,坚决主张|A|insist on 坚持
+inspire|v.|*激励,鼓舞;启发;唤起|B|inspire sb to do 激励某人做
+install|v.|*安装,设置;任命|B|install software 安装软件
+instance|n.|*例子,实例;情况|A|for instance 例如
+institute|n./v.|*机构,学院;建立,制定|B|research institute 研究所
+instruct|v.|*指示,命令;教授,指导|B|instruct sb to do 指示某人做
+instrument|n.|*仪器,器械;乐器;工具|B|musical instrument 乐器
+insufficient|adj.|*不足的,不够的|C|
+insult|v./n.|*侮辱,辱骂|C|
+insure|v.|*给…保险;确保|B|insure against 投保防范
+integrate|v.|*整合,融合;使融入|C|integrate into 融入
+intend|v.|*打算,意图;意指|A|be intended for 专为…而设
+intense|adj.|*强烈的;紧张的;热情的|B|intense competition 激烈竞争
+interact|v.|*互动,交流;相互作用|B|interact with 与…互动
+interpret|v.|*解释,理解;口译|B|interpret as 理解为
+interview|n./v.|*面试;采访;接见|A|job interview 求职面试
+introduce|v.|*介绍;引进;提出;推行|A|introduce a system 引入制度
+invest|v.|*投资;投入(时间精力)|A|invest in 投资于
+investigate|v.|*调查,研究|B|investigate the cause 调查原因
+involve|v.|*涉及,包含;使参与;使卷入|A|be involved in 参与/卷入
+isolate|v.|*隔离,孤立;分离出|B|isolate from 与…隔离
+issue|n./v.|*问题,议题;发行;发布;期号|A|raise an issue 提出问题
+item|n.|*项目,条款;一件(商品)|A|
+jealous|adj.|*嫉妒的;羡慕的|be jealous of 嫉妒
+joint|n./adj.|*关节;连接处;共同的,联合的|B|joint effort 共同努力
+journal|n.|*期刊,杂志;日志|B|academic journal 学术期刊
+judge|n./v.|*法官,裁判;判断,评判|A|judge by 依据…判断
+justify|v.|*证明…正当,为…辩护|B|justify the decision 证明决定合理
+keen|adj.|*热衷的;敏锐的;激烈的|B|be keen on 热衷于
+label|n./v.|*标签;称号;贴标签;归类|B|label sb as 把某人称为
+labor|n./v.|*劳动,工作;劳工;努力|A|manual labor 体力劳动
+lack|n./v.|*缺乏,不足|A|lack of 缺乏
+launch|v./n.|*发起,推出;发射;投放市场|B|launch a product 推出产品
+layer|n.|*层,层次|a layer of 一层
+layout|n.|*布局,安排;版面设计|C|
+leadership|n.|*领导力;领导层|B|under the leadership of 在…领导下
+leak|v./n.|*泄漏;渗漏;泄露(消息)|B|leak out 泄露
+lean|v./adj.|*倾斜;倚靠;瘦的;精益的|B|lean on 依赖
+leap|n./v.|*跳跃;剧增;飞跃|B|by leaps and bounds 突飞猛进
+legal|adj.|*法律的;合法的|A|legal right 合法权利
+legislation|n.|*法规,立法|C|pass legislation 通过立法
+leisure|n./adj.|*闲暇,空闲;休闲的|B|leisure activity 休闲活动
+liable|adj.|*有责任的;易于…的|C|be liable to 易于;be liable for 对…负责
+liberal|adj.|*开明的;自由的;文科的|C|liberal arts 文科
+license|n./v.|*执照,许可证;许可|B|driving license 驾照
+likely|adj./adv.|*可能的;很可能|A|be likely to do 可能做
+limit|n./v.|*限度,限制;限定|A|set a limit 设限
+link|n./v.|*联系,连接;环节,链接|A|link A to B 把A与B联系
+literally|adv.|*字面上;确实地|B|
+locate|v.|*位于;找到…的位置;定居|A|be located in 位于
+logic|n.|*逻辑,推理;道理|B|
+lonely|adj.|*孤独的;偏僻的|A|
+lobby|n./v.|*大厅;游说;游说团体|C|
+long|v./adj.|*渴望;长的|A|long for 渴望
+loyal|adj.|*忠诚的,忠实的|B|be loyal to 忠于
+luxury|n./adj.|*奢侈品;奢侈;奢华的|B|luxury goods 奢侈品
+magnificent|adj.|*壮丽的,宏伟的;极好的|B|
+maintain|v.|*维持,保持;维修;坚持认为|A|maintain balance 保持平衡
+major|adj./n./v.|*主要的;专业;主修;少校|A|major in 主修
+majority|n.|*大多数,多数|A|the majority of 大多数
+manage|v.|*管理,经营;设法做到;应付|A|manage to do 设法做成
+manipulate|v.|*操纵,控制;巧妙处理|C|
+manner|n.|*方式,方法;举止;礼貌|A|in a … manner 以…方式
+manual|adj./n.|*手工的;体力的;手册,指南|B|manual work 手工劳动
+manufacture|v./n.|*制造,生产;制造业|B|manufacture goods 制造商品
+margin|n.|*页边空白;边缘;利润;差额|C|profit margin 利润率
+mature|adj./v.|*成熟的;使成熟;到期|B|
+maximum|n./adj.|*最大量;最大限度的|B|to the maximum 最大限度地
+means|n.|*方法,手段;钱财|A|by means of 通过…方式
+meanwhile|adv.|*与此同时;期间|A|
+measure|n./v.|*措施;测量;衡量;尺度|A|take measures 采取措施
+mechanism|n.|*机制;机械装置;办法|B|coping mechanism 应对机制
+media|n.|*媒体,传媒;媒介|A|social media 社交媒体
+medium|n./adj.|*媒介,媒体;中等的;中间的|B|medium size 中号
+mental|adj.|*心理的,精神的;智力的|A|mental health 心理健康
+mention|v./n.|*提到,提及|A|not to mention 更不用说
+mere|adj.|*仅仅的,只不过的|B|a mere 仅仅一个
+merely|adv.|*仅仅,只不过|A|
+minimum|n./adj.|*最小值;最低限度的|B|minimum wage 最低工资
+minor|adj./n./v.|*较小的;次要的;未成年人;辅修|B|minor changes 小改动
+miracle|n.|*奇迹,令人惊奇的事|B|
+mislead|v.|*误导,使误解|B|misleading advertising 误导性广告
+mission|n.|*使命,任务;代表团;使团|B|mission statement 使命宣言
+mobile|adj.|*可移动的;流动的;手机的|A|mobile phone 手机
+moderate|adj./v.|*适度的;温和的;缓和|B|moderate exercise 适度运动
+modify|v.|*修改,更改;修饰|B|modify behavior 改变行为
+monitor|v./n.|*监测,监控;显示器;班长|B|monitor progress 监控进展
+mood|n.|*心情,情绪;语气|A|in a good mood 心情好
+moral|adj./n.|*道德的;道义上的;寓意;道德|A|moral standard 道德标准
+motivate|v.|*激励,激发…的积极性|B|motivate sb to do 激励某人做
+motive|n./adj.|*动机,目的;发动的|B|motive for …的动机
+mutual|adj.|*相互的;共同的|B|mutual understanding 相互理解
+mysterious|adj.|*神秘的,难以理解的|B|

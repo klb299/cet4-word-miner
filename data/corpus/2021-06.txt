@@ -1,0 +1,92 @@
+# 2021年6月 CET-4 第1套（仿真真题语料，可替换为官方真题文本）
+#### 2021年6月 第1套
+
+## 听力 | News Report One
+@topic 新闻：一座图书馆启动古籍数字化项目
+@question 1. What is the report mainly about?
+@choice A) A library that is digitising its ancient books.
+@choice B) The sale of rare books to collectors.
+@choice C) A new building for the city library.
+@choice D) A shortage of librarians.
+@body
+A library has begun a project to photograph its collection of ancient books, and the first stage is expected to take three years. The books are extremely fragile, and some of them are so damaged that they cannot be opened without risk, which means ordinary readers have had no access to them for decades. Once the pages are photographed, however, anyone with an internet connection will be able to read them, and researchers will no longer need to travel to the city. Librarians emphasise that digitisation does not replace the original volumes, since the paper itself contains information about when and how the book was made. The project has been financed by a combination of public funds and private donations, and the library hopes to extend it to its collection of maps next year.
+
+## 选词填空 | Noise in Cities
+@topic 选词填空：城市噪音对健康的影响
+@question 26. What is said about the noise level in big cities?
+@choice A) It has fallen steadily over the past decade.
+@choice B) It often exceeds the level considered safe.
+@choice C) It is mainly produced by public transport.
+@choice D) It has little effect on city dwellers.
+@question 27. How does the passage describe the effect of noise on health?
+@choice A) It is limited to the ears.
+@choice B) It only affects the elderly.
+@choice C) It can raise the risk of heart disease.
+@choice D) It has never been measured.
+@question 28. What do the studies of sleep suggest?
+@choice A) Noise shortens the time needed to fall asleep.
+@choice B) Traffic noise at night disturbs sleep patterns.
+@choice C) People adapt to noise within weeks.
+@choice D) Sleeping with windows open is harmless.
+@question 29. What action have some city governments taken?
+@choice A) They have banned cars from the centre.
+@choice B) They have set limits on night-time noise.
+@choice C) They have moved residents away.
+@choice D) They have built more highways.
+@question 30. What does the author suggest at the end of the passage?
+@choice A) People should move to the countryside.
+@choice B) Quiet is becoming a kind of privilege.
+@choice C) Noise will disappear with new technology.
+@choice D) The problem cannot be solved.
+@body
+Noise is usually treated as an annoyance rather than a health problem, but medical researchers now classify it as a serious risk. Long-term exposure to traffic noise has been linked to high blood pressure, disturbed sleep and, in children, slower progress in reading. The mechanism is straightforward: the body reacts to sudden sound as if it were a threat, and repeated activation of this response eventually damages the cardiovascular system. What makes the problem difficult to solve is that people adapt to noise without becoming immune to it. Residents who insist that they no longer notice the traffic often show the same physical signs of stress as those who complain. City authorities have begun to measure sound levels in the same way they measure air quality, and a few of them have introduced quiet zones where vehicles are restricted. Early results indicate that even a modest reduction in noise produces measurable health benefits within a few years.
+
+## 长篇阅读 | Gig Work and Delivery Riders
+@topic 段落匹配：外卖骑手与零工经济的工作状况
+@question 36. Many riders are attracted by the freedom of choosing working hours.
+@question 37. The platforms set the rules that riders must follow.
+@question 38. Riders are paid according to the number of orders they complete.
+@question 39. Accidents are common because riders are pressed for time.
+@question 40. Most riders have no insurance against injury.
+@question 41. Some riders treat the job as a temporary source of income.
+@question 42. The relationship between riders and platforms is not a formal employment relationship.
+@question 43. Local governments have begun to discuss rules for the industry.
+@question 44. Customers often do not know the pressure the riders are under.
+@question 45. The author calls for a balance between efficiency and safety.
+@body
+The rapid expansion of food delivery has created a large workforce whose conditions differ sharply from those of traditional employees. Riders are usually classified as independent contractors, which means they are not covered by labour regulations and must supply their own equipment. They value the flexibility: many of them are students or parents who could not accept a fixed schedule. Yet the same flexibility transfers every risk onto the worker. If a rider is injured, or if the restaurant is slow, the loss falls on them alone. Companies point out that the system allows anyone to start earning within a day, and that attempts to regulate the industry have reduced the number of available jobs. Researchers who interviewed riders found a more complicated picture: most of them accepted the arrangement for a period, but very few expected to remain in it for years, and almost none had any form of insurance.
+
+## 仔细阅读 | Passage One
+@topic 仔细阅读：网络谣言为什么传播得比真相快
+@question 46. What does the passage mainly discuss?
+@choice A) The technology behind social networks.
+@choice B) Why false information spreads faster than the truth.
+@choice C) How to punish people who spread rumours.
+@choice D) The history of journalism.
+@question 47. What did the study of millions of messages find?
+@choice A) False stories are usually longer than true ones.
+@choice B) Falsehoods travel further and faster because they are more novel.
+@choice C) People share only information they believe.
+@choice D) Rumours disappear within a day.
+@body
+A study that examined millions of messages shared online reached an uncomfortable conclusion: false information travels faster, further and deeper than accurate information. The explanation is not that people are foolish. It is that a rumour is usually more surprising than the truth, and surprise is what makes something worth passing on. A story about an ordinary event produces no desire to share it, while a story that seems incredible demands an audience. Researchers measured this by comparing how novel each message was, and found that falsehoods were consistently rated as more unexpected. There is a second factor. People share material that expresses emotion, and rumours tend to be written in emotional language, whereas corrections are sober and careful, which makes them far less attractive. Platforms have tried various responses, from warnings to removing content, but the most effective measure appears to be slower: teaching users to check the source before sharing. Studies suggest that even a brief pause, prompted by a simple question, reduces the number of false stories people forward. The problem cannot be solved by deleting rumours alone, because the demand for surprising stories remains.
+
+## 仔细阅读 | Passage Two
+@topic 仔细阅读：选择专业时应该看兴趣还是就业前景
+@question 50. What is the author's conclusion?
+@choice A) Students must choose the subject with the highest salary.
+@choice B) Interest and employment prospects should both be weighed, with interest given more weight.
+@choice C) Universities should decide for their students.
+@choice D) Employment data is useless.
+@body
+Every year, families argue about the same question: should a student choose the subject they love, or the one that leads to a secure job? The debate is usually presented as a choice between idealism and realism, but the evidence does not support such a sharp distinction. Graduates who selected a subject mainly because of its employment prospects are not necessarily happier in their work, and a substantial proportion of them leave the field within five years. Interest, meanwhile, has a practical value that is easy to overlook: students who are genuinely curious study harder, absorb material faster, and are more willing to persist when a course becomes difficult. That said, it would be dishonest to ignore the market. A sensible approach is to treat employment data as information rather than as an instruction, and to ask how a subject can be combined with skills that employers value, such as writing clearly, analysing data or speaking another language. The students who do best are rarely those who followed a formula. They are the ones who found something they were willing to work at, and then made sure that other people could see the value of it.
+
+## 翻译 | 筷子与餐桌礼仪
+@topic 汉译英：筷子的使用与文化含义（参考译文）
+@body
+Chopsticks have been used in China for at least three thousand years, and they reflect a practical attitude towards food: dishes are cut into small pieces before they are served, so a knife at the table is unnecessary. There are also rules about how chopsticks should be used. For example, they should not be stood upright in a bowl of rice, because this resembles the incense burned for the dead, and it is considered unlucky. Parents teach these rules to their children from an early age, and visitors who observe them are usually praised for their manners.
+
+## 写作 | 范文
+@topic 写作：Is cash still necessary?（参考范文）
+@body
+Electronic payment has become so common that some people predict the end of cash. It is certainly convenient: a transaction takes seconds, there is no risk of receiving the wrong change, and every purchase is recorded automatically. However, I do not think cash should disappear completely. Many elderly people still find digital payment confusing, and they would be excluded from ordinary shopping if notes and coins were abolished. There is also the question of privacy, since electronic records reveal a great deal about a person's habits. For these reasons, cash should remain an option rather than a rarity, and shops that accept only cards or phones should be required to say so at the entrance.

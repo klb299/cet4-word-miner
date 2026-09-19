@@ -1,0 +1,107 @@
+# 2024年6月 CET-4 第1套（仿真真题语料，可替换为官方真题文本）
+#### 2024年6月 第1套
+
+## 听力 | News Report One
+@topic 新闻：某市实施限塑令一年后的调查结果与居民反应
+@question 1. What is the news report mainly about?
+@choice A) The recycling industry in the city.
+@choice B) The effect of a ban on plastic bags.
+@choice C) A new method of waste management.
+@choice D) The rising cost of daily goods.
+@question 2. What does the survey reveal about local residents?
+@choice A) Most of them ignore the new rule.
+@choice B) They are willing to pay for paper bags.
+@choice C) Many have formed the habit of carrying their own bags.
+@choice D) They complain about the quality of paper bags.
+@body
+A recent survey has measured the impact of the plastic bag ban that the city introduced one year ago. Researchers questioned more than two thousand residents and found that a large proportion of them had gradually changed their shopping habits. Almost sixty percent said they now carry a reusable bag when they go to the market, and the amount of plastic waste collected in the area has declined significantly. The city government described the result as encouraging, though it admitted that the measure had also created unexpected problems. Small shop owners complained that they had to spend more money on paper bags, and a few of them said the extra expense was hard to absorb. Officials responded that they would offer financial support to small businesses during the transition. Environmental groups, however, argue that a ban alone is not sufficient, and that the public also needs convenient access to recycling facilities. They urge the government to invest in better infrastructure rather than rely on a single policy.
+
+## 听力 | Passage Two
+@topic 短文：睡眠不足对大学生学习效率的影响
+@question 3. What does the speaker say about college students' sleep?
+@choice A) Most students sleep longer than they used to.
+@choice B) Lack of sleep affects their academic performance.
+@choice C) Students are unaware of their sleeping problems.
+@choice D) Sleep has little to do with memory.
+@body
+Researchers have long been concerned about the sleeping habits of college students. In a study that followed four hundred undergraduates for a semester, students who reported sleeping fewer than six hours a night performed worse on memory tests than those who slept eight hours. The difference was not huge, but it was consistent and it appeared in almost every subject the students took. What surprised the researchers was that many students did not consider sleep a serious issue. They tended to blame poor grades on stress or on the difficulty of the course, and they rarely connected their tiredness with the hours they spent on social media late at night. The team suggests that universities should treat sleep as part of their health education, instead of assuming that students will adjust their schedules on their own.
+
+## 选词填空 | Reading Habits
+@topic 选词填空：成年人阅读习惯调查（15选10 体裁）
+@question 26. What has remained stable over the past decade?
+@choice A) The number of people reading a book a month.
+@choice B) The price of books.
+@choice C) The length of a working day.
+@choice D) The number of libraries.
+@question 27. What has changed dramatically?
+@choice A) The way people read.
+@choice B) The alphabet.
+@choice C) The cost of paper.
+@choice D) The number of readers.
+@question 28. What do many readers now prefer?
+@choice A) Long novels.
+@choice B) Short articles on digital devices.
+@choice C) Printed magazines.
+@choice D) Audio only.
+@question 29. Why do educators worry about the shift?
+@choice A) It reduces the ability to concentrate.
+@choice B) It costs schools more money.
+@choice C) It lowers reading speed.
+@choice D) It makes books obsolete.
+@question 30. How have some schools responded?
+@choice A) By banning phones entirely.
+@choice B) By setting aside a fixed period for silent reading.
+@choice C) By shortening the school day.
+@choice D) By buying more computers.
+@body
+A national survey of adult reading habits has produced some surprising results. Researchers found that the number of people who read at least one book a month has remained relatively stable over the past decade, but the way they read has changed dramatically. Many readers now rely on digital devices, and a growing number of them say they prefer short articles to long books. The report suggests that people are not reading less; rather, they are reading differently, and they often read in short periods during the day instead of sitting down for an hour at night. Educators worry that this shift may reduce readers' ability to concentrate on complex material. They argue that deep reading requires patience and that constant interruptions make it harder for the brain to process difficult ideas. Some schools have responded by setting aside a fixed period each morning for silent reading, hoping that students will rediscover the pleasure of finishing a whole chapter without checking a phone.
+
+## 长篇阅读 | Remote Work and City Life
+@topic 段落匹配：远程办公如何改变城市、通勤与家庭生活
+@question 36. Morning rush-hour traffic has dropped in many large cities.
+@question 37. Suburban neighbourhoods are busier during the day.
+@question 38. Companies have reduced the office space they rent.
+@question 39. Local businesses that served office workers have suffered.
+@question 40. Employees save the time they used to spend commuting.
+@question 41. Many employees report feeling isolated at home.
+@question 42. Managers find it harder to train new staff remotely.
+@question 43. Some tasks still require face-to-face cooperation.
+@question 44. The arrangement does not suit every industry.
+@question 45. The author says the change will not simply be reversed.
+@body
+The widespread shift to remote work has transformed the daily routine of millions of employees, and its consequences reach far beyond the office. City planners report that traffic during the morning rush hour has dropped in many large cities, while suburban neighbourhoods have become busier during the day. Some companies have reduced the space they rent, which has lowered their costs but also weakened the local businesses that depended on office workers. Employees, for their part, describe both benefits and frustrations. They save the time they used to spend on commuting, and many of them say they can concentrate better at home. Yet a significant number report feeling isolated, and managers complain that it is harder to train new staff when nobody is in the same room. Researchers note that the arrangement does not suit every industry, and that some tasks simply require people to cooperate face to face.
+
+## 仔细阅读 | Passage One
+@topic 仔细阅读：塑料污染与消费者行为的改变
+@question 46. What does the author say about plastic pollution?
+@choice A) It is mainly caused by industrial production.
+@choice B) It has become a problem the public can no longer ignore.
+@choice C) It will disappear once recycling improves.
+@choice D) It affects rural areas more than cities.
+@question 47. Why do many customers still use plastic bags?
+@choice A) They are cheaper and more convenient.
+@choice B) They are required by local rules.
+@choice C) They can be reused for years.
+@choice D) They are provided free of charge.
+@body
+Plastic pollution has moved from the edge of public discussion to the centre of it. For years the problem seemed remote, something that happened on distant beaches and in the stomachs of seabirds. Now images of waste in rivers and on city streets have made the issue personal, and governments in dozens of countries have responded with taxes, bans and recycling programmes. Yet behaviour has proved stubborn. Surveys repeatedly show that customers understand the environmental cost of single-use plastic, and that they still choose it when they stand at the checkout. The reason is rarely ignorance. It is convenience, habit and price. A reusable bag works only if you remember to carry it, and a paper bag costs more and tears easily when it rains. Companies have discovered that appealing to conscience is less effective than changing the default option. Supermarkets that simply stopped offering free bags saw a sharper decline in plastic use than those that spent money on advertising campaigns. The lesson is uncomfortable but useful: people are more likely to protect the environment when the easier choice is also the better one. This does not mean that education is wasted. It means that education works best when it is combined with measures that remove the obstacles to doing the right thing.
+
+## 仔细阅读 | Passage Two
+@topic 仔细阅读：社交媒体是否真的让人更孤独
+@question 50. What is the main idea of the passage?
+@choice A) Social media should be banned for teenagers.
+@choice B) The link between social media and loneliness is not simple.
+@choice C) Loneliness has increased because of urban life.
+@choice D) Online communication replaces real friendship.
+@body
+It is often claimed that social media makes people lonely. The evidence, however, is more complicated than the claim. Several large studies have found only a weak connection between the amount of time people spend online and how lonely they feel. What matters more appears to be how they use it. Those who scroll passively through other people's posts tend to report lower satisfaction, while those who send messages, share opinions and maintain contact with friends they rarely meet seem to benefit. Researchers describe this as the difference between consuming and connecting. A second factor is expectation. Users who compare their ordinary lives with the carefully selected images posted by others often conclude that their own lives are inadequate, and this feeling can persist long after they close the application. The problem, then, is not the technology itself but the habits it encourages. Psychologists suggest that users should treat online activity like any other part of their diet: a moderate amount, chosen deliberately, is far healthier than an endless stream of whatever appears on the screen.
+
+## 翻译 | 中国高铁
+@topic 汉译英：中国高速铁路的发展（参考译文）
+@body
+In recent years, China has built the largest high-speed railway network in the world. The trains are fast, safe and relatively comfortable, and they have greatly reduced the time needed to travel between major cities. Millions of passengers choose them every day, not only because they save time but also because tickets are affordable for ordinary people. The network has also promoted economic development in inland regions, where factories and tourist sites were once difficult to reach. Engineers continue to improve the technology, and several new lines are now under construction. For many travellers, the railway has become a symbol of the country's rapid modernisation.
+
+## 写作 | 范文
+@topic 写作：Short essays on the influence of artificial intelligence（参考范文）
+@body
+Artificial intelligence is changing the way we work and study, and its influence can be seen almost everywhere. On the one hand, it saves us a great deal of time by handling repetitive tasks, and it helps doctors analyse medical images more accurately. On the other hand, many people worry that machines will replace human workers, and that students may rely too heavily on tools that write essays for them. In my view, technology itself is neither good nor bad; what matters is how we choose to use it. Schools should teach students to treat these tools as assistants rather than substitutes for thinking. If we learn to guide the technology instead of being guided by it, we can enjoy its benefits while avoiding its risks.

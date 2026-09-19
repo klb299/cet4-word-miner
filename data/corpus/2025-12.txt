@@ -1,0 +1,52 @@
+# 2025年12月 CET-4（真题片段语料）
+# 本文件只收录能在公开来源中核实到的英文原句，未做补充想象。
+# 处理规则：来源截断的句子在最后一个完整成分处收尾；破折号改写成逗号或独立句，避免误切。
+# 来源清单：
+#   [F] 新东方 2025年12月大学英语四级阅读试题及答案（第一套）https://www.xdf.cn/94/202601/15070572.html
+#   [G] 腾讯 ima 知识库《大学英语4级备考知识库(2026最新版)》2025年12月四级真题长篇阅读第1套
+#       https://ima.qq.com/wiki/?shareId=f6d02b953be1329c426b132e0f1a2055783cf2a023669f7e282cfbc6e0e9f1aa&mediaId=pdf_b98169bfb7fa0ec8d6667b7986843cc9_1151e41fa2b8dbaafe6676ec3ba9ae337462815178688854
+#   [H] 同上知识库 2025年12月四级真题仔细阅读第1套
+#       https://ima.qq.com/wiki/?shareId=f6d02b953be1329c426b132e0f1a2055783cf2a023669f7e282cfbc6e0e9f1aa&mediaId=pdf_b98169bfb7fa0ec8d6667b7986843cc9_103e8a81f5d9082798c7ab05bb6bd5897462815178688854
+#   [I] 新东方四六级 历年四级写作题目汇编 https://cet4-6.xdf.cn/202608/15344763.html
+# 未获取的字段：听力原文、汉译英中文原题全文、写作范文原文。原因见 ../2025-2026来源说明.md。
+
+#### 2025年12月 第1套
+
+## 选词填空 | Too Many Choices
+@topic 选词填空：选择过多为什么反而让人困惑；已公布正确项依次为 chance、selection、confused、invest、presented、crucial、matter、ultimately、enter、range（来源 F）
+@body
+People tend to want as many choices as possible.
+
+## 长篇阅读 | The Battle over Bike Lanes
+@topic 段落匹配：纽约皇后区自行车道之争与沿街生意的变化（答案 36-40 EKCOG，41-45 DLJAH；正文来源 G，定位句来源 F）
+@body
+Five years ago, the city of Queens, New York, announced that it would be putting bike lanes onto a stretch of Skillman Ave, and removing 116 parking spots.
+Cyclists loved the plan, but local business owners got very angry.
+Taking out those parking spots, as they argued at protests and in letters to the city council, would ruin stores and restaurants along Skillman.
+"Parking here is already a nightmare," one shouted at a protest rally.
+But the bike lanes were a done deal, and soon they were in place.
+There is a rising amount of data showing that installing bike lanes and making streets more pedestrian-friendly boosts the economic fortunes of a place.
+For others, the pushback is cultural, says Henry Grabar, a writer for the Slate Magazine.
+In the year after the bike lanes arrived, businesses on Skillman saw sales rise by 12 percent.
+What is more, that section of road saw new businesses open.
+Crises, after all, have a way of opening people's eyes to possibilities.
+
+## 仔细阅读 | Passage One（昼夜节律）
+@topic 仔细阅读：昼夜节律如何影响健康与服药效果（正文来源 H）
+@body
+All living organisms on Earth are exposed to a 24-hour day-night cycle.
+This cycle is the reason why people rest at night and are active during the day.
+Consequently, all human body functions also follow this daily rhythm, and the timing of behaviors like exercise or food intake can significantly influence your health.
+For example, eating at night can lead to weight gain over time because food intake at night leads to increased fat storage.
+Many drug targets in the body follow a 24-hour cycle, too.
+This means that the specific proteins a drug is designed to modify can react differently to the medicine over the course of a 24-hour time period.
+Because how the body responds to a drug can differ depending on the time it is taken, it logically follows that taking medicines at specific times could help increase their effectiveness and reduce unwanted side effects.
+
+## 翻译 | 民营经济
+@topic 汉译英：中国民营经济的发展（主题与参考数值均已公开，中文原题全文未取得；本句为机构回忆版参考译文，来源见文件头 [I]）
+@body
+As of the end of March 2025, the number of private enterprises in China had exceeded 57 million, accounting for 92.3 percent of the total.
+
+## 写作 | 是否要求大学生学学术写作
+@topic 写作：是否应当要求全体大学生学习学术写作（题目来源 I；范文原文未在可信来源中公布，故不收录正文）
+@question Directions: Suppose it is proposed that all university students should be required to learn academic writing. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.

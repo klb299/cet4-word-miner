@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#2563eb">
+<title>CET-4 真题词汇本</title>
+<style>
+:root{--bg:#f5f6f8;--panel:#fff;--line:#e5e7eb;--ink:#1f2328;--ink2:#4b5563;
+  --ink3:#8b95a3;--brand:#2563eb;--soft:#eff4ff}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif;
+  display:flex;align-items:center;justify-content:center;min-height:100vh;padding:20px}
+.box{background:var(--panel);border:1px solid var(--line);border-radius:16px;
+  max-width:520px;width:100%;padding:30px 26px;box-shadow:0 1px 2px rgba(16,24,40,.05),0 8px 28px rgba(16,24,40,.07)}
+h1{margin:0 0 8px;font-size:22px;letter-spacing:.3px}
+.sub{color:var(--ink2);font-size:13.5px;margin-bottom:20px}
+ul{margin:0 0 22px;padding-left:20px;color:var(--ink2);font-size:13.5px}
+li{margin:5px 0}
+li b{color:var(--ink)}
+a.go{display:block;text-align:center;background:var(--brand);color:#fff;text-decoration:none;
+  border-radius:11px;padding:15px;font-size:15.5px;font-weight:600;margin-bottom:10px}
+a.go:active{opacity:.85}
+.links{display:flex;gap:8px;flex-wrap:wrap}
+.links a{flex:1 1 auto;text-align:center;border:1px solid var(--line);border-radius:9px;
+  padding:10px 12px;font-size:12.5px;color:var(--ink2);text-decoration:none;white-space:nowrap}
+.links a:active{border-color:var(--brand);color:var(--brand)}
+.tip{margin-top:18px;font-size:12px;color:var(--ink3);line-height:1.6;
+  border-top:1px solid var(--line);padding-top:14px}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#15171a;--panel:#1d2024;--line:#2c3035;--ink:#e8eaed;--ink2:#a8afb8;
+    --ink3:#7d848d;--brand:#5b8def;--soft:#1e2836}
+  .links a{border-color:#2c3035}
+}
+</style>
+</head>
+<body>
+<div class="box">
+  <h1>CET-4 历年真题重点词</h1>
+  <div class="sub">结合题目背单词 · 每个词都配真题原句与中文译文</div>
+  <ul>
+    <li><b>1016</b> 个重点词，<b>2431</b> 条真题原句，全部带中文翻译</li>
+    <li>覆盖 <b>2021 年 6 月 ~ 2026 年 6 月</b>，11 个场次、83 个题型块</li>
+    <li>标注<b>词性、常考义、年份套次题型出处</b>，并给出此处语境词性</li>
+    <li>默认隐藏释义与译文，<b>点击自测</b>；手机端已适配，可直接加到主屏</li>
+  </ul>
+  <a class="go" href="output/index.html">开始背单词 →</a>
+  <div class="links">
+    <a href="output/真题词汇表_按年份题型.md">按年份题型词表</a>
+    <a href="output/Anki导入包.csv">Anki 导入包</a>
+  </div>
+  <div class="tip">
+    数据说明：2021-06 ~ 2024-06 为按真题题材与难度撰写的仿真语料，
+    2025-06 之后的 3 套为考后整理的真题片段。详情见仓库内
+    <code>data/2025-2026来源说明.md</code>。
+  </div>
+</div>
+</body>
+</html>

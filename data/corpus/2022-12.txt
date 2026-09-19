@@ -1,0 +1,102 @@
+# 2022年12月 CET-4 第1套（仿真真题语料，可替换为官方真题文本）
+#### 2022年12月 第1套
+
+## 听力 | News Report One
+@topic 新闻：某地为鼓励生育推出补贴政策
+@question 1. What is the report mainly about?
+@choice A) A new policy to support families with children.
+@choice B) The rising cost of housing.
+@choice C) A survey of young couples.
+@choice D) The expansion of local schools.
+@body
+The local government has announced a package of measures intended to encourage couples to have children, including a monthly payment for each child under three and a longer period of paid leave for both parents. Officials say the policy is a response to a sharp decline in the birth rate over the past decade, which has already forced several primary schools in rural districts to close. Economists point out that financial support alone rarely changes such decisions, because the cost of raising a child involves far more than money: it includes housing, education and, above all, time. Young couples interviewed by reporters said they welcomed the payment but were more concerned about whether they could find affordable childcare near their workplace. The government has promised to build more nurseries, though it has not yet specified how the programme will be financed.
+
+## 听力 | Passage Two
+@topic 短文：体育运动对心理健康的长期影响
+@question 3. What did the long-term study find?
+@choice A) Exercise has no effect on mood.
+@choice B) Regular exercise reduces the risk of depression.
+@choice C) Only team sports are beneficial.
+@choice D) Exercise must be intense to help.
+@body
+A study that followed more than ten thousand adults for fifteen years has found that those who exercised regularly were significantly less likely to develop depression. The effect appeared even among people who did nothing more than walk for half an hour a day, which suggests that the intensity of the activity matters less than its regularity. Researchers were careful to note that the relationship is not simply one of cause and effect: people who are already depressed tend to stop exercising, so part of the difference may reflect the illness rather than the cure. Nevertheless, the association remained strong after the team had controlled for income, education and physical health. Some clinics have begun to prescribe exercise alongside medication, and early reports suggest that patients who follow such advice recover slightly faster. The authors of the study emphasise that exercise should not be presented as a replacement for professional treatment, but as a habit that supports it.
+
+## 选词填空 | The Return of the Bicycle
+@topic 选词填空：自行车在许多城市重新流行
+@question 26. What has caused the renewed interest in bicycles?
+@choice A) The falling price of cars.
+@choice B) Traffic jams and health concerns.
+@choice C) A ban on public transport.
+@choice D) The closing of city centres.
+@question 27. What do the figures show about cycling in big cities?
+@choice A) It has stopped growing.
+@choice B) It has risen sharply in recent years.
+@choice C) It is limited to weekends.
+@choice D) It is only for young people.
+@question 28. Why do some commuters avoid cycling?
+@choice A) It is too expensive.
+@choice B) They do not feel safe on the road.
+@choice C) Bicycles are hard to buy.
+@choice D) It takes too long.
+@question 29. What have some cities done to encourage cycling?
+@choice A) Built separate lanes for bicycles.
+@choice B) Raised the tax on cars.
+@choice C) Closed all car parks.
+@choice D) Reduced bus fares.
+@question 30. What is the main point of the passage?
+@choice A) The bicycle is out of date.
+@choice B) The bicycle is regaining its place in city life.
+@choice C) Cars will soon disappear.
+@choice D) Cycling is only a sport.
+@body
+Bicycles are returning to city streets, and the reasons are not difficult to understand. During the pandemic, public transport was regarded as risky, and millions of people who had never considered cycling bought a bicycle instead. Many of them continued after the crisis passed, because they discovered that the journey was faster than a bus and considerably cheaper than driving. City governments encouraged the trend by painting lanes on roads that had previously belonged almost entirely to cars, though in some districts these lanes were removed after complaints from shop owners and taxi drivers. Safety remains the main obstacle: surveys show that a large proportion of residents would cycle regularly if they felt protected from traffic. Cities that invested in separate tracks, rather than painted lines, recorded both a sharp increase in cycling and a decline in accidents.
+
+## 长篇阅读 | Online Education after the Pandemic
+@topic 段落匹配：在线教育的遗产与局限
+@question 36. Online education expanded very quickly during the pandemic.
+@question 37. Students in rural areas faced greater difficulties.
+@question 38. Many teachers were not trained to teach online.
+@question 39. Recorded lessons allow students to learn at their own pace.
+@question 40. Lack of face-to-face contact weakened classroom discussion.
+@question 41. Some universities plan to keep a mixture of online and offline teaching.
+@question 42. Exams taken online raised questions of fairness.
+@question 43. The cost of devices and internet access is still a barrier.
+@question 44. The author warns against treating online teaching as a simple replacement.
+@question 45. The experience has changed what universities expect from teaching.
+@body
+When schools closed, online education was praised as the solution that would keep learning alive. A few years later, the assessment is more modest. Recorded lectures work reasonably well for students who are disciplined and have a quiet place to study, but they fail precisely where schools matter most: with children who need encouragement, structure and someone to notice when they have stopped understanding. Teachers report that attendance in online classes is easy to fake, since a student can log in and leave the room. On the other hand, digital material has proved genuinely useful for revision, and many students say they value the ability to replay a difficult explanation. Most institutions have now settled on a mixture, keeping online resources while insisting that the core of teaching happens in person. The pandemic did not replace the classroom; it revealed what the classroom was for.
+
+## 仔细阅读 | Passage One
+@topic 仔细阅读：为什么超市要把必需品放在最里面
+@question 46. What is the passage mainly about?
+@choice A) The design of supermarkets and its effect on shopping.
+@choice B) The history of the modern supermarket.
+@choice C) The nutritional value of packaged food.
+@choice D) The competition between large retailers.
+@question 47. Why is milk usually placed at the back of a store?
+@choice A) Because it needs refrigeration.
+@choice B) Because customers must pass other products to reach it.
+@choice C) Because it is delivered from the rear entrance.
+@choice D) Because it is bought less often than bread.
+@body
+Anyone who has entered a supermarket for a litre of milk and left with a basket full of goods has experienced the most carefully studied layout in retail. Essentials such as milk, bread and eggs are deliberately placed at the back or on opposite sides of the store, so that customers must walk past hundreds of other products in order to reach them. The route is not random. Items that generate the highest profit are positioned at eye level, while cheaper alternatives are placed on the lowest shelves, where adults rarely look and children do. Music is slower at weekends, when shoppers are less hurried and therefore more likely to buy things they had not planned. Supermarkets defend these techniques as a service to customers, arguing that a logical arrangement helps people find what they need. Critics reply that the layout is designed to defeat self-control, and several countries have discussed regulations requiring stores to place healthy food in prominent positions. Whether such rules would work is uncertain, but the debate has made one thing clear: the modern supermarket is not a neutral space. It is an argument, made of shelves, about what you should want.
+
+## 仔细阅读 | Passage Two
+@topic 仔细阅读：远程医疗能否替代面对面就诊
+@question 50. What is the author's view on telemedicine?
+@choice A) It should replace hospitals entirely.
+@choice B) It is useful but cannot replace every consultation.
+@choice C) It is a dangerous fashion.
+@choice D) It benefits only young patients.
+@body
+Telemedicine expanded rapidly when patients could not visit clinics, and many of them discovered that a consultation conducted from home was more convenient than a journey across the city followed by an hour in a waiting room. For routine matters, such as renewing a prescription or discussing test results, the telephone or a video call is clearly sufficient, and it saves both the patient and the hospital a great deal of time. Doctors also report that some patients speak more frankly in their own living rooms than they do in a consulting room. Yet there are limits that no improvement in video quality will remove. A physician cannot examine an abdomen, feel a lump or observe how a patient walks down a corridor through a screen, and these physical signs are often what reveal a serious condition. There is also the question of who is excluded: elderly patients without a smartphone, and those whose hearing or sight makes a screen impractical, are precisely the people who need medical attention most. The reasonable conclusion is that telemedicine works best as an addition to the health service rather than a substitute for it, handling the simple cases so that the difficult ones receive the time they require.
+
+## 翻译 | 四大发明
+@topic 汉译英：中国古代四大发明（参考译文）
+@body
+Ancient China made remarkable contributions to world civilisation, and the four great inventions are the best known among them: papermaking, printing, gunpowder and the compass. Papermaking and printing made it possible to record and spread knowledge at a much lower cost, which promoted the development of education. Gunpowder changed the nature of warfare, while the compass enabled sailors to travel far from the coast with confidence. These inventions reached other parts of the world through trade and gradually influenced the course of human history. Today they are still regarded as a source of national pride.
+
+## 写作 | 范文
+@topic 写作：How to keep mentally healthy in college（参考范文）
+@body
+Mental health has become a topic that universities can no longer ignore, and I believe students themselves can do a great deal to protect it. First, it helps to keep a regular schedule, because irregular sleep quickly weakens both concentration and mood. Second, students should not hesitate to ask for help when stress becomes unbearable; talking to a counsellor is not a sign of weakness but a practical way to solve a problem. Third, physical exercise and face-to-face conversation remain the two most reliable ways of reducing anxiety. Finally, it is worth remembering that difficulties at university are temporary. Most of the problems that seem enormous in a dormitory look much smaller a few years later.

@@ -1,0 +1,92 @@
+# 2021年12月 CET-4 第1套（仿真真题语料，可替换为官方真题文本）
+#### 2021年12月 第1套
+
+## 听力 | News Report One
+@topic 新闻：一所中学试行"无手机课堂"
+@question 1. What is the news mainly about?
+@choice A) A school that forbids phones during lessons.
+@choice B) A new application for students.
+@choice C) The results of a national examination.
+@choice D) A campaign to sell cheaper phones.
+@body
+A secondary school has introduced a rule requiring students to leave their phones in a locked box at the start of each lesson, and teachers report a noticeable improvement. According to the head teacher, the measure was not intended to punish anyone; it was introduced after staff observed that pupils were unable to concentrate for more than a few minutes. Parents were consulted before the rule took effect, and the majority of them supported it, although a few argued that phones are useful in an emergency. The school has promised to review the policy at the end of the term. Early evidence suggests that the change has been accepted more easily than teachers expected, and that pupils talk to each other far more during breaks than they did before.
+
+## 选词填空 | Procrastination
+@topic 选词填空：拖延行为的心理原因
+@question 26. What do psychologists say about procrastination?
+@choice A) It is simply a matter of laziness.
+@choice B) It is a way of avoiding unpleasant feelings.
+@choice C) It affects only students.
+@choice D) It has no connection with emotion.
+@question 27. What happens to the brain when a task is postponed?
+@choice A) It receives an immediate reward.
+@choice B) It becomes more alert.
+@choice C) It loses the ability to plan.
+@choice D) It stops working.
+@question 28. Why do deadlines help some people?
+@choice A) They make the task easier.
+@choice B) They replace the missing self-control.
+@choice C) They remove all anxiety.
+@choice D) They shorten the working time.
+@question 29. What do the researchers recommend?
+@choice A) Setting a very long deadline.
+@choice B) Breaking a task into smaller steps.
+@choice C) Waiting for the right mood.
+@choice D) Working without any plan.
+@question 30. What is the final message of the passage?
+@choice A) Procrastination can be managed.
+@choice B) Procrastination is a sign of intelligence.
+@choice C) Only students procrastinate.
+@choice D) Nothing can be done about it.
+@body
+Procrastination is often described as a failure of time management, but psychologists argue that it is really a failure of mood management. Students who delay an assignment are not usually lazy; they are avoiding the unpleasant feeling that the task produces. Unfortunately, the relief they obtain is temporary, and the anxiety returns with greater force as the deadline approaches. Researchers have found that the most effective remedy is not a stricter schedule but a smaller first step: students who were asked merely to open the document and write one sentence frequently continued for an hour. Another useful strategy is to forgive oneself for previous delays, since guilt tends to produce further delay rather than renewed effort. Lecturers can help by dividing large projects into parts that must be submitted separately, which removes the possibility of leaving everything until the last week.
+
+## 长篇阅读 | Second-hand Markets
+@topic 段落匹配：二手交易平台的兴起
+@question 36. Buying used goods has become socially acceptable among young people.
+@question 37. Online platforms have made it much easier to find a buyer.
+@question 38. Price is the main reason for choosing second-hand items.
+@question 39. Some buyers care about the environmental benefit of reusing things.
+@question 40. Sellers often find that unused items take up space at home.
+@question 41. Trust between strangers remains a problem for the market.
+@question 42. Second-hand trading has changed the way people think about ownership.
+@question 43. Traditional shops have begun to be affected by the trend.
+@question 44. Regulations in this area are still incomplete.
+@question 45. The author expects the market to keep growing.
+@body
+Buying second-hand goods was once regarded as a sign that a family could not afford new things. Attitudes have changed with remarkable speed, and young consumers in particular now describe it as a sensible choice rather than a necessary one. Several factors explain the shift. Online platforms have removed the inconvenience that once made second-hand shopping slow and uncertain, since buyers can now compare prices and check the reputation of a seller within seconds. Environmental concerns play a part as well: customers who would not describe themselves as activists still feel uneasy about throwing away objects that others could use. Sellers, for their part, discover that items occupying space in their flats can be converted into cash. The main obstacle remains trust, and platforms that offer reliable systems for returning goods have grown far faster than those that do not.
+
+## 仔细阅读 | Passage One
+@topic 仔细阅读：折扣为何让人买下不需要的东西
+@question 46. What is the passage mainly about?
+@choice A) The history of the discount.
+@choice B) Why discounts lead people to buy things they do not need.
+@choice C) How shops calculate their prices.
+@choice D) The decline of traditional retail.
+@question 47. What does the author say about a "50% off" label?
+@choice A) It tells the customer the true value of the goods.
+@choice B) It creates a feeling of urgency that overrides judgement.
+@choice C) It is illegal in most countries.
+@choice D) It is used mainly for food.
+@body
+A label that announces fifty percent off does something strange to the human mind. Shoppers who would ignore an item at its original price suddenly want it, not because they need it but because they feel they would be foolish to miss the opportunity. Economists call this the transaction utility: the pleasure comes not from the object but from the bargain itself. Retailers understand the mechanism perfectly, which is why the original price is almost always displayed beside the reduced one. Experiments show that customers are more likely to buy when they can see the comparison, even when the so-called original price was never actually charged. The feeling of scarcity intensifies the effect. A discount that ends tonight produces a mild panic, and panic is a poor adviser: it shifts attention from the question "do I want this?" to the question "will I regret leaving it?" People are not irrational to enjoy a bargain. They simply fail to notice that the money saved on an unwanted object is still money spent.
+
+## 仔细阅读 | Passage Two
+@topic 仔细阅读：野生动物保护区与当地居民的利益冲突
+@question 50. What does the author suggest?
+@choice A) Nature reserves should be closed to visitors.
+@choice B) Conservation works best when local residents benefit from it.
+@choice C) Tourism always damages the environment.
+@choice D) Wild animals should be moved to zoos.
+@body
+Nature reserves are usually drawn on maps as if the land were empty, but in most cases people have lived on it for generations. When a reserve is created, those residents may suddenly find that the activities which fed their families are now forbidden, while the animals they were asked to protect destroy their crops. Unsurprisingly, resentment follows, and in several countries poaching increased after protection was introduced. Projects that have succeeded tend to share one feature: the people who bear the cost also receive a share of the benefit. Where villagers are employed as guides, or where a proportion of the entrance fee is returned to the community, attitudes change within a few years, and local residents begin to report illegal hunting themselves. Conservationists sometimes regard such arrangements as a compromise with principle. In practice, they are the only arrangement that survives contact with the people who live beside the animals.
+
+## 翻译 | 中医
+@topic 汉译英：中医的特点与现状（参考译文）
+@body
+Traditional Chinese medicine has a history of several thousand years. It treats the human body as a whole, and it emphasises the balance between different parts of the system rather than a single symptom. Doctors examine the patient carefully and may use herbal medicine, massage or acupuncture. In recent years, traditional Chinese medicine has attracted attention in other countries, although its methods are sometimes questioned by scientists who demand stricter evidence. Supporters argue that it offers a different way of understanding health, and that it should be studied rather than dismissed.
+
+## 写作 | 范文
+@topic 写作：Learning from failure（参考范文）
+@body
+Nobody enjoys failure, and yet most of what we eventually learn comes from it. When everything goes well, we rarely examine our method, because the result seems to prove that the method was correct. Failure removes that comfort and forces us to look for the step where things went wrong. This is painful, but it is also honest. The danger is not failure itself but the conclusion we draw from it. Students who believe that ability is fixed treat a bad mark as evidence about themselves and give up; students who believe that ability can be developed treat the same mark as information about their strategy and try again. For this reason I think schools should teach students how to analyse their mistakes instead of simply recording them.

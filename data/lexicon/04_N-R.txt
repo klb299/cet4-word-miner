@@ -1,0 +1,284 @@
+# 格式：单词|词性|义项(用;分隔，带*者为四级常考义)|等级(A基础 B核心 C进阶)|搭配/派生提示
+narrow|adj./v.|*狭窄的;勉强的;使变窄|A|narrow down 缩小范围
+nation|n.|*国家,民族;国民|A|developing nation 发展中国家
+native|adj./n.|*本地的;天生的;本国人;本地人|A|native speaker 母语者
+natural|adj.|*自然的;天生的;正常的|A|natural resources 自然资源
+negative|adj.|*消极的,负面的;否定的;阴性的|A|negative impact 负面影响
+neglect|v./n.|*忽视,疏忽;漏做|B|neglect to do 疏忽做
+negotiate|v.|*谈判,协商|B|negotiate with 与…谈判
+nerve|n.|*神经;勇气;胆量|B|lose one's nerve 失去勇气
+network|n./v.|*网络;人际关系网;建立网络|A|social network 社交网络
+nevertheless|adv.|*然而,不过|B|
+normal|adj.|*正常的,标准的;师范的|A|above normal 高于正常
+notice|v./n.|*注意到;通知;注意;布告|A|take notice of 注意
+novel|n./adj.|*小说;新颖的,新奇的|A|a novel approach 新颖的方法
+numerous|adj.|*众多的,许多的|B|
+nurture|v./n.|*养育,培养;滋养|C|nurture talent 培养人才
+nutrition|n.|*营养,营养学|C|balanced nutrition 均衡营养
+obey|v.|*服从,遵守|A|obey the rules 遵守规则
+object|n./v.|*物体;目标;宾语;反对|A|object to 反对
+objective|n./adj.|*目标;客观的|B|objective view 客观看法
+obligation|n.|*义务,责任|B|under an obligation 有义务
+observe|v.|*观察;遵守;庆祝;评论|A|observe the rules 遵守规则
+obstacle|n.|*障碍,障碍物;干扰;妨碍|B|obstacle to …的障碍
+obtain|v.|*获得,得到|B|obtain a degree 取得学位
+obvious|adj.|*明显的,显而易见的|A|it is obvious that 显然
+occasion|n.|*场合,时刻;时机;原因|A|on occasion 有时
+occupy|v.|*占据;占用;使忙于;居住|B|be occupied with 忙于
+occur|v.|*发生;出现;想起|A|occur to sb 某人想到
+odd|adj.|*奇怪的;奇数的;临时的;剩余的|A|odd jobs 零工
+offend|v.|*冒犯,得罪;违犯|be offended by 被…冒犯
+offer|v./n.|*提供;提出;报价;主动提议|A|offer to do 主动提出做
+official|n./adj.|*官员;官方的,正式的|A|official language 官方语言
+offset|v./n.|*抵消,弥补;补偿|C|offset the cost 抵消成本
+operate|v.|*运转,操作;动手术;经营|A|operate on 给…做手术
+opponent|n.|*对手,反对者|B|defeat an opponent 击败对手
+opportunity|n.|*机会,时机|A|take the opportunity 抓住机会
+oppose|v.|*反对,反抗|B|be opposed to 反对
+optimistic|adj.|*乐观的|B|be optimistic about 对…乐观
+option|n.|*选择,选项;选修课;期权|A|have no option but to 别无选择只能
+organ|n.|*器官;机构;风琴;机关报|B|
+organic|adj.|*有机的;器官的;有组织的|B|organic food 有机食品
+organize|v.|*组织,筹办;整理;使有条理|A|organize an event 组织活动
+origin|n.|*起源,起因;出身,血统|A|origin of …的起源
+original|adj./n.|*最初的,原始的;独创的;原作|A|original plan 原计划
+otherwise|adv./conj.|*否则;除此以外;以别的方式|A|or otherwise 或其他
+outcome|n.|*结果,成果;结局|A|the outcome of …的结果
+outline|n./v.|*大纲,概要;轮廓;概述|B|outline the main points 概述要点
+output|n.|*产量;输出;作品|B|annual output 年产量
+outstanding|adj.|*杰出的,突出的;未解决的|A|outstanding achievement 杰出成就
+overall|adj./adv.|*总体的;全面地;工装裤|B|overall situation 总体形势
+overcome|v.|*克服,战胜;被(感情)压倒|A|overcome difficulties 克服困难
+overlook|v.|*忽视,忽略;俯视;宽恕|B|overlook a detail 忽略细节
+oversee|v.|*监督,管理|C|oversee a project 监督项目
+overwhelming|adj.|*巨大的;压倒性的;无法抵挡的|C|overwhelming majority 压倒性多数
+owe|v.|*欠(债);归功于;应给予|A|owe sth to sb 把…归功于某人
+pace|n./v.|*速度,节奏;步速;踱步|A|keep pace with 跟上
+painful|adj.|*痛苦的;费力的|A|
+panel|n.|*专门小组;面板;仪表盘|B|a panel of experts 专家小组
+panic|n./v.|*恐慌,惊慌;使恐慌|B|in panic 惊慌地
+parallel|adj./n./v.|*平行的;类似的;相似之处;与…相似|C|parallel to 与…平行
+parcel|n./v.|*包裹,小包;打包|C|
+participate|v.|*参加,参与|A|participate in 参加
+particular|adj.|*特定的;特别的;讲究的|A|in particular 尤其
+passion|n.|*热情,激情;酷爱|B|passion for 对…的热爱
+passive|adj.|*被动的;消极的|B|passive smoking 被动吸烟
+patient|n./adj.|*病人;有耐心的|A|be patient with 对…有耐心
+pattern|n./v.|*模式,方式;图案;模范;仿制|A|behavior pattern 行为模式
+pause|n./v.|*暂停,中止;犹豫|A|
+peak|n./adj./v.|*顶峰;高峰的;达到高峰|A|at the peak of 在…的顶峰
+peculiar|adj.|*独特的;奇怪的;特有的|C|peculiar to 为…所特有
+penalty|n.|*处罚,惩罚;罚金|B|death penalty 死刑
+perceive|v.|*察觉,感知;理解,认为|B|perceive A as 把A视为
+percent|n.|*百分比|A|
+permanent|adj.|*永久的,长期的|B|permanent job 固定工作
+permit|v./n.|*允许,许可;许可证|A|permit sb to do 允许某人做
+persist|v.|*坚持;持续存在|B|persist in 坚持
+personal|adj.|*个人的;私人的;亲自的|A|personal information 个人信息
+perspective|n.|*观点,角度;透视法;远景|B|from the perspective of 从…角度看
+persuade|v.|*说服,劝服|A|persuade sb to do 说服某人做
+phase|n./v.|*阶段,时期;分阶段进行|B|initial phase 初始阶段
+phenomenon|n.|*现象;非凡的人或事|B|natural phenomenon 自然现象
+physical|adj.|*身体的;物质的;物理的|A|physical exercise 体育锻炼
+pile|n./v.|*堆,一堆;堆积;桩|A|a pile of 一堆
+pioneer|n./v.|*先驱,先锋;开拓,倡导|B|pioneer in 开创
+plastic|n./adj.|*塑料;塑料制品;塑胶的;可塑的;造作的|A|plastic waste 塑料垃圾
+plead|v.|*恳求;辩护;以…为理由|C|plead for 恳求
+plenty|n.|*丰富,充足;大量|A|plenty of 大量的
+plot|n./v.|*情节;阴谋;小块土地;绘图;密谋|B|
+plunge|v./n.|*骤降;猛冲;投入;陷入|B|plunge into 陷入
+point|n./v.|*点;观点;要点;时刻;指向;表明|A|point out 指出
+policy|n.|*政策,方针;保险单|A|foreign policy 外交政策
+polish|v./n.|*擦亮,磨光;润色,完善;优雅;上光剂|B|polish up 改进,提高
+politician|n.|*政治家,政客|B|
+pollute|v.|*污染,弄脏;败坏|A|polluted water 受污染的水
+portion|n.|*一部分;一份;份额|B|a portion of 一部分
+portray|v.|*描绘,描写;扮演|C|portray sb as 把某人描绘成
+pose|v./n.|*造成(问题);摆姿势;提出;姿势|B|pose a threat 构成威胁
+position|n./v.|*位置;职位;立场;姿态;安置|A|in a position to 能够
+positive|adj.|*积极的;肯定的;阳性的;正的|A|positive attitude 积极态度
+possess|v.|*拥有,具有;支配|B|be possessed of 拥有
+possibility|n.|*可能性;可能的事|A|there is a possibility that 有可能
+postpone|v.|*推迟,延期|B|postpone doing 推迟做
+potential|adj./n.|*潜在的,可能的;潜力,可能性|A|potential risk 潜在风险
+poverty|n.|*贫穷,贫困|B|live in poverty 生活贫困
+practical|adj.|*实际的,实用的;可行的|A|practical experience 实践经验
+practice|n./v.|*练习;实践;惯例;开业;从事|A|put into practice 付诸实践
+praise|n./v.|*赞扬,表扬;赞美|A|praise sb for 因…表扬某人
+precaution|n.|*预防措施,防备|C|take precautions 采取预防措施
+precede|v.|*先于,在…之前|C|
+precise|adj.|*精确的,准确的;恰好的|B|to be precise 确切地说
+predict|v.|*预测,预言|A|predict the future 预测未来
+prefer|v.|*更喜欢,宁愿|A|prefer A to B 比起B更喜欢A
+prejudice|n./v.|*偏见;损害;使有偏见|C|prejudice against 对…的偏见
+preliminary|adj.|*初步的,预备的|C|preliminary results 初步结果
+premise|n.|前提;premises 经营场所;房屋连地基|C|on the premise that 在…前提下
+premium|n./adj.|*额外费用;保险费;优质的|C|
+prepare|v.|*准备,预备;配制|A|prepare for 为…做准备
+prescribe|v.|*开(药方);规定,指示|C|prescribe medicine 开药
+present|n./adj./v.|*礼物;目前;出席的;现在的;呈现;提出;颁发|A|at present 目前
+preserve|v./n.|*保护,保存;腌制;禁猎区|B|preserve the tradition 保护传统
+press|v./n.|*压,按;催促;新闻界;出版社;印刷机|A|press for 迫切要求
+pressure|n./v.|*压力;压迫;施加压力|A|under pressure 处于压力下
+prestige|n.|*威望,声望|C|social prestige 社会声望
+pretend|v.|*假装,装作;自认为|A|pretend to do 假装做
+prevail|v.|*盛行,流行;获胜,占上风|C|prevail over 战胜
+prevent|v.|*阻止,防止;预防|A|prevent sb from doing 阻止某人做
+previous|adj.|*以前的,先前的|A|previous experience 以往经验
+primary|adj.|*主要的,首要的;初级的;基本的|A|primary school 小学
+prime|adj./n./v.|*主要的;最好的;全盛时期;使准备好|B|prime minister 首相
+principal|adj./n.|*主要的;校长;本金;委托人|B|principal reason 主要原因
+principle|n.|*原则,原理;准则;信念|A|in principle 原则上
+prior|adj.|*在前的,优先的|B|prior to 在…之前
+priority|n.|*优先,优先事项;优先权|B|give priority to 优先考虑
+privacy|n.|*隐私,私生活;独处|B|protect privacy 保护隐私
+private|adj.|*私人的,私有的;秘密的;私营的|A|private sector 私营部门
+privilege|n./v.|*特权,优待;给予特权|B|enjoy privileges 享受特权
+probable|adj.|*很可能的,大概的|B|
+procedure|n.|*程序,手续;步骤,流程|B|follow the procedure 遵循程序
+proceed|v.|*继续进行;前进;着手|B|proceed with 继续进行
+process|n./v.|*过程,进程;工序;加工;处理|A|in the process of 在…过程中
+produce|v./n.|*生产;产生;拿出;农产品|A|produce results 产生结果
+product|n.|*产品,产物;乘积|A|dairy product 乳制品
+profession|n.|*职业;行业;声明|B|medical profession 医疗行业
+proficient|adj.|*熟练的,精通的|C|be proficient in 精通
+profile|n./v.|*轮廓;简介;形象;概述|B|high profile 高调的
+profit|n./v.|*利润;益处;获益|A|profit from 从…获益
+profound|adj.|*深刻的;深奥的;深远的|C|profound impact 深远影响
+program|n./v.|*计划,方案;节目;程序;编程|A|TV program 电视节目
+progress|n./v.|*进步,进展;前进;进展|A|make progress 取得进步
+prohibit|v.|*禁止,阻止|B|prohibit sb from doing 禁止某人做
+project|n./v.|*项目,工程;课题;投射;预测;伸出|A|project a image 展现形象
+prolong|v.|*延长,拉长|C|prolong life 延长寿命
+prominent|adj.|*突出的,显著的;著名的|C|prominent figure 知名人物
+promise|n./v.|*承诺,诺言;希望,前途;允诺|A|show promise 有前途
+promote|v.|*促进,推动;提升;推销,宣传|A|promote growth 促进增长
+prompt|adj./v./n.|*迅速的;促使,推动;提示;提词|B|prompt sb to do 促使某人做
+proof|n./adj.|*证据,证明;校样;防…的|B|proof of …的证明
+proper|adj.|*合适的,恰当的;真正的;规矩的|A|proper way 恰当的方式
+property|n.|*财产,资产;性质,特性;房产|B|intellectual property 知识产权
+proportion|n.|*比例,部分;均衡;面积|B|a large proportion of 很大比例
+proposal|n.|*提议,建议;求婚|B|put forward a proposal 提出建议
+propose|v.|*提议,建议;打算;求婚|B|propose that 建议(虚拟语气)
+prospect|n.|*前景,前途;可能性;景象;勘探|B|job prospects 就业前景
+protect|v.|*保护,防护|A|protect sb from 保护某人免受
+protest|n./v.|*抗议,反对;坚决主张|B|protest against 抗议
+provided|conj.|*假如,只要|B|provided that 只要
+province|n.|*省;领域,范围|A|
+provision|n.|*供应;条款,规定;准备|B|make provision for 为…做准备
+provoke|v.|*激起,引起;激怒,挑衅|C|provoke a reaction 引起反应
+psychological|adj.|*心理的,心理学的|B|psychological pressure 心理压力
+public|adj./n.|*公众的,公共的;公开的;公众,民众|A|in public 公开地
+publish|v.|*出版,发行;公布,发表|A|publish a report 发布报告
+purchase|v./n.|*购买;购买物;紧握|B|purchase online 网购
+pursue|v.|*追求,从事;追赶;继续|B|pursue a career 追求事业
+puzzle|n./v.|*谜,难题;困惑;使迷惑|A|puzzle over 苦苦思索
+qualify|v.|*使合格,取得资格;限定,修饰|B|qualify for 有资格获得
+quality|n./adj.|*质量,品质;性质;优质的|A|quality of life 生活质量
+quantity|n.|*数量,量;大量|A|a large quantity of 大量
+quest|n./v.|*寻求,探索,追求|C|in quest of 寻求
+quit|v.|*停止,放弃;离开;辞职|A|quit smoking 戒烟
+quote|v./n.|*引用,引述;报价;引号|B|quote from 引自
+radical|adj./n.|*根本的,彻底的;激进的;激进分子|C|radical change 根本变化
+raise|v./n.|*提高,增加;提出;筹集;养育;举起;加薪|A|raise a question 提出问题
+random|adj.|*随机的,任意的;胡乱的|B|at random 随机地
+range|n./v.|*范围,幅度;一系列;山脉;变化;排列|A|range from …to 在…之间变化
+rank|n./v.|*等级,地位;行列;排列;分等级|B|rank first 排名第一
+rapid|adj.|*迅速的,快的|A|rapid growth 快速增长
+rare|adj.|*稀有的,罕见的;稀薄的;极好的|A|a rare opportunity 难得的机会
+rate|n./v.|*比率,率;速度;价格;评估;定级|A|at a rate of 以…的速度
+ratio|n.|*比率,比例|B|the ratio of A to B A与B之比
+raw|adj.|*生的,未加工的;原始的;生疏的|B|raw material 原材料
+react|v.|*反应,作出反应;反抗;起化学反应|A|react to 对…作出反应
+readily|adv.|*乐意地;容易地;快速地|B|readily available 容易获得
+realistic|adj.|*现实的,实际的;逼真的|B|realistic goal 现实的目标
+reality|n.|*现实,实际;真实|A|in reality 实际上
+realize|v.|*意识到,认识到;实现|A|realize the importance 意识到重要性
+rear|n./adj./v.|*后部;后面的;抚养;饲养;竖起|C|
+reasonable|adj.|*合理的;公道的;通情达理的|A|reasonable price 合理价格
+rebel|v./n.|*反叛,反抗;叛逆者|C|rebel against 反抗
+recall|v./n.|*回忆,回想;召回;收回;记忆力|B|recall doing 回忆做过
+receive|v.|*收到,接到;受到;接待,接见|A|receive a letter 收到信
+recent|adj.|*最近的,近来的|A|in recent years 近年来
+recognize|v.|*认出,识别;承认;认可,赏识|A|be recognized as 被公认为
+recommend|v.|*推荐,建议;劝告|A|recommend doing 建议做
+recover|v.|*恢复,痊愈;找回;重新获得|A|recover from 从…恢复
+recruit|v./n.|*招募,招聘;新成员|B|recruit staff 招聘员工
+reduce|v.|*减少,缩小;使沦为;降价|A|reduce by 减少了
+refer|v.|*提到;指的是;查阅;提交;求助于|A|refer to 提到/参考
+refine|v.|*精炼,提纯;改进,完善|C|refine the process 改进流程
+reflect|v.|*反映;反射;反思,思考|A|reflect on 反思
+reform|n./v.|*改革,改良;改造|A|education reform 教育改革
+refuse|v./n.|*拒绝,回绝;废物|A|refuse to do 拒绝做
+regard|v./n.|*看待,认为;注意;尊敬;问候;方面|A|regard A as 把A看作
+regardless|adv.|*不管怎样,不顾|B|regardless of 不管
+regime|n.|*政权,政体;管理制度|C|
+region|n.|*地区,区域;范围,领域|A|in the region of 大约
+register|v./n.|*登记,注册;挂号;显示;登记簿;寄存器|B|register for 登记参加
+regret|n./v.|*后悔,遗憾;抱歉;懊悔|A|regret doing 后悔做过
+regular|adj.|*定期的,有规律的;常规的;正规的|A|regular exercise 定期锻炼
+regulate|v.|*管理,调节;控制,校准|B|regulate the market 规范市场
+reject|v./n.|*拒绝,抵制;排斥;废品|B|reject a proposal 拒绝提议
+relate|v.|*联系,关联;讲述;相处;涉及|A|relate to 与…有关/理解
+relation|n.|*关系,联系;亲属;叙述|A|in relation to 关于
+relatively|adv.|*相对地,比较地|A|relatively speaking 相对而言
+relax|v.|*放松,使松弛;放宽;松懈|A|relax the rules 放宽规定
+release|v./n.|*释放;发布,发行;放开;排放;解雇|B|release information 发布信息
+relevant|adj.|*相关的,有关的;切题的|B|be relevant to 与…有关
+reliable|adj.|*可靠的,可信赖的|B|reliable source 可靠来源
+relief|n.|*减轻,缓解;救济;宽慰;换班|B|relief from 从…中解脱
+relieve|v.|*减轻,缓解;救济;使宽慰;接替|B|relieve stress 缓解压力
+reluctant|adj.|*不情愿的,勉强的|B|be reluctant to do 不愿做
+rely|v.|*依赖,依靠;信赖|A|rely on 依靠
+remain|v.|*保持,仍然是;留下;剩余;尚待|A|remain silent 保持沉默
+remark|n./v.|*评论,言论;注意到;谈论|A|remark on 评论
+remarkable|adj.|*显著的,非凡的,值得注意的|B|remarkable progress 显著进步
+remedy|n./v.|*补救办法;治疗;纠正,补救|C|remedy the situation 扭转局面
+remind|v.|*提醒,使想起;使记起|A|remind sb of 使某人想起
+remote|adj.|*偏远的;遥远的;细微的;远程的|B|remote area 偏远地区
+remove|v.|*移走,去掉;脱下;免职;搬家;消除|A|remove from 从…移除
+render|v.|*使成为,致使;给予;翻译;表演|C|render sth useless 使…无用
+renew|v.|*更新;续借;重新开始;使恢复|B|renew energy 恢复精力
+rent|n./v.|*租金;租用,出租;租借;地租;房租;裂缝;撕裂|A|rent an apartment 租公寓
+repair|n./v.|*修理,修补;修复;弥补|A|under repair 在修理中
+repeat|v./n.|*重复;重说;重做;重播|A|repeat after 跟读
+replace|v.|*取代,替换;更换;把…放回原处|A|replace A with B 用B替换A
+reply|n./v.|*回答,答复;回应|A|reply to 回复
+report|n./v.|*报告,报道;汇报;举报;传闻|A|report on 报道
+represent|v.|*代表;表现,象征;描绘;相当于|A|represent a trend 代表趋势
+request|n./v.|*请求,要求;需要;索取|A|request that 要求(虚拟)
+require|v.|*需要;要求,规定|A|require sb to do 要求某人做
+rescue|v./n.|*营救,援救;抢救|B|rescue from 从…救出
+research|n./v.|*研究,调查;探索|A|research into 研究
+resemble|v.|*像,与…相似|B|resemble sb in 在…方面像某人
+resent|v.|*怨恨,愤恨|C|resent doing 厌恶做
+reserve|v./n.|*预订;保留;储备;储备金;自然保护区;矜持|B|reserve a table 订桌
+resident|n./adj.|*居民,住户;住院医生;居住的|B|local resident 当地居民
+resign|v.|*辞职;放弃;听任,顺从|B|resign from 辞去
+resist|v.|*抵抗,反抗;忍住;抗(病)|A|resist the temptation 抵制诱惑
+resolve|v./n.|*解决,决定;分解;决心;决意|B|resolve a dispute 解决争端
+resort|n./v.|* resorts 度假胜地;求助;手段;诉诸|B|resort to 诉诸
+resource|n.|*资源;财力;应变之才;资料|A|natural resources 自然资源
+respect|n./v.|*尊敬;尊重;方面;问候;遵守|A|with respect to 关于
+respond|v.|*回答;作出反应,响应;有起色|A|respond to 回应
+response|n.|*回答;反应,响应;回应|A|in response to 作为对…的回应
+responsible|adj.|*负责的;有责任心的;可靠的;责任重大的|A|be responsible for 对…负责
+restore|v.|*恢复;修复;归还;使复位|B|restore confidence 恢复信心
+restrict|v.|*限制,约束;限定|B|restrict to 局限于
+result|n./v.|*结果,成果;成绩;导致;起因于|A|result in 导致;result from 起因于
+retain|v.|*保持,保留;留住;聘请|B|retain information 记住信息
+retire|v.|*退休;退下;撤退;就寝|B|retire from 从…退休
+reveal|v.|*揭示,透露;显露,展现|A|reveal that 表明
+revenue|n.|*收入,收益;税收|C|tax revenue 税收
+reverse|v./n./adj.|*颠倒;倒退;撤销;相反;背面的;相反的|C|reverse the trend 扭转趋势
+review|n./v.|*复习;评论;审查;回顾;检阅|A|review the lessons 复习功课
+revise|v.|*修订,修改;复习(英式)|B|revise the plan 修改计划
+reward|n./v.|*奖励,报酬;报答;奖赏|A|reward sb for 因…奖励某人
+rhythm|n.|*节奏,韵律;规律|B|the rhythm of life 生活节奏
+ridiculous|adj.|*荒谬的,可笑的|B|
+rigid|adj.|*僵硬的;严格的,死板的|C|rigid rules 死板的规定
+risk|n./v.|*风险;冒险;冒…的风险|A|at risk 处于危险中
+rival|n./v./adj.|*竞争对手;与…匹敌;竞争的|B|rival company 竞争公司
+romantic|adj.|*浪漫的;不切实际的|A|
+routine|n./adj.|*例行公事;常规;常规的;日常的|B|daily routine 日常惯例
+rural|adj.|*农村的,乡村的|B|rural area 农村地区
