@@ -140,6 +140,32 @@ mark{background:var(--mark);padding:0 2px;border-radius:3px;font-weight:600}
   background:#fff;color:var(--brand);border-radius:9px;cursor:pointer;font-size:13px;font-family:inherit}
 .tip{font-size:12px;color:var(--ink3);text-align:center;margin-top:8px}
 
+/* ---------- 搜索增强：方向切换 / 历史 / 收藏 / 空状态 ---------- */
+.srow{display:flex;gap:8px;align-items:center;flex:1 1 auto;min-width:0}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#fff;flex:none}
+.seg-b{border:0;background:none;padding:7px 10px;font-size:12.5px;cursor:pointer;
+  color:var(--ink2);font-family:inherit;line-height:1.2;white-space:nowrap}
+.seg-b+.seg-b{border-left:1px solid var(--line)}
+.seg-b.on{background:var(--brand);color:#fff}
+.star{margin-left:auto;font-size:18px;line-height:1;color:#cbd5e1;cursor:pointer;
+  user-select:none;padding:2px 4px;border-radius:6px}
+.star:hover{color:#f59e0b}
+.star.on{color:#f59e0b}
+.hlab{font-size:12px;color:var(--ink3);flex:none}
+.hitem{display:inline-flex;align-items:center;gap:5px;border:1px solid var(--line);background:#fff;
+  border-radius:999px;padding:5px 6px 5px 11px;font-size:12.5px;color:var(--ink2);cursor:pointer;max-width:220px}
+.hitem:hover{border-color:#c7d2e8}
+.hdir{font-size:10.5px;color:var(--brand);background:var(--brand-soft);border-radius:4px;padding:0 4px;flex:none}
+.ht{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.hx{color:var(--ink3);font-size:14px;line-height:1;padding:0 4px;border-radius:4px;flex:none}
+.hx:hover{color:#dc2626;background:#fee2e2}
+.hclr{padding:5px 10px;font-size:12px}
+.empty .et{font-size:15px;font-weight:600;color:var(--ink);margin-bottom:8px}
+.empty .ew{margin:0 auto 12px;padding-left:20px;max-width:460px;text-align:left;font-size:13px;color:var(--ink2)}
+.empty .ew li{margin:3px 0}
+.empty .eacts{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.kbd{color:var(--ink3);font-size:11.5px}
+
 /* ---------- 手机端（宽度 < 680px） ---------- */
 .mbar{display:none}
 @media (max-width:680px){
@@ -178,6 +204,15 @@ mark{background:var(--mark);padding:0 2px;border-radius:3px;font-weight:600}
   .btn,.eye{padding:8px 12px;font-size:12.5px;min-height:38px;display:inline-flex;
     align-items:center;justify-content:center}
   .prog{font-size:11.5px}
+
+  /* 搜索增强：搜索框与方向切换同一行，历史/收藏触控目标 >=36px */
+  .srow{flex:1 1 100%}
+  .srow input[type=text]{flex:1 1 auto;width:auto}
+  .seg-b{padding:9px 11px;min-height:38px;display:inline-flex;align-items:center}
+  .hitem{padding:7px 6px 7px 12px;min-height:36px;font-size:13px;max-width:none}
+  .hx{padding:2px 7px;font-size:15px}
+  .hclr{min-height:36px;padding:7px 12px}
+  .empty .ew{font-size:12.5px}
 
   .card{border-radius:12px;margin-bottom:10px}
   .hd{padding:13px 14px 8px;gap:7px}
@@ -229,6 +264,13 @@ mark{background:var(--mark);padding:0 2px;border-radius:3px;font-weight:600}
   .foot{background:#191c20}
   .btn,.chip,.eye,.mini,.eye-sq,input[type=text],select,.more{background:#22262b;color:var(--ink2)}
   .eye.on,.chip.on,.mini.ok{color:#fff}
+  .seg,.hitem{background:#22262b}
+  .seg-b,.hitem{color:var(--ink2)}
+  .seg-b.on{color:#fff}
+  .seg-b+.seg-b{border-left-color:var(--line)}
+  .hdir{background:#1e2836;color:#9dbaf5}
+  .star{color:#4a5158}
+  .star.on,.star:hover{color:#f59e0b}
   .mbar{background:rgba(29,32,36,.96)}
 }
 </style>
@@ -242,8 +284,14 @@ mark{background:var(--mark);padding:0 2px;border-radius:3px;font-weight:600}
 
 <div class="bar"><div class="wrap">
   <div class="row" style="margin-bottom:8px">
-    <input type="text" id="q" placeholder="搜索单词 / 释义 / 真题句子…" autocomplete="off"
-           autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+    <div class="srow">
+      <input type="text" id="q" placeholder="搜索单词 / 释义 / 真题句子…" autocomplete="off"
+             autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+      <div class="seg" id="dirSeg">
+        <button class="seg-b on" data-dir="fwd" title="正向：输入英文查单词、释义、真题句（快捷键 Alt+R）">英→中</button>
+        <button class="seg-b" data-dir="rev" title="反向：输入中文反查英文单词（快捷键 Alt+R）">中→英</button>
+      </div>
+    </div>
     <select id="year"><option value="">全部年份</option></select>
     <select id="sec"><option value="">全部题型</option></select>
     <select id="sort">
@@ -253,11 +301,13 @@ mark{background:var(--mark);padding:0 2px;border-radius:3px;font-weight:600}
     </select>
     <span class="spacer"></span>
   </div>
+  <div class="row hist" id="histRow" style="display:none"></div>
   <div class="row">
     <span class="chip la on" data-lv="A">基础高频</span>
     <span class="chip lb on" data-lv="B">核心必背</span>
     <span class="chip lc on" data-lv="C">进阶拓展</span>
     <span class="chip" id="hideKnown">只看未掌握</span>
+    <span class="chip" id="favChip" title="只看收藏的词（快捷键 Alt+F）">★ 收藏</span>
     <span class="prog" id="prog"></span>
     <label class="eye" id="eyeBtn">
       <input type="checkbox" id="showTrans" style="display:none">
@@ -292,12 +342,16 @@ mark{background:var(--mark);padding:0 2px;border-radius:3px;font-weight:600}
 <script>
 const DATA = __DATA__;
 const cards = DATA.cards, stats = DATA.stats;
-const KEY = 'cet4_mastered_v1';
+const KEY = 'cet4_mastered_v1', HKEY = 'cet4_search_hist_v1', FKEY = 'cet4_fav_v1';
 let known = new Set(JSON.parse(localStorage.getItem(KEY) || '[]'));
-let quiz = true, hideKnown = false, page = 1;
+let fav = new Set(JSON.parse(localStorage.getItem(FKEY) || '[]'));
+let hist = [];
+try { hist = JSON.parse(localStorage.getItem(HKEY) || '[]'); } catch (e) { hist = []; }
+let quiz = true, hideKnown = false, onlyFav = false, dir = 'fwd', page = 1;
 /* 手机一屏装不下 40 张卡，首屏少给一点，滚动加载更快 */
 const isNarrow = () => window.matchMedia('(max-width:680px)').matches;
 const perPage = () => isNarrow() ? 15 : 40;
+const kwNow = () => document.getElementById('q').value.trim().toLowerCase();
 
 /* 顶部统计 */
 document.getElementById('stats').innerHTML = [
@@ -315,9 +369,22 @@ secs.forEach(s=>document.getElementById('sec').add(new Option(s,s)));
 
 const esc = s => (s||'').replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]));
 const hl  = s => esc(s).replace(/\[\[(.*?)\]\]/g,'<mark>$1</mark>');
+const resc = s => s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+/* 反向搜索时把命中的中文高亮出来，否则一堆译文里根本看不出为什么匹配 */
+function hlZh(s, kw){
+  if(!kw || !s) return esc(s);
+  return esc(s).replace(new RegExp('('+resc(kw)+')','gi'),'<mark>$1</mark>');
+}
+/* 一个词的全部中文字面：释义 + 搭配提示 + 各句的译文/题干译文/情境。
+   反向（中→英）只在这片文本里找，不再去英文里凑。 */
+function zhText(c){
+  return [c.senses.join(' '), c.note||'',
+    c.examples.map(e=>[e.trans, e.questionTrans, e.topic].filter(Boolean).join(' ')).join(' ')
+  ].join(' ').toLowerCase();
+}
 
 function match(c){
-  const kw = document.getElementById('q').value.trim().toLowerCase();
+  const kw = kwNow();
   const yv = document.getElementById('year').value;
   const sv = document.getElementById('sec').value;
   const on = [...document.querySelectorAll('.chip[data-lv]')].filter(e=>e.classList.contains('on')).map(e=>e.dataset.lv);
@@ -325,15 +392,26 @@ function match(c){
   if(yv && !c.years.includes(yv)) return false;
   if(sv && !c.sections.includes(sv)) return false;
   if(hideKnown && known.has(c.word)) return false;
+  if(onlyFav && !fav.has(c.word)) return false;
   if(!kw) return true;
+  if(dir === 'rev') return zhText(c).includes(kw);
   return c.word.includes(kw) || c.senses.join(' ').toLowerCase().includes(kw)
       || c.examples.some(e=>e.sentence.toLowerCase().includes(kw));
 }
-/* 搜索命中的相关度：词头命中 > 释义命中 > 只在例句里出现。
-   不这么排的话，搜 although 会被一堆"例句里恰好含 although"的词淹没。 */
+/* 搜索命中的相关度：正向 词头命中 > 释义命中 > 只在例句里出现。
+   不这么排的话，搜 although 会被一堆"例句里恰好含 although"的词淹没。
+   反向则是 首义项命中 > 其他义项 > 搭配提示 > 只在译文里出现。 */
 function rel(c){
-  const kw = document.getElementById('q').value.trim().toLowerCase();
+  const kw = kwNow();
   if(!kw) return 0;
+  if(dir === 'rev'){
+    const s = c.senses.map(x=>(x||'').toLowerCase());
+    if(s[0] && s[0].includes(kw)) return 4;
+    if(s.join(' ').includes(kw)) return 3;
+    if((c.note||'').toLowerCase().includes(kw)) return 2;
+    if(c.examples.some(e=>(e.trans||'').toLowerCase().includes(kw))) return 1;
+    return 0;
+  }
   if(c.word === kw) return 3;
   if(c.word.startsWith(kw)) return 2;
   if(c.word.includes(kw)) return 1;
@@ -353,8 +431,11 @@ function sorted(list){
   return [...list].sort((a,b)=> hasKw ? (rel(b)-rel(a) || base(a,b)) : base(a,b));
 }
 function cardHTML(c){
-  const done = known.has(c.word);
-  const senses = `<ul class="senses${quiz?' blur':''}">`+c.senses.map(s=>`<li>${esc(s)}</li>`).join('')+`</ul>`;
+  const done = known.has(c.word), isFav = fav.has(c.word);
+  const kw = kwNow();
+  /* 反向搜索时中文也要高亮；正向保持原样（例句里的 [[ ]] 标记本来就会高亮） */
+  const deco = (dir === 'rev' && kw) ? (s => hlZh(s, kw)) : esc;
+  const senses = `<ul class="senses${quiz?' blur':''}">`+c.senses.map(s=>`<li>${deco(s)}</li>`).join('')+`</ul>`;
   const ex = c.examples.map(e=>`
     <div class="ex">
       <div class="src">
@@ -363,12 +444,12 @@ function cardHTML(c){
         ${e.posHint?`<span class="tag">此处作${esc(e.posHint)}</span>`:''}
         <span class="tag">本句词形 ${esc(e.form)}</span>
       </div>
-      ${e.topic?`<div class="src">情境：${esc(e.topic)}</div>`:''}
+      ${e.topic?`<div class="src">情境：${deco(e.topic)}</div>`:''}
       <p class="sent">${hl(e.sentence)}</p>
-      ${e.trans?`<div class="trline"><button class="eye-sq" data-act="tr">&#128065; 译文</button><span class="tr">${esc(e.trans)}</span></div>`:''}
+      ${e.trans?`<div class="trline"><button class="eye-sq" data-act="tr">&#128065; 译文</button><span class="tr">${deco(e.trans)}</span></div>`:''}
       ${e.prev?`<p class="ctx">上文：${esc(e.prev)}</p>`:''}
       ${e.next?`<p class="ctx">下文：${esc(e.next)}</p>`:''}
-      ${e.question?`<div class="q"><b>原题：</b>${esc(e.question)}${e.questionTrans?`<span class="tr">${esc(e.questionTrans)}</span>`:''}</div>`:''}
+      ${e.question?`<div class="q"><b>原题：</b>${esc(e.question)}${e.questionTrans?`<span class="tr">${deco(e.questionTrans)}</span>`:''}</div>`:''}
     </div>`).join('');
   return `<div class="card${done?' done':''}" data-w="${c.word}">
     <div class="hd">
@@ -376,6 +457,8 @@ function cardHTML(c){
       <span class="pos">${esc(c.pos)}</span>
       <span class="lv ${c.level}">${c.levelName}</span>
       <span class="freq">真题出现 ${c.count} 次</span>
+      <span class="star${isFav?' on':''}" data-act="fav"
+            title="${isFav?'取消收藏':'收藏这个词，之后可只看收藏'}">★</span>
     </div>
     <div class="body">
       ${senses}
@@ -389,20 +472,70 @@ function cardHTML(c){
     </div>
   </div>`;
 }
+/* 空结果不能只甩一句“没有匹配”——得说清楚是卡在哪，并给一条能点出去的路 */
+function emptyHTML(){
+  const raw = document.getElementById('q').value.trim(), kw = kwNow();
+  const lvOn = [...document.querySelectorAll('.chip[data-lv]')].filter(e=>e.classList.contains('on')).map(e=>e.dataset.lv);
+  const yv = document.getElementById('year').value, sv = document.getElementById('sec').value;
+  const LVN = {A:'基础高频',B:'核心必背',C:'进阶拓展'};
+  let title = '没有匹配的单词';
+  const why = [];
+  if(onlyFav && !fav.size){
+    title = '收藏夹还是空的';
+    why.push('点单词卡片右上角的 ★ 即可收藏，之后用它快速回看常错词');
+    if(raw) why.push('现在还带着搜索词「'+esc(raw)+'」，先清空更容易挑词');
+  }else if(kw){
+    title = '没找到「'+esc(raw)+'」';
+    if(dir === 'rev') why.push('反向搜索只匹配中文释义与译文，换个更短的中文词试试，或切回「英→中」');
+    else why.push('试试只输入前几个字母（如 alth），或改用「中→英」按中文意思反查');
+  }else{
+    title = '当前筛选条件下没有单词';
+  }
+  if(!(onlyFav && !fav.size)){
+    if(lvOn.length < 3) why.push('有等级被隐藏，现在只显示：' + (lvOn.map(x=>LVN[x]).join('、') || '无'));
+    if(hideKnown) why.push('开着「只看未掌握」，已标记掌握的词都被排除了');
+    if(yv) why.push('限定年份：' + esc(yv));
+    if(sv) why.push('限定题型：' + esc(sv));
+  }
+  const acts = [];
+  if(raw) acts.push(['clrQ', '清空搜索词']);
+  if(raw) acts.push([dir === 'rev' ? 'toFwd' : 'toRev', dir === 'rev' ? '切回「英→中」' : '试试「中→英」反查']);
+  if(lvOn.length < 3) acts.push(['allLv', '显示全部等级']);
+  if(hideKnown || yv || sv) acts.push(['rstFilter', '重置筛选条件']);
+  return `<div class="empty">
+    <div class="et">${title}</div>
+    ${why.length ? `<ul class="ew">${why.map(w=>`<li>${w}</li>`).join('')}</ul>` : ''}
+    <div class="eacts">${acts.map(a=>`<button class="mini" data-act2="${a[0]}">${a[1]}</button>`).join('')}</div>
+  </div>`;
+}
+function renderHist(){
+  const row = document.getElementById('histRow');
+  if(!hist.length){ row.style.display = 'none'; row.innerHTML = ''; return; }
+  row.style.display = '';
+  row.innerHTML = '<span class="hlab">最近搜索</span>' +
+    hist.map((h,i)=>`<span class="hitem" data-i="${i}" title="点击回填（${h.m==='rev'?'中→英':'英→中'}）">
+      <span class="hdir">${h.m === 'rev' ? '中' : '英'}</span><span class="ht">${esc(h.t)}</span>
+      <span class="hx" data-del="${i}" title="删除这条">×</span></span>`).join('') +
+    '<button class="btn hclr" data-act2="clrHist">清空</button>';
+}
 function render(){
   const list = sorted(cards.filter(match));
   const show = list.slice(0, page*perPage());
-  document.getElementById('list').innerHTML = show.length?show.map(cardHTML).join('')
-    : '<div class="empty">没有匹配的单词，试试放宽筛选条件</div>';
+  document.getElementById('list').innerHTML = show.length?show.map(cardHTML).join('') : emptyHTML();
   const hasMore = list.length > show.length;
   document.getElementById('more').style.display = hasMore?'block':'none';
   document.getElementById('mMore').style.display = hasMore?'inline-block':'none';
-  document.getElementById('tip').textContent = `共 ${list.length} 个单词`;
+  document.getElementById('tip').innerHTML = `共 ${list.length} 个单词`
+    + ' <span class="kbd">· / 聚焦搜索 · Alt+R 切换正反 · Alt+F 只看收藏 · Esc 清空</span>';
   const prog = `已掌握 <b>${known.size}</b> / ${cards.length}`;
   document.getElementById('prog').innerHTML = prog;
+  document.getElementById('favChip').textContent = '★ 收藏' + (fav.size ? ` (${fav.size})` : '');
+  renderHist();
 }
 const wantMore = () => { page++; render(); };
 document.getElementById('list').addEventListener('click', e=>{
+  const a2 = e.target.closest('[data-act2]');
+  if(a2){ doAct2(a2.dataset.act2); return; }
   const card = e.target.closest('.card'); if(!card) return;
   const w = card.dataset.w;
   if(e.target.classList.contains('blur')){ e.target.classList.remove('blur'); return; }
@@ -412,16 +545,99 @@ document.getElementById('list').addEventListener('click', e=>{
     known.has(w)?known.delete(w):known.add(w);
     localStorage.setItem(KEY, JSON.stringify([...known]));
     render();
+  }else if(act==='fav'){
+    fav.has(w)?fav.delete(w):fav.add(w);
+    localStorage.setItem(FKEY, JSON.stringify([...fav]));
+    render();
   }else if(act==='show'){
     card.querySelector('.senses').classList.toggle('blur');
   }else if(act==='tr'){
     btn.parentElement.querySelector('.tr').classList.toggle('t-on');
   }
 });
-['q'].forEach(id=>document.getElementById(id).addEventListener('input',()=>{page=1;render();}));
+const qEl = document.getElementById('q');
+/* 输入时顺手存历史：停顿 1 秒算一次查询，回车/失焦立刻算。
+   太短的词（<2 字）不存，否则历史会被单字母刷满。 */
+let histT;
+qEl.addEventListener('input', ()=>{
+  page = 1; render();
+  clearTimeout(histT); histT = setTimeout(()=>pushHist(qEl.value), 1000);
+});
+qEl.addEventListener('keydown', e=>{ if(e.key === 'Enter'){ clearTimeout(histT); pushHist(qEl.value); } });
+qEl.addEventListener('blur', ()=>{ clearTimeout(histT); pushHist(qEl.value); });
+function pushHist(t){
+  const kw = (t||'').trim(); if(kw.length < 2) return;
+  const cur = kw.toLowerCase();
+  /* 边打字边存会把 al / alth / altho 堆成一串：
+     新词只是上一条的延伸时，直接替换掉上一条 */
+  if(hist.length && hist[0].m === dir && cur.startsWith(hist[0].t.toLowerCase())
+     && hist[0].t.length < kw.length){
+    hist[0] = {t:kw, m:dir};
+  }else{
+    hist = hist.filter(h => !(h.t === kw && h.m === dir));
+    hist.unshift({t:kw, m:dir});
+  }
+  if(hist.length > 10) hist = hist.slice(0, 10);
+  localStorage.setItem(HKEY, JSON.stringify(hist));
+  renderHist();
+}
+/* 空状态里的引导动作 */
+function doAct2(a){
+  if(a === 'clrQ'){ qEl.value = ''; page = 1; render(); qEl.focus(); }
+  else if(a === 'toFwd' || a === 'toRev'){ applyDir(a === 'toFwd' ? 'fwd' : 'rev'); }
+  else if(a === 'allLv'){ document.querySelectorAll('.chip[data-lv]').forEach(c=>c.classList.add('on')); page = 1; render(); }
+  else if(a === 'rstFilter'){
+    hideKnown = false; document.getElementById('hideKnown').classList.remove('on');
+    document.getElementById('year').value = ''; document.getElementById('sec').value = '';
+    page = 1; render();
+  }
+}
+/* 切换搜索方向：输入框里的字和年份/题型/等级等筛选全都留着，只换匹配方向 */
+function applyDir(d){
+  dir = d;
+  document.querySelectorAll('.seg-b').forEach(b=>b.classList.toggle('on', b.dataset.dir === d));
+  qEl.placeholder = d === 'rev' ? '输入中文反查单词，如：尽管、避免、影响'
+                                : '搜索单词 / 释义 / 真题句子…';
+  page = 1; render();
+}
+function toggleFavFilter(){
+  onlyFav = !onlyFav;
+  document.getElementById('favChip').classList.toggle('on', onlyFav);
+  page = 1; render();
+}
 ['year','sec','sort'].forEach(id=>document.getElementById(id).addEventListener('change',()=>{page=1;render();}));
 document.querySelectorAll('.chip[data-lv]').forEach(c=>c.addEventListener('click',()=>{c.classList.toggle('on');page=1;render();}));
 document.getElementById('hideKnown').addEventListener('click',function(){hideKnown=!hideKnown;this.classList.toggle('on');render();});
+document.getElementById('favChip').addEventListener('click', toggleFavFilter);
+document.querySelectorAll('.seg-b').forEach(b=>b.addEventListener('click', ()=>applyDir(b.dataset.dir)));
+document.getElementById('histRow').addEventListener('click', e=>{
+  if(e.target.closest('[data-act2="clrHist"]')){
+    if(!confirm('清空全部搜索历史？此操作无法撤销。')) return;
+    hist = []; localStorage.removeItem(HKEY); renderHist(); return;
+  }
+  const del = e.target.closest('[data-del]');
+  if(del){ hist.splice(+del.dataset.del, 1); localStorage.setItem(HKEY, JSON.stringify(hist)); renderHist(); return; }
+  const it = e.target.closest('.hitem');
+  if(it){
+    const h = hist[+it.dataset.i]; if(!h) return;
+    qEl.value = h.t;
+    applyDir(h.m);   /* 连当时用的方向一起恢复，省得再切一次 */
+  }
+});
+/* 键盘快捷键：手不离键盘也能搜 */
+document.addEventListener('keydown', e=>{
+  const t = (e.target.tagName || '').toLowerCase();
+  const typing = t === 'input' || t === 'select' || t === 'textarea';
+  if((e.key === '/' && !typing) || ((e.ctrlKey || e.metaKey) && (e.key === 'k' || e.key === 'K'))){
+    e.preventDefault(); qEl.focus(); qEl.select(); return;
+  }
+  if(e.key === 'Escape'){
+    if(document.activeElement === qEl){ if(qEl.value){ qEl.value = ''; page = 1; render(); } else qEl.blur(); }
+    return;
+  }
+  if(e.altKey && e.code === 'KeyR'){ e.preventDefault(); applyDir(dir === 'fwd' ? 'rev' : 'fwd'); return; }
+  if(e.altKey && e.code === 'KeyF'){ e.preventDefault(); toggleFavFilter(); return; }
+});
 document.getElementById('more').addEventListener('click', wantMore);
 document.getElementById('mMore').addEventListener('click', wantMore);
 document.getElementById('showTrans').addEventListener('change',function(){

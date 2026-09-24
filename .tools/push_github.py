@@ -15,6 +15,7 @@ import base64
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.request
 
@@ -30,23 +31,33 @@ SKIP_EXT = {".pyc", ".pyo", ".png", ".jpg", ".jpeg", ".zip", ".exe"}
 MAX_BYTES = 45 * 1024 * 1024
 
 
-def req(method, path, token, body=None, raw=False):
+def req(method, path, token, body=None, raw=False, tries=4):
+    """发一次 API 请求。网络抖动（连接被对端关掉 / 超时）自动重试，
+       否则 51 个文件传到一半断一次就整个白跑。HTTP 4xx/5xx 不重试，那不是抖动。"""
     url = path if path.startswith("http") else API + path
     data = json.dumps(body).encode() if body is not None else None
-    r = urllib.request.Request(url, data=data, method=method)
-    r.add_header("Authorization", "Bearer " + token)
-    r.add_header("Accept", "application/vnd.github+json")
-    r.add_header("User-Agent", "cet4-word-miner-push")
-    r.add_header("X-GitHub-Api-Version", "2022-11-28")
-    if data:
-        r.add_header("Content-Type", "application/json")
-    try:
-        with urllib.request.urlopen(r, timeout=60) as resp:
-            txt = resp.read().decode()
-            return resp.status, (txt if raw else (json.loads(txt) if txt else {}))
-    except urllib.error.HTTPError as e:
-        detail = e.read().decode()[:400]
-        return e.code, detail
+    last = None
+    for attempt in range(tries):
+        r = urllib.request.Request(url, data=data, method=method)
+        r.add_header("Authorization", "Bearer " + token)
+        r.add_header("Accept", "application/vnd.github+json")
+        r.add_header("User-Agent", "cet4-word-miner-push")
+        r.add_header("X-GitHub-Api-Version", "2022-11-28")
+        if data:
+            r.add_header("Content-Type", "application/json")
+        try:
+            with urllib.request.urlopen(r, timeout=60) as resp:
+                txt = resp.read().decode()
+                return resp.status, (txt if raw else (json.loads(txt) if txt else {}))
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode()[:400]
+            return e.code, detail
+        except (urllib.error.URLError, OSError) as e:
+            last = e
+            if attempt < tries - 1:
+                time.sleep(1.5 * (attempt + 1))
+                continue
+    return 0, f"network error: {type(last).__name__}: {last}"
 
 
 def collect():
